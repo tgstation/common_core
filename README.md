@@ -3,7 +3,7 @@ This wiki is a repository of lore for the codebase, that can be referenced in pu
 
 # What This Is Not
 
-This is not an exhaustive effort to catalog the universe of SS13 in great detail, as with Baystation. Rather, it is a collection of ideas and starting points for you to use IC with other players to generate interesting conversations and events. It is also not defined in the code and thus truly "canonical", as Goonstation has done. Unless someone separately decides to submit code referencing info from this project and the separate /tg/station code maintenance team approves it, this is all essentially a shared headcanon/collective fever dream.
+This is not an exhaustive effort to catalog the universe of SS13 in great detail, as with Baystation. Rather, it is a collection of ideas and starting points for you to use IC with other players to generate interesting conversations and events. It is as close to canonical lore as you will get for the /tg/station codebase, however people are not required to use this lore, nor are maintainers bound to it.
 
 
 # The Setting
