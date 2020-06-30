@@ -48,6 +48,6 @@ Random things and facts that don't deserve their own article or I haven't gotten
 # Further reading
 [Nanotrasen, the big cheese themselves](https://github.com/tgstation/common_core/blob/master/Nanotrasen.md)
 
-[Syndicate corps](https://github.com/tgstation/common_core/blobl/master/Syndicate.md)
+[Syndicate corps](https://github.com/tgstation/common_core/blob/master/Syndicate.md)
 
 [Governance in the common core universe](https://github.com/tgstation/common_core/blob/master/Governments.md)
