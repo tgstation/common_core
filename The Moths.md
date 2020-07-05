@@ -44,47 +44,47 @@ The lawsuit was later dropped due to more evidence pointing to the CEO of Mothba
 
 The CEO of Nanotrasen had this to say in a statement:
 	
-"So we just found a new species of space dwelling creatures and we just now stumble upon the information that they own one of the most coveted and illustrious clothing retailers in the known galaxy? How did this slip past you? I thought the media was supposed to have some of the most well informed investigative individuals and you dumbasses didn't even know that a moth was running that shit? Did you all think they were just space Japanese? How did they slip past us? Can somebody please tell me where they even came from? What do we pay you for?!"
+> _"So we just found a new species of space dwelling creatures and we just now stumble upon the information that they own one of the most coveted and illustrious clothing retailers in the known galaxy? How did this slip past you? I thought the media was supposed to have some of the most well informed investigative individuals and you dumbasses didn't even know that a moth was running that shit? Did you all think they were just space Japanese? How did they slip past us? Can somebody please tell me where they even came from? What do we pay you for?!"_
 
 ***
 
 # Behaviorism
 
-### A recent study was conducted on moths to study their culture and behavior. These are some of the results (note: These results were a selected random sample of moths and may not encompass all moth behavior. Just the general ones):
+ **A recent study was conducted on moths to study their culture and behavior. These are some of the results (_note: These results were a selected random sample of moths and may not encompass all moth behavior. Just the general ones_):**
 
-*Shame is not something Moths readily feel. Especially not from other species.
+* Shame is not something Moths readily feel. Especially not from other species.
 
-*Moths have shown little interest in forming moth only groups, instead, observations have pointed to the conclusion that moths are more reclusive than most other xeno species.
+* Moths have shown little interest in forming moth only groups, instead, observations have pointed to the conclusion that moths are more reclusive than most other xeno species.
 
-*The antennas of a moth serve as a receptor for their sense of smell. Their wings become less functional in areas where the gravitational pull is stronger.
+* The antennas of a moth serve as a receptor for their sense of smell. Their wings become less functional in areas where the gravitational pull is stronger.
 
-*Moths are very keen to smell, it is a preferable sense and they often use a variety of smells to coat themselves in.
+* Moths are very keen to smell, it is a preferable sense and they often use a variety of smells to coat themselves in.
 
-*Moths are very cute and fluffy. They know this and often they tend to use it to their advantage.
+* Moths are very cute and fluffy. They know this and often they tend to use it to their advantage.
+ 
+* Their "fluff" is more akin to scales than human hair. It is used for sensory input and will glimmer upon falling off. As a show of dramatism Moths will throw around their scales in a similar way humans toy with glitter.
 
-*Their "fluff" is more akin to scales than human hair. It is used for sensory input and will glimmer upon falling off. As a show of dramatism Moths will throw around their scales in a similar way humans toy with glitter.
+* Moth wings are useless outside of low gravity environments but Moths will often pride themselves on their wings and flaunt them around. 
 
-*Moth wings are useless outside of low gravity environments but Moths will often pride themselves on their wings and flaunt them around. 
+* Moth wings are very precious to moths and they will often preserve them with their lives.
 
-*Moth wings are very precious to moths and they will often preserve them with their lives.
+* Most Moths are not very combat able. They shock easily, they're susceptible to bright flashes, and so on. Most moths take the peaceful route.
 
-*Most Moths are not very combat able. They shock easily, they're susceptible to bright flashes, and so on. Most moths take the peaceful route.
+* In conflict situations they instinctively scratch at their foe rather than punch.
 
-*In conflict situations they instinctively scratch at their foe rather than punch.
+* Some more isolated moths have their own religion which is based around space moth deities. These deities appear to represent positive ideals that shine through the darkness of existence and the moths frequently call themselves lightseekers.
 
-*Some more isolated moths have their own religion which is based around space moth deities. These deities appear to represent positive ideals that shine through the darkness of existence and the moths frequently call themselves lightseekers.
+* Their religion usually calls for isolative self exploration. This usually leads to isolated lives of solitude.
 
-*Their religion usually calls for isolative self exploration. This usually leads to isolated lives of solitude.
-
-*Moths by nature are very considerate of others and this distends to other species. They often think about their companions before they think about themselves.
+* Moths by nature are very considerate of others and this distends to other species. They often think about their companions before they think about themselves.
 
 *Moths tend to be very deceptive with their language. If they have something negative to say to someone they will often not say it at all, this leads to resentment among their peers.
 
-*Moths often form monogamous relationships and choose their mate primarily by smell rather than looks. Their powerful sense of smell can penetrate the masking of most deodorants.
+* Moths often form monogamous relationships and choose their mate primarily by smell rather than looks. Their powerful sense of smell can penetrate the masking of most deodorants.
 
-*By no means do moths believe they can physically intimidate other creatures and instead opt for underhanded tactics.
+* By no means do moths believe they can physically intimidate other creatures and instead opt for underhanded tactics.
 
-*Mothra is a very popular hero among the Moth community and most conflicts in Kaiju conventions are usually caused by uppity Moths.
+* Mothra is a very popular hero among the Moth community and most conflicts in Kaiju conventions are usually caused by uppity Moths.
 
 ***
 
@@ -96,7 +96,7 @@ These controversial acts have turned some human superiority groups against moths
 
 To address the racial tension buildup, CEO of Cottonball Core had this to say:
 
-"So I am to believe you just happened to just now notice us? Really? We've been around for years, decades and just now I get asked why I'm a moth." 
+> _"So I am to believe you just happened to just now notice us? Really? We've been around for years, decades and just now I get asked why I'm a moth."_ 
 
 ***
 
@@ -112,6 +112,6 @@ All non moth personnel that have witnessed the attacks say the same thing. They'
 
 When moths tell the story however, there's a minor change. They hear them. They claim that the natives somehow echo their voice in a more primitive form of moffic. It rings through their minds, yet that's as far as they go. No moth has been able to establish a manner to communicate with these natives, let alone find them. All they say is that the echoing grows louder as they come nearer, and when they're closeby they can hear the echoes of their victims screaming in agony. 
 
-The rest of the crewmembers claim not to hear the echoing madness. Instead they claim that the most paralyzing aspect of the natives is the rotten stench that follows them.
+The rest of the crewmembers claim not to hear the echoing madness. Instead they claim that the most paralyzing aspect of the natives is the _smell._
 
 ***
