@@ -6,6 +6,8 @@
 
 ***
 
+## A new discovery!
+
 The year is 2556. A nanotrasen inspection ship has arrived at one of their corporate space stations. Inspection is going smoother than projected, "The big shots will be glad to hear - as well as you- that your inspection has gone without a hitch! I will notif- Dear God, what the fuck is that?!" The inspector quickly points at a bipedal humanoid creature chewing on a pair of formerly freeze dried machine vended panties. Without hesitation the inspector's guards begin the wild hunt as the creature runs into maintenance. Stranger even, the crew has begun to intervene and began purposely antagonizing the inspector and his guards in defence of the moth, their "crewmate". It fails, and eventually the moth man is caught.
 
 He spoke english well enough, and the crew had already become familiar with him. When pressed on the matter the heads of staff commonly reported, "I thought he was just another crew member." Indeed the inspector had found the creature's supposed name on the crew manifest.
@@ -16,15 +18,15 @@ Soon after, he left the station with the moth man and began a press conference w
 
 Most peculiarly however, when the moth man was presented to the higher ups the inspector was met with familiarity and indifference. Apparently moth folk were already a common sight around stations and colonies. At that historical moment the Dumbfounded inspector asked why there has been no documentation or intel collection about this undocumented species.
 
-At that moment, the CEO straightened up in his chair and looked around and asked, "Wait, they aren't documented... Actually... thinking back on it, I don't ever remember where they came from. Arnold, why aren't they documented?" He pointed at Arnold who quickly responded, "I-I don't know, I thought they were already documented, they've been around for so long I didn't bother checking, some of them are on my staff, some of the-"
+At that moment, the CEO straightened up in his chair and looked around and asked, _"Wait, they aren't documented... Actually... thinking back on it, I don't ever remember where they came from. Arnold, why aren't they documented?"_ He pointed at Arnold who quickly responded, _"I-I don't know, I thought they were already documented, they've been around for so long I didn't bother checking, some of them are on my staff, some of the-"_
 
-And just then, Arnold trailed off and the CEO had realized something. He looked over to one of his long time friends and admiral. Admiral Abraflap Linton was sitting in his chair pursing his lips and staring down at his lap.
+And just then, Arnold trailed off and the CEO had realized something. He looked over to one of his long time friends and admiral. Admiral Abraflap Linton was sitting in his chair slowly clicking his mandibles and staring down at his lap.
 
 ***
 
 ## Description:
 
-The Moth folk. A recent addition to the Nanotrasen list of Xeno crew. Contrary to popular belief, these moth folk weren't really acknowledged until they bled into crew manifests. Their origin is unknown, even they're a little fuzzy on the details, they remember being a part of Nanotrasen's crew for as long as they can remember really.
+_The Moth folk._ A recent addition to the Nanotrasen list of Xeno crew. Contrary to popular belief, these moth folk weren't really acknowledged until they bled into crew manifests. Their origin is unknown, even they're a little fuzzy on the details, they remember being a part of Nanotrasen's crew for as long as they can remember really.
 
 Part of this phenomenon is their seamless assimilation to their mostly human neighbors and their reclusive nature. They've blended in so well, they don't even remember their exact origin. 
 
@@ -34,11 +36,11 @@ Common interactions between moths and humans often involve clothes related scand
 
 That is not to say they often do this, this is an intimate interaction they acknowledge and understand, since they also (surprisingly) wear clothing. This smell hunt is usually a part of a behavior they call "infatuation". Because of this, some moths have been able to capitalize on this instinct.
 
-In 2500 a clothes retailing company arose in response to high demand from distant less noticeable colonies, Cottonball Core. They specialized in comfortable clothing with a lot of breathability, but that was not what they became known for.
+In 2500 a clothes retailing company arose in response to high demand from distant less noticeable colonies, **Cottonball Core**. They specialized in comfortable clothing with a lot of breathability, but that was not what they became known for.
 
 Recently, there have been new vending machines popping up regularly around colonies, and even in a few stations. Vending machines that sell used undergarments from popular idols and celebrities from around the Galaxies. Strangest of all is their variety.
 
-Nanotrasen has recently been displeased and has even led disgust campaigns against such sales (partly because they're not profiting from it). When they pressed the owner of Cottonball Core with a sexual indecency lawsuit they were astounded to find that the Mothball Core CEO was none other than Mothball Payne who assured Nanotrasen that the vending machines were a catering business. 
+Nanotrasen has recently been displeased and has even led disgust campaigns against such sales (partly because they're not profiting from it). When they pressed the owner of Cottonball Core with a sexual indecency lawsuit they were astounded to find that the Mothball Core CEO was none other than Claurice Woolery who assured Nanotrasen that the vending machines were a catering business. 
 
 The lawsuit was later dropped due to more evidence pointing to the CEO of Mothball Core's claim (to Nanotrasen's horror). 
 
@@ -78,7 +80,7 @@ The CEO of Nanotrasen had this to say in a statement:
 
 * Moths by nature are very considerate of others and this distends to other species. They often think about their companions before they think about themselves.
 
-*Moths tend to be very deceptive with their language. If they have something negative to say to someone they will often not say it at all, this leads to resentment among their peers.
+* Moths tend to be very deceptive with their language. If they have something negative to say to someone they will often not say it at all, this leads to resentment among their peers.
 
 * Moths often form monogamous relationships and choose their mate primarily by smell rather than looks. Their powerful sense of smell can penetrate the masking of most deodorants.
 
@@ -96,7 +98,7 @@ These controversial acts have turned some human superiority groups against moths
 
 To address the racial tension buildup, CEO of Cottonball Core had this to say:
 
-> _"So I am to believe you just happened to just now notice us? Really? We've been around for years, decades and just now I get asked why I'm a moth."_ 
+> _"Wait, you guys didn't know I was a moth?"_ 
 
 ***
 
