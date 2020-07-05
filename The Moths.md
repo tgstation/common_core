@@ -22,7 +22,7 @@ And just then, Arnold trailed off and the CEO had realized something. He looked 
 
 ***
 
-##Description:
+## Description:
 
 The Moth folk. A recent addition to the Nanotrasen list of Xeno crew. Contrary to popular belief, these moth folk weren't really acknowledged until they bled into crew manifests. Their origin is unknown, even they're a little fuzzy on the details, they remember being a part of Nanotrasen's crew for as long as they can remember really.
 
@@ -48,9 +48,9 @@ The CEO of Nanotrasen had this to say in a statement:
 
 ***
 
-#Behaviorism
+# Behaviorism
 
-## A recent study was conducted on moths to study their culture and behavior. These are some of the results (note: These results were a selected random sample of moths and may not encompass all moth behavior. Just the general ones):
+### A recent study was conducted on moths to study their culture and behavior. These are some of the results (note: These results were a selected random sample of moths and may not encompass all moth behavior. Just the general ones):
 
 *Shame is not something Moths readily feel. Especially not from other species.
 
