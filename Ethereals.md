@@ -1,6 +1,6 @@
 # The Ethereals
 
->"Captain's log, Estimated year 2455.
+"Captain's log, Estimated year 2455.
 
 >We have come across a strange large mass in orbit around Hyper Star 2533, it has vexed our scientests. I fear that I am not good enough at talking to begin describing what I see. I want to say it sorta looks like Jupiter, covered in gaseous storm clouds, but that's not the weird part. The clouds look sort of like the great mother earth's clouds, but they just cover...well the whole thing. But that's not the weird part, upon circling the planet we noticed it shined a certain way. You ever see a bubble in the light? It kinda shines like that. I shouldn't really take credit for that, our scientists were the ones that said it appears to be encased in a bubble. We're gonna visit the planet soon. It may seem rash, but I, Plutonius McBartelone fear no bubble, and my scholarly inclined crew feel just as brave. I hope to bring great discoveries. Over and out."
  
