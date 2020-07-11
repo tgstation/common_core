@@ -20,7 +20,6 @@ That is until a TGMC warship recieved a transmission from McBartelone once more.
 
 ## Gaia
 
-<<<<<<< HEAD
 The year is 2506 in the bleak edges of the Lodossian Solar System came a visitor to the puny TerraGov Marine Warship. Or in a better sense, a traveller revealed itself to _it's_ visitors.
 
 A clear blotch in the stars slowly began to tear away and a pale glistening drop of silver had began to manifest over the stars with an almost incandescent arrogance. This process began slowly and would take many hours, but that wasn't the only visitor to the Marines. A ship was headed in the direction of the warship from the general direction of the slowly revealing pearl. The commanding office of the warship attempted to establish contact with the unknown ship. And the ship gave its credentials.
@@ -65,17 +64,7 @@ The first Slime.
 
 ***
 
-## Description:
-=======
-The year is 2506 in the bleak edges of the Lodossian Solar System came a visitor to the puny TerraGov Marine Warship has arrived. Or in a better sense, a traveller revealed itself to it's visitors.
-
-A clear blotch in the stars had slowly began to tear away and a pale glistening drop of silver had began to manifest over the stars with grand incandescent arrogance. This process took many hours, but that wasn't the only visitor to the Marines. A ship had arrived, no doubt from the general direction of the slowly revealing pearl.
-
-S.S. Lunamore V.
-
-This was the name that escaped the lips of the onlookers in the commander's cockpit, no one could believe it. S.S. Lunamore IV, a research ship that had lost itself to the stars. A rather old and outdated ship. It came visiting the war craft and from its communication devices came a promise of an unforgettable reencounter. It was a marvelous ship. The hull that was once a dated barely functioning metal brick had it's old plating had been replaced with sleek weapons grade plastic and was fashioned into a marvelous sturdy looking tube. The thrusters which once carried arrogant men across the stars were now lacking, but in their place were a glorious collection of ropes, each blazing at the end while they span in unison to propel the cockpit. The cockpit, oh the cockpit. What was once a metal coffin fitting a crew of 5 cramped men behind a thin piece of pathetic glass had been reimagined into a beautiful 20-sided structure, each side being a flat triangular panel of an unknown crystalline structure. Each triangle glowed marvelously, each a color unlike the others, as it got closer to the bewitched men they could see that each panel had a tube growing inwards. Each tube was a marvelous light that seemed to bring unnecessary attention to the cockpit. There were those that in its glory stared too long they had to look away. And in their after image of the lights, they saw that in the center of each tube, was a humanoid figure.
->>>>>>> 91abb3191d41fe0cce20bc5656e07da421cf5a0b
-
+## Description: 
 
 
 
