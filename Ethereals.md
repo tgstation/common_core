@@ -108,9 +108,9 @@ Ethereals follow loose methods of naming their offspring or naming themselves af
 
 Human to Ethereal conversion:
 
-(Their First name)+(Roman Numeral)
+**(Their First name)+(Roman Numeral)**
 
-(Planet)+(Roman Numeral)
+**(Planet)+(Roman Numeral)**
 
 On the other hand, colony born Ethereals tend to be more creative with their names because of their disposition to be more adventurous. Here are two of the most common methods:
 
