@@ -106,9 +106,9 @@ To address the racial tension buildup, CEO of Cottonball Core had this to say:
 
 Moths are one of the most varied in terms of how they name themselves. They aren't very receptive to the stereotypes humans set for them and might even name their offspring with these puns themselves. Most often than not moths follow these naming methods:
 
-(Proper Noun) + (Improper Noun)
+**(Proper Noun) + (Improper Noun)**
 
-Examples:
+**Examples:**
 
 Zeus Bolt
 
@@ -118,9 +118,9 @@ Colorado Flower
 
 Encino Moth
 
-(Normal Name Mixed with a Pun)
+**(Normal Name Mixed with a Pun)**
 
-Examples:
+**Examples:**
 
 Abraflap Linton
 
