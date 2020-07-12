@@ -114,9 +114,9 @@ Human to Ethereal conversion:
 
 On the other hand, colony born Ethereals tend to be more creative with their names because of their disposition to be more adventurous. Here are two of the most common methods:
 
-*(Color)+(noun)*
+**(Color)+(noun)**
 
-*Examples:*
+**Examples:**
 
 Blue Lazarus
 
@@ -126,9 +126,9 @@ Gold Ember
 
 Golden Destiny
 
-*(Song Name)*
+**(Song Name)**
 
-*Examples:*
+**Examples:**
 
 La Traviata
 
@@ -142,7 +142,7 @@ Kickstart My Heart
 
 # Technological Boom
 
-The technology provided from the living planet, _Gaia_, has brought upon it many mysteries and new methodology of science, commonly referred to as ­_Xenobiology_. It's commonly speculated and feared that the gargantuan god-like being has no need for maintaining its ties with TerraGov.
+The technology provided from the living planet, _Gaia_, has brought upon it many mysteries and new methodology of science, commonly referred to as ­_Xenobiology._ It's commonly speculated and feared that the gargantuan god-like being has no need for maintaining its ties with TerraGov.
 
 And why should it? It refers to the slimes we so carefully and meticulously study now as mere bacteria in the edges of its body, and the Ethereals as mobile neurons. Even the ships it provides to its denizens are spectacles, appearing as slow moving bacteriophages in the empty abyss of space. It has bridged biology with technology in methods never dreamed of. Even now it has provided prototypes for small mining ships in the form of bacteria, and robotic blueprints appearing like viruses. Roboticists and Scientists alike are marveled by the planet's method of maximizing efficiency by meshing technology with biology seamlessly.
 
