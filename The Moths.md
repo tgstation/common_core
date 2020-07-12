@@ -102,6 +102,32 @@ To address the racial tension buildup, CEO of Cottonball Core had this to say:
 
 ***
 
+# Naming Procedures
+
+Moths are one of the most varied in terms of how they name themselves. They aren't very receptive to the stereotypes humans set for them and might even name their offspring with these puns themselves. Most often than not moths follow these naming methods:
+
+(Proper Noun) + (Improper Noun)
+
+Examples:
+
+Zeus Bolt
+
+Chicago Wind
+
+Colorado Flower
+
+Encino Moth
+
+(Normal Name Mixed with a Pun)
+
+Examples:
+
+Abraflap Linton
+
+Hug Bug
+
+(Otherwise they may also have names with Scandinavian or Latin origins)
+
 # Speculations
 
 There has been an uprise in reports regarding attacks on a station situated on a classified frigid location. These reports all mention the same thing: There are native moths out there besetting the station in an attempt to pull victims into the icy madness below. 
