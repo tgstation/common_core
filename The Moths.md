@@ -128,6 +128,8 @@ Hug Bug
 
 (Otherwise they may also have names with Scandinavian or Latin origins)
 
+***
+
 # Speculations
 
 There has been an uprise in reports regarding attacks on a station situated on a classified frigid location. These reports all mention the same thing: There are native moths out there besetting the station in an attempt to pull victims into the icy madness below. 
