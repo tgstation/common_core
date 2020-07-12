@@ -114,9 +114,9 @@ Human to Ethereal conversion:
 
 On the other hand, colony born Ethereals tend to be more creative with their names because of their disposition to be more adventurous. Here are two of the most common methods:
 
-(Color)+(noun)
+*(Color)+(noun)*
 
-Examples:
+*Examples:*
 
 Blue Lazarus
 
@@ -126,9 +126,9 @@ Gold Ember
 
 Golden Destiny
 
-(Song Name)
+*(Song Name)*
 
-Examples:
+*Examples:*
 
 La Traviata
 
