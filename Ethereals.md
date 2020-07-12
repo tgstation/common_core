@@ -18,7 +18,7 @@ Regardless of it all, it failed, for the next 50 years the tale had become an ur
 
 That is until a TGMC warship received a transmission from McBartelone once more.
 
-## Gaia
+# Gaia
 
 The year is 2506 in the bleak edges of the Lodossian Solar System came a visitor to the puny TerraGov Marine Warship. Or in a better sense, a traveller revealed itself to _it's_ visitors.
 
@@ -68,7 +68,7 @@ The first gift of the mother planet. Slimes.
 
 ***
 
-## Description:
+# Description:
 
 _The ever dazzling Ethereals._ These creatures are as mysterious as they are mystifying. Following the Lunamore incident Nanotrasen took it upon themselves to induct these electronic phenomenons for fears that their opposition might do the same. The seemingly sentient planet that bore these creatures has provided strange but hyper efficient technology that is still being understood by NT researchers, creating an ominous glimmer in the eyes of competitors. For this reason, the symbiotic relationship between NT and the _living planet_ are more than welcome by TerraGov as they fear losing them to the wrong hands.
 
@@ -82,25 +82,25 @@ No probe has been allowed on the sentient planet, and any human that has attempt
 
 Their biology remains the same in most of their biological systems, entirely different in others. They trade their capacity to survive by normal means for becoming, for lack of a better allegory, large sentient flesh batteries. They trade their blood for electrical fluid, and their pigmentation for a sequence of incandescent cells. They're still biological yet they illuminate like human shaped stars. Their once stranded keratin hair become strings of energy that flow like strings of plasma, still tethered to gravity. Organs replaced with biocrystals, ensuring their immortality. They become semi-androgynous and can change their biological sex at will, and yet they play coy of being fashioned to be humans modified by their creator. Creator who took invasive humans and dissected their blueprints, eagerly awaiting humans to arrive for modification. And if none come, rest assured, _mother_ can make more.
 
-## Behavior:
+# Behavior:
 
 Despite the origin of their race, not all ethereals are born from their mother planet, some are born alongside other races on colonies and with humans on sol. Those born from the planet have stated their intentions bluntly to humanity.
 
-Gaia, the mother planet, was mostly insentient until the arrival of Lunamore IV. Once she got her hands on humans she adopted their curiosity and felt she lacked something these small creatures had: Limitations. In response, she rebuilt the crew she dissassembled into a form she found more befitting, and created multiple more, with specific instructions. Live.
+Gaia, the mother planet, was mostly insentient until the arrival of Lunamore IV. Once she got her hands on humans she adopted their curiosity and felt she lacked something these small creatures had: Limitations. In response, she rebuilt the crew she disassembled into a form she found more befitting, and created multiple more, with specific instructions. Live.
 
-Because she is a near limitless mass, she cannot live as humans to understand them directly. She thus sends out Ethereals to live for her, and near their death they instinctively seek out the mother and either dissapear near old age, or their brain dissapears some time after their death (if it is found that is). Their structure and function is akin to neurons, and they return to the host to exchange information. That is their purpose, and only the natives know it well.
+Because she is a near limitless mass, she cannot live as humans to understand them directly. She thus sends out Ethereals to live for her, and near their death they instinctively seek out the mother and either disappear near old age, or their brain disappears some time after their death (if it is found that is). Their structure and function is akin to neurons, and they return to the host to exchange information. That is their purpose, and only the natives know it well.
 
-Those born off planet and without the influence are stil subject to these instincts of return and retrieval, even those that die a normal death have their brains dissapear in unforseen circumstances later on. They still retain this instinct of living a varied and fruitful life to gather as much experience in life as possible.
+Those born off planet and without the influence are still subject to these instincts of return and retrieval, even those that die a normal death have their brains disappear in unforeseen circumstances later on. They still retain this instinct of living a varied and fruitful life to gather as much experience in life as possible.
 
-There is a large spectrum of experiences one can live, and the same can be said of Ethereal personalities, though they seem to know what their goals are from the getgo, those that don't act in the way they were predestined to, but just won't remember it.
+There is a large spectrum of experiences one can live, and the same can be said of Ethereal personalities, though they seem to know what their goals are from the get go, those that don't act in the way they were predestined to, but just won't remember it.
 
 All Ethereals have their life planned out during their creation, and remember their plans for anything they encounter, it is those who are "born" conventionally that forget after their birth. The planning is still there, it's just forgotten, but still acted.
 
-This often leads to Ethereals pronouncing any action they take in response to any stimulus as predetermined by their "plan". For example, an Ethereal will go out looking for a spouse in order to marry them and live a long life with aforementioned spouse, but once they get married they will have multiple affairs and let them be known. For humans this can be attributed to mistakes or changes in frameworks, for the ethereal it was planned from the getgo, from the moment they were created or born they planned for the scenario to occur as it was, the main difference between a previously human ethereal and a natally born one is that the natally born one will forget their plan on birth.
+This often leads to Ethereals pronouncing any action they take in response to any stimulus as predetermined by their "plan". For example, an Ethereal will go out looking for a spouse in order to marry them and live a long life with the aforementioned spouse, but once they get married they will have multiple affairs and let them be known. For humans this can be attributed to mistakes or changes in frameworks, for the ethereal it was planned from the get go, from the moment they were created or born they planned for the scenario to occur as it was, the main difference between a previously human ethereal and a natally born one is that the natally born one will forget their plan on birth.
 
-Ethereals are a grab bag of personalities that can change at any time without warning, making them volotile and quite frankly to blame for the decision to make all staff heads humans on research stations for fear of loyalty aversion.
+Ethereals are a grab bag of personalities that can change at any time without warning, making them volatile and quite frankly to blame for the decision to make all staff heads humans on research stations for fear of loyalty aversion.
 
-There is a common thing about all Ethereals, they all enjoy music above all, because of this it is hypothesized that at the end of their life their tale is told to the mother in the form of a song. 
+There is a common thing about all Ethereals, they all enjoy music above all, because of this it is hypothesized that at the end of their life their tale is told to the mother in the form of a song.
 
 ## Naming Procedures
 
@@ -115,15 +115,36 @@ Human to Ethereal conversion:
 On the other hand, colony born Ethereals tend to be more creative with their names because of their disposition to be more adventurous. Here are two of the most common methods:
 
 (Color)+(noun)
+
 Examples:
+
 Blue Lazarus
+
 Red Amulet
+
 Gold Ember
+
 Golden Destiny
 
 (Song Name)
-Examples: 
+
+Examples:
+
 La Traviata
-Clair De Luna
+
+Clair De Lune
+
 Malaguena
+
 Kickstart My Heart
+
+***
+
+# Technological Boom
+
+The technology provided from the living planet, _Gaia_, has brought upon it many mysteries and new methodology of science, commonly referred to as ­_Xenobiology_. It's commonly speculated and feared that the gargantuan god-like being has no need for maintaining its ties with TerraGov.
+
+And why should it? It refers to the slimes we so carefully and meticulously study now as mere bacteria in the edges of its body, and the Ethereals as mobile neurons. Even the ships it provides to its denizens are spectacles, appearing as slow moving bacteriophages in the empty abyss of space. It has bridged biology with technology in methods never dreamed of. Even now it has provided prototypes for small mining ships in the form of bacteria, and robotic blueprints appearing like viruses. Roboticists and Scientists alike are marveled by the planet's method of maximizing efficiency by meshing technology with biology seamlessly.
+
+It's no wonder that Nanotrasen has amassed so many bitter and resentful enemies.
+
