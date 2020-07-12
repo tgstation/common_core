@@ -33,6 +33,8 @@ Part of this phenomenon is their seamless assimilation to their mostly human nei
 How it is that moths came to forget their own home planet is beyond comprehension. At most, some of the more elderly ones say they just saw a station or a colony and decided to just "hang out."
 
 Common interactions between moths and humans often involve clothes related scandals as moths often crave clothing for easy Keratine to aid in the maintenance and sheen of their scales. The issue comes when they prowl for worn items because they carry with them a "scent" or as they like to call it, a flavor. 
+=======
+Common interactions between moths and humans often involve clothes related scandals as moths often crave clothing for easy Keratine to aid in the maintenance and sheen of their scales.
 
 That is not to say they often do this, this is an intimate interaction they acknowledge and understand, since they also (surprisingly) wear clothing. This smell hunt is usually a part of a behavior they call "infatuation". Because of this, some moths have been able to capitalize on this instinct.
 
@@ -82,7 +84,11 @@ The CEO of Nanotrasen had this to say in a statement:
 
 * Moths tend to be very deceptive with their language. If they have something negative to say to someone they will often not say it at all, this leads to resentment among their peers.
 
+
 * Moths often form monogamous relationships and choose their mate primarily by smell rather than looks. Their powerful sense of smell can penetrate the masking of most deodorants.
+
+* Moths often form monogamous relationships and choose their mate primarily by smell rather than looks.
+
 
 * By no means do moths believe they can physically intimidate other creatures and instead opt for underhanded tactics.
 
@@ -101,6 +107,7 @@ To address the racial tension buildup, CEO of Cottonball Core had this to say:
 > _"Wait, you guys didn't know I was a moth?"_ 
 
 ***
+
 
 # Naming Procedures
 
@@ -143,5 +150,3 @@ All non moth personnel that have witnessed the attacks say the same thing. They'
 When moths tell the story however, there's a minor change. They hear them. They claim that the natives somehow echo their voice in a more primitive form of moffic. It rings through their minds, yet that's as far as they go. No moth has been able to establish a manner to communicate with these natives, let alone find them. All they say is that the echoing grows louder as they come nearer, and when they're closeby they can hear the echoes of their victims screaming in agony. 
 
 The rest of the crewmembers claim not to hear the echoing madness. Instead they claim that the most paralyzing aspect of the natives is the _smell._
-
-***
