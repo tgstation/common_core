@@ -30,3 +30,23 @@ This power dynamic has begun to change in recent years, however, as TerraGov bec
 Notes:
 * A popular living location for nearby NT crewmembers who are unsatisfied living on NT property and want more freedom and normalcy in their off time. Most seasoned employees can afford a decent living space on one of the planets or orbital facilities, and the commute from the SSC core to NT's Peripheral Dispatch Station is only a day or two by mass transit. If your character has a private apartment or domicile nicer than a closet and isn't at least a head of staff, they probably live here.
 * Lots of neat tourist and recreational destinations for crewmembers on leave from work! The locals will probably hate you though, because of what some dumb band of assistants did to the place last weekend. And the weekend before that. And the weekend before that.......
+
+# The Lizard Empire
+
+Location: Spinward of the station, Capital on Tizira in the Rizkalon System
+
+Type of Org: Galactic Governing Body
+
+Description: The Lizard Empire is composed of the holdings of the Lizard People. Despite their relatively long time in the Space Age, at least compared to humans, their historic lack of access to plasma and bluespace resources have stifled their development, leaving them technologically backwards in comparison to their newer Galactic competition. Prior wars between Terragov and the Lizards have resulted in a loss of territory, which has lead to a decline in their presence on the galactic level. The central government on Tizira struggles to project power to their further colonies, and a large exodus of lizards to human space has only exacerbated this issue.
+
+This power vacuum left by the Imperial decline has resulted in several systems once held by the lizards being lost- small petty republics, corporate expeditions, and pirates have risen to capture these territories.
+
+The Lizard Empire now stands weak, and threatened by forces not only external but from within. Republican and liberal forces have begun to put pressure on the government, and it seems likely that soon the centuries old Empire will be replaced with a republic.
+
+The Government consists of a constitutional monarchy, with significant limitations placed on the monarch's power, leaving them as little more than a figurehead. The military high command instead holds most of the political power in the empire, with the president usually elected from amongst the most senior military leaders.
+
+Notes:
+* While relations between the Lizards and Humans have improved somewhat in recent years, there is still a strong underlying resentment between the two species. Lizards from the core systems of the Empire are most likely to perpetuate this, while the further reaches which are more independent from Tizira may be more welcoming to humanity.
+* Conditions in the Empire vary depending on the proximity to Rizkalon- the further colonies are likely to be less prosperous, and those with the most distance from the capital are mostly sparsely-populated mining outposts and frontier worlds.
+* With the exodus of lizards from the colonies, there are many lizards in human space today who were born outwith of lizard space, and are therefore much more integrated with human society.
+* The majority of lizards who are found outwith the empire are members of the working and artisan castes- the military and priestly castes are much more likely to be loyalists to the Imperial cause and remain in the core systems.
