@@ -10,7 +10,7 @@ Taken in total, TerraGov maintains the largest fleets and wields the most resour
 
 Notes:
 
-* Most crew members are probably citizens of TerraGov and exist in their records in some form or another, unless they hail from an extremely backwoods/peripheral place.
+* Most human crew members, and many alien crew members, are probably citizens of TerraGov and exist in their records in some form or another, unless they hail from an extremely backwoods/peripheral place.
 * Nanotrasen's biggest source of funding, whether from purchasing their products or through research grants.
 * Mostly focused on expanding Trailward of Sol, especially toward Alpha Centauri. Presence near SS13 is mostly limited to a group of embassies in the Spinward Stellar Coaltion.
 
@@ -41,7 +41,7 @@ Description: The Lizard Empire is composed of the holdings of the Lizard People.
 
 This power vacuum left by the Imperial decline has resulted in several systems once held by the lizards being lost- small petty republics, corporate expeditions, and pirates have risen to capture these territories.
 
-The Lizard Empire now stands weak, and threatened by forces not only external but from within. Republican and liberal forces have begun to put pressure on the government, and it seems likely that soon the centuries old Empire will be replaced with a republic.
+The Lizard Empire now stands weak, and threatened by forces not only external but from within. Republican and liberal forces have begun to put pressure on the government, and it seems likely that soon the centuries old Empire will soon be toppled and replaced with a republic.
 
 The Government consists of a constitutional monarchy, with significant limitations placed on the monarch's power, leaving them as little more than a figurehead. The military high command instead holds most of the political power in the empire, with the president usually elected from amongst the most senior military leaders.
 
@@ -50,3 +50,4 @@ Notes:
 * Conditions in the Empire vary depending on the proximity to Rizkalon- the further colonies are likely to be less prosperous, and those with the most distance from the capital are mostly sparsely-populated mining outposts and frontier worlds.
 * With the exodus of lizards from the colonies, there are many lizards in human space today who were born outwith of lizard space, and are therefore much more integrated with human society.
 * The majority of lizards who are found outwith the empire are members of the working and artisan castes- the military and priestly castes are much more likely to be loyalists to the Imperial cause and remain in the core systems.
+* Lizards on the crew are most likely not from within the borders of the empire, however as with all things this is not a universal truth.
