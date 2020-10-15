@@ -1,4 +1,4 @@
-Ethereals are a humanoid, organic species originally found on the green planet Gaia. After researchers made first contact with them, they started calling them Ethereals. Due to their heavenly and celestial appearance. This name stuck and even the Ethereals themselves accepted the name.
+Ethereals are a humanoid, organic species originally found on the green planet Sprout. After researchers made first contact with them, they started calling them Ethereals. Due to their heavenly and celestial appearance. This name stuck and even the Ethereals themselves accepted the name.
 
 When they were first found, the Ethereals showed the capability to harness the electricity found inside their blood. However, the race was only in an early-medieval stage of its growth, and as such was not yet able to use it in many useful ways.
 
