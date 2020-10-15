@@ -6,6 +6,8 @@ When they were first found, the Ethereals showed the capability to harness the e
 
 Although scientists were originally baffled by the biology of these creatures, surprisingly enough their biology is not too far off from our own. The Ethereals have translucent flesh and skin throughout their body, filled with something that essentially account to their version of blood. This blood however, posseses electrical properties that keeps the Ethereal going. For this exact reason they also need to keep themselves charged by consuming things with electric charge, or come in contact with other electrically charged things. The brighter an Ethereal shines, the more healthy of a state it is in.
 
+One of the more unique aspects of Ethereals however, is how they create offspring. To do this they collect the stomach of a deceased Ethereal, which in their case is a form of charge-holding prism, and cover it in biological matter. After doing this they come together in some form of ritual and use their collective charge to turn the stomach into a cocoon. Although original studies thought this was a form of full-conscious reincarnation, the new Ethereal does not actually keep any of the traits of the previous Ethereal.
+
 ## Castes
 
 Due to the more ancient society Ethereals used to live in, and their capability to harness electricity, they evolved to harness their powers in specific ways relevant to what jobs they performed. These jobs turned into castes and currently there are 4 known types of Ethereals:
