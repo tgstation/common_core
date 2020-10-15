@@ -22,7 +22,7 @@ This caste is known for its care of progress, they focus on ensuring society's b
 This caste is one of the smallest, and focus on the arts and crafts. This caste started forming once Ethereals started integrating into NanoTrasen, and have the ability to create songs and pieces of art that instill feelings of joy in anyone who witnesses them.
 
 ### Soldiers
-This caste focuses on protection and preservation. This caste's purpose is to protect their homeworld from outsiders. And they want to preserve their planet only for those born on it. They are the only caste that refused to join Nanotrasen, and even threatened to attack them for coming to their world.
+This caste focuses on protection and preservation. This caste's purpose is to protect their homeworld from outsiders. And they want to preserve their planet only for those born on it. They are the only caste that refused to join Nanotrasenan, as their natural programming prevented them from abandoning their planet. They even went as far to threaten Nanotrasen to not return to the planet.
 
 # Reception
 As Ethereals went through classes to make them able to live in the modern world, they were also introduced to various stations and installations owned by Nanotrasen. Initial reactions ranged from shocked to awed. With some of the Ethereals offering to help with simple electrical repairs as soon as they arrived. However, some were not keen with the amount of luminosity the Ethereals provided, and one was reported saying "Can someone turn off this fucking lightbulb?"
