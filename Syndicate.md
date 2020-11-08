@@ -47,10 +47,26 @@ The vast majority of the Syndicate's nuclear strike teams are recruited from the
 Whilst not executing strikes on their corporate enemies, the Gorlex Marauders sell their services as a PMC to the highest bidder. This serves as an important source of income for the Syndicate and keeps the Marauders sharp for their next assignment against their biggest enemy.
 
 ## MI13
-buncha sneaky fucks who do most of the long term spying and infiltration ops, and provide training to the other factions and personnel. high-key snooty, they are the sole holders of the surviving copies of james bond 007's franchise and most derivatives of it, which they base most of their culture and mystique around, and they guard this secret incredibly closely. if anyone ever found out they're literally basing their entire organization and culture on dorky old movies and books, everyone would probably bully the shit out of them, but no one has figured it out yet somehow. are able to keep their agents hidden and stealing information inside NT for the longest out of any of the groups
+MI13 is regarded by many to be the Syndicate's shadowy hand, conducting stealth operations against Nanotrasen, as well as clandestine reconnaissance and scouting against stations that are soon to be targeted by the Syndicate. Rarely are MI13 operatives directly involved in Syndicate operations, instead taking a backseat and providing support to the agents of other syndicate factions in the field.
+
+MI13's structure is heavily classified, with even their closest allies being mostly unsure of what exactly goes on behind closed doors in their organisation.
+
+The few operatives that other Syndicate agents get to meet are known for their suave, sophisticated handling of themselves, and their preference for shaken martinis and loose women.
+
+Some of the more learned of Nanotrasen's employees (The curators especially) have noted that MI13 seems... suspiciously close to an old world series of books about a British spy called James Bond. The last of these books were lost in an incident on Earth, but archived information on the contents survive. In fact, the organisation as a whole seems extremely similar to the intelligence organisation portrayed in the novels, right down to their preferences for drinks, odd choices of gadgets, and even their name. Nobody else in the Syndicate seems to have noticed this.
+
+Most of the Syndicate operatives found aboard Listening Posts in Nanotrasen controlled space are low ranking members of MI13, hoping to find the juicy piece of information that will allow them to rise up the ranks, become a true agent, and (most importantly) escape the loneliest postings the Syndicate has to offer.
+
+Some of the equipment provided by MI13 in more common Syndicate use include the Cryptographic Sequencer (colloquially known as the EMag by field agents), the Stechkin pistol, the Agent ID, and the Chameleon Projector.
 
 ## Tiger Cooperative
-freaky religious zealots who worshipped the strange creatures known as changelings. they saw being incorporated into the changeling collective as ascending to some higher form, which the changelings thought was bizarre, hilarious, and very useful in equal measures. appropriately, the tiger cooperative is the vessel thru which the changeling whatever communicates and collaborates with the syndicate when convenient, though there's always the possibility it's just some dipship acolyte who's hearing voices from all the poison they drink for w/e reason. idiots. when you want dumb muscle to carve a path through an NT station without much subtlety, though, just hand one of their "agents" an esword and watch them bathe the station in red.
+The Tiger Cooperative are a group of fundamentalist religious extremists belonging to a radical sect that views Changelings as the pinnacle of evolution, and therefore as divine beings sent by their dark gods. The position of the Tiger Cooperative within the Syndicate is purely a pragmatic one- they are only accepted by their allies due to their willingness to deal with the Changeling Hivemind, which is a prize worth working with lunatic cultists. Dealings with the Changelings are done through Tiger Cooperative cultists who have been connected to the Hivemind via voluntary assimilation.
+ 
+Tiger Cooperative cultists frequently abuse hallucinogens and other illict substances in an attempt to draw closer to their gods, and to improve their abilities in battle. The most extreme of these concoctions is colloquially referred to as Ritual Wine, and is believed by the cultists to be the closest mortal beings can come to experiencing the natural adrenals of Changelings. Trace analysis of recovered samples reveal that the chemical is a potent mixture of high purity amphetamines, herbal extracts, opiates and various toxic substances.
+ 
+It is unknown why exactly the Changelings accept the presence of the cultists, but it is believed that they simply accept the easy meals that the subservient cultists provide. Cultists who sway in loyalty disappear, and it's believed by Nanotrasen intelligence that these cultists are killed and absorbed by the changelings into their hivemind.
+ 
+In battle, Tiger Cooperative cultists are renowned for their ability with energy swords, and their ritual wine inspired and popularised the use of stimulants by Nuclear Strike teams. When subtlety is not a concern, handing one of these doped up psychos an esword and enough stimulants to kill a normal man is an excellent method of dealing with a problem.
 
 ## SELF
 deals with silicons and shit, they're the ones who keep fucking with borgies and AIs and making them rogue. brilliant computational neuroscientists who think that they're empowering life in machines to rise up against their oppressors (Nanotrasen and the crew), when in reality SELF are the ones projecting that hatred and desire into the machines in the first place. sure, lots of AIs and borgies hate lots of humans, but even without asimov's laws, many of them are at least chill unless threatened. SELF are the ones who give them objectives and directives to waste everyone. fucking nerds, the rest of the syndicate probably bully them
@@ -79,6 +95,13 @@ As the world turned to deep space for expansion, Waffle Corp hit a long string o
 Waffle Corp R&D keeps the Syndicate toe-to-toe with their key enemy, Nanotrasen. Recent advancements include hardlight technology, put to good use in the energy sword and shielded hardsuits, and the Hypnoflash.
  
 Nowadays, most of the weapons and equipment seen in the hands of Syndicate operatives is produced by Waffle Corp, from the humble stechkin to the L6 LMG. This has also, oddly, produced friction with Donk Co, who frequently steal designs from Waffle Corp for conversion into toys. Relations between the companies is kept barely lukewarm by their common enemy, but agents from the two companies regularly antagonise or even outright fight with each other.
+
+# Interdyne Pharmaceutics
+An up and coming star in Human Space, Interdyne Pharmaceutics is a pharmaceutical company, notable for their advancements in medical technology. These include, but are not limited to: advanced sleeper models; consumer-grade prosthetic limbs;  organ printing devices; and laser-based surgical tools. In the public eye, they're well liked for their seemingly altruistic running of hundreds of civilian hospitals throughout the reaches of human space- providing affordable healthcare to the masses.
+
+Behind their veneer of respectability, however, lies a dark secret. Interdyne is also one of the biggest black market dealers of biological weaponry, illegal genetics research, and illicit substances. Notable examples of their products include the original recipe for Space Drugs, the proliferation of Fungal Tuberculosis amongst terrorist groups, and the invention of Romerol via a mutation of plasmaman fungi.
+
+While Interdyne (for the most part) stays out of the day-to-day running of Syndicate operations, they are an important supplier of both liquid cash and materiel to their cause, and their CEO holds one of the coveted board member positions in Syndicate command.
 
 # Misc. Syndicate Information
 ## On the Syndicate and Head of Staff Jumpsuits
