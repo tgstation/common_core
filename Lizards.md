@@ -1,7 +1,7 @@
 The Lizards
 
 Description:
-Lizardpeople originally hail from Tizira, in the Rizkalon system, though throughout their century and a half in the stars prior to meeting humanity they have spread over several planets and systems. This outward expansion was hindered by a lack of plasma and bluespace resources in their local sector, stunting their technological advancement and therefore their development of effective FTL engines, first discovering them a mere two decades before the First Contact War. Their technological level remains below that of their human rivals, due to a limited transfer of ideas between the two species.
+Lizardpeople originally hail from Tizira, in the Rizkalon system, though throughout their century and a half in the stars prior to meeting humanity they have spread over several planets and systems. This outward expansion was hindered by a lack of plasma and bluespace resources in their local sector, stunting their technological advancement and therefore their development of effective FTL engines, first discovering them a mere two decades before First Contact. Their technological level remains below that of their human rivals, aggravated by a limited transfer of ideas between the two species.
 
 Tizira is notably more arid than Earth, with small, shallow seas and less arable land. In addition, the planet has a diminished ozone layer, leading to higher-than-average levels of solar radiation reaching the planet's surface. As cold blooded creatures, the lizards thrive in this environment, with major cities being built close to the coastlines and smaller settlements spread across the wide drylands and deserts.
 
@@ -9,15 +9,8 @@ Lizard society emphasises strict militarism and a rigid caste system. The caste 
 
 As one travels further from the core systems however this culture softens. A century and a half of contact with humanity and a limited projection of power from Tizira has made lizards on the frontier of the empire much more humanlike in their mannerisms. There are many lizards alive today who have never lived within the borders of the empire, and care little for its customs.
 
-Religious beliefs are important to the Lizards, with a variety across the planet. The government is secular, with freedom of religion afforded to all. Of the entire population of the Empire, approximately 68% believe in a higher power.
-
-Important Factoids:
-Average Life Expectancy: 75 years
-Approximate Galactic Population: 25 billion
-Government Type: Constitutional Monarchy with Stratocratic Legislature and Executive
-
 Fun Factoids:
-* The moon of Tizira was famously bombed by the TerraGov Expeditionary Corps during the First Contact War, creating a noticable "scar" across the surface which can be seen from the planet. The Planet Cracker drink is named for this event.
+* The moon of Tizira was famously bombed by the TerraGov Expeditionary Corps during one of lizardkind's many conflicts with humanity, creating a noticable "scar" across the surface which can be seen from the planet. The Planet Cracker drink is named for this event.
 * The Imperial Lizard Army is famous for their melee skirmishers, who utilise throwing weapons and short-ranged firearms to great effect alongside razor-sharp blades. Despite their embarassing defeat by humanity, they're still well respected within lizard society.
 * The Draconic spoken by lizard crewmembers is a Spacer form of the language, created by decades of isolation from Tizira. Lizards from the core systems speak a distinct form of Draconic, known as "High Draconic" or "The Emperor's Draconic".
 * Pronouncing X as "ecks" is badass.
