@@ -26,19 +26,19 @@ A military firearms manufacturing concern. Produces ammunition, firearms, and we
 A military firearms manufacturing concern. Produces ammunition, firearms, and weapon parts, in particular for light infantry weapons.
 
 # Kalashnikov Concern
-An ancient Earth military manufacturing concern. Known for their long lasting weapons which are still ubiquitous to this day, mostly in the hands of Space Russians.
+An ancient Earth military manufacturing concern. Known for their long lasting weapons which are still ubiquitous to this day, mostly in the hands of Space Russians. Now based out of the ex-Third Soviet Union.
 
 # IMI
-An ancient Earth military manufacturing concern. Known for their long lasting weapons which are still ubiquitous to this day.
+An ancient Earth military manufacturing concern. Though defunct for many years, their long lasting weapons are still ubiquitous to this day.
 
 # Auto-Ordnance Company
-An ancient Earth military manufacturing concern. Known for their long lasting weapons which, while rare, are still used to this day.
+An ancient Earth military manufacturing concern. While their name has mostly faded into obscurity, their weapons can, very rarely, be found in the depths of space.
 
 # Nakamura Engineering
 A large construction and manufacturing corporation. Manufactures engineering equipment including hardsuits, RCDs and engine parts, and acts as a construction company for stations.
 
 # DeForest Medical Corporation
-A pharmaceutical company. Produces the hypospray, various medical equipment, and operates civilian hospitals throughout human space.
+A pharmaceutical company. Produces hypospray, various medical equipment, and operates civilian hospitals throughout human space.
 
 # HONK Ltd.
 A clown corporation. Famous for being the first to harness bananium. Produces clowning equipment, including hardsuits, synthetic banana shoes, and banana cream pies.
