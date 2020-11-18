@@ -66,5 +66,5 @@ A collection of individuals calling themself the cult of Yalp Elor seemed to hav
 
 ## Amusing factoids
 * Some say they saw Ratvar’s body falling from the sky when Reebee was destroyed
-* Nanotrasen legally owns your soul
+* Nanotrasen legally owns all of its employee’s souls
 * Failure to confess to practicing unapproved religions will be met by being held under a large rock until the time of confession
