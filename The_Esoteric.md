@@ -14,7 +14,7 @@ The trials and tribulations that one must endure during their career working in 
 
 ***
 # Beyond the veil
-These horrors are not from here. Not birthed from any planet or star but rather another plane of existence. Some scientists believe that these beings’ home is connected to bluespace technology, due to its frequent utilization and the rise of cults to these horrors beginning at around the same time. Others say that this other place is less tangible and more of a manifestation of human consciousness, ideals, and fears. There has also been speculation that this other plane (or planes) are linked to the magic of the Wizards Federation and other practitioners.
+These horrors are not from here. Not birthed from any planet or star but rather another plane of existence. Some scientists believe that these beings’ home is connected to bluespace technology, due to its frequent utilization and the rise of cults to these horrors beginning occurring at around the same time. Others say that this other place is less tangible and more of a manifestation of human consciousness, ideals, and fears. There has also been speculation that this other plane (or planes) are linked to the magic of the Wizards Federation and other practitioners.
 
 These horrors are shown to have increased influence in certain areas where the veil between worlds is weakest. These tend to be in areas where fear, paranoia, and bloodshed are prevalent. Madness overtakes weakminded individuals turning them into deranged cultists of whatever horror influenced them, or driving them to suicide. Multiple distinct documented entities have proved their influence over the years.
 ***
