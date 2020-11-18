@@ -43,11 +43,11 @@ Ratvar was once a powerful entity competing with the likes of Nar-Sie. It reside
 
 ### The Cult of Ratvar
 
-It is assumed that all of Ratvar’s cultists died with Reebee. The Cult of Ratvar was once a congregation of followers who managed to transcend to Reebee. They prepared for a ritual where they would fire up the engines of Reebee in a spot where the veil is weakest and free their god from its prison.
+It is assumed that all of Ratvar’s cultists died with Reeee. The Cult of Ratvar was once a congregation of followers who managed to transcend to Reebe. They prepared for a ritual where they would fire up the engines of Reebe in a spot where the veil is weakest and free their god from its prison.
 
-### The Fall of Reebee
+### The Fall of Reebe
 
-The fall of Reebee was an event in which Reebee, Ratvar, and all of its cultists were stuck down by Nanotrasen. The cult was preparing Reebee for the freeing of Ratvar where the Veil was weak. Outpost 17, a small nanotrasen asteroid mining station was the target. Brave crewmembers managed to slip through the cracks in the veil and into the heart of Reebee with a bluespace artillery beacon in tow. With a desperate plea being sent out to a nearby security outpost, Reebee was obliterated along with the crewmembers of Outpost 17.
+The fall of Reebe was an event in which Reebe, Ratvar, and all of its cultists were struck down by Nanotrasen. The cult was preparing Reebe for the freeing of Ratvar where the Veil was weak. Outpost 17, a small nanotrasen asteroid mining station was the target. Brave crewmembers managed to slip through the cracks in the veil and into the heart of Reebe with a bluespace artillery beacon in tow. With a desperate plea being sent out to a nearby security outpost, Reebe was obliterated along with the crewmembers of Outpost 17.
 ***
 
 ## Lesser entities
