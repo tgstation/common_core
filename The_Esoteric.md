@@ -61,7 +61,7 @@ Very little is known about the so-called Eldritch Gods or “_Epochs_”. Certai
 Certain entities that have been identified as demons or devils have been seen on stations. It is unknown if these beings are connected to the likes of other beings beyond the veil or something else entirely. The sighting of such beings seems to line up more with the rise of the Wizard Federation than the invention of bluespace technology suggesting a correlation.
 
 ### Yalp Elor
-A collection of individuals calling themself a cult of Yalp Elor seemed to have supernatural divination powers. They were detained by the police force of Spinward Stellar Coalition and most were executed under the demand of Nanotrasen. Interrogation has revealed very little about the so-called Yalp Elor. The remaining members of the cult are being held in Spinward superjails.
+A collection of individuals calling themself a cult of Yalp Elor seemed to have supernatural divination powers. These cultists had grown in numbers for a few decades. The group was eventually discovered in a warehouse drenched in their blood most of them dead after an anonymous tip. The living cultists were detained by the Spinward Stellar Coalition Interrogation and most were executed at the pressuring of nanotrasen. Interrogation has revealed that these cultists are aware of reserve a deep hatred of Nar-Sie and her cultists. The remaining members of the cult are being held in Spinward superjails.
 ***
 
 ## Amusing factoids
