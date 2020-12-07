@@ -4,7 +4,7 @@
 
 ***
 
-Founded by the Gorlex Marauders at some point a few decades ago, the Spinward Syndicate (usually shortened to the Syndicate) is a patchwork mix of groups, ranging from ill-reputed thugs and mercenaries to esteemed businessmen and scientific luminaries, all bound together by a desire to force Nanotrasen out of the Spinward Periphery. Each of the major factions within the coalition (listed below) are responsible for some branch of the groups operations according to their specialties, with some contributing raw firepower and tactical prowess, others highly skilled covert agents and intelligence gathering, and still others contributing more mundane tasks like organizing supplies and armaments for the operations.
+Founded by Cybersun Industries at some point a few decades ago, the Spinward Syndicate (usually shortened to the Syndicate) is a patchwork mix of groups, ranging from ill-reputed thugs and mercenaries to esteemed businessmen and scientific luminaries, all bound together by a desire to force Nanotrasen out of the Spinward Periphery. Each of the major factions within the coalition (listed below) are responsible for some branch of the groups operations according to their specialties, with some contributing raw firepower and tactical prowess, others highly skilled covert agents and intelligence gathering, and still others contributing more mundane tasks like organizing supplies and armaments for the operations.
 
 
 Life as a senior member of the Syndicate, the loose coalition of shady organizations with grudges against Nanotrasen, must be a special kind of hell. For all of the dastardly plots they've hatched, all of the lives and resources sacrificed on their missions, and all of the skullduggery and betrayal that quickly consume their daily lives, Nanotrasen still seems to be thriving on the Spinward Periphery in spite of it all.
@@ -23,6 +23,7 @@ Contents
         1.6 Animal Rights Consortium
         1.7 Donk Corporation
         1.8 Waffle Corporation
+		1.9 Interdyne Pharmaceutics
     2 Misc. Syndicate Information
         2.1 On the Syndicate and Head of Staff Jumpsuits
         2.2 On the Syndicate and Corgi Meat
@@ -33,7 +34,13 @@ Contents
 There are many flavors of Syndies, and many reasons for their escalations of force against Nanotrasen. Some see armed resistance as a simple next step in the cutthroat world of business on the Periphery, while others see themselves as morally-justified freedom fighters battling against an oppressive goliath. Then, of course, there are a great number of brutes and anarchists who traded in their bricks and molotovs for machine guns and X4, plus a target to use them on. Below is a non-exhaustive list of Syndicate factions, as well as a summary of each one. (WIP)
 
 ## Cybersun Industries
-Inasmuch as any of the minds of the Syndicate can be considered masters, the delegates from Cybersun Industries rank as the masterminds behind the group's larger operations. they like doing cybernetic augmentations and tying complex plans together
+Insofar as any of the Syndicate's many factions can be called the "head" of the organisation, Cybersun Industries has a better claim to that title than most- as the primary source of funding for the Syndicate, as well as the largest corporation within its ranks by far, and one of its founding members, Cybersun has a commanding role within the Syndicate.
+
+As a company, Cybersun is primarily concerned with artificial intelligence and cybernetics, although they do have their foot in as many doors as possible. They were behind many of humanity's first advancements in AI technology, including the first functional AI, but as time went on Nanotrasen pulled ahead in this area and began to threaten Cybersun's strangehold monopoly. This prompted Cybersun's CEO to pull together a clandestine meeting with several other corporate bodies and factions which were being hurt by Nanotrasen's seemingly meteoric rise to prominence- the Gorlex Marauders, Waffle Corp, Interdyne Pharmaceutics, and MI13. The result of this meeting was the first incarnation of the organised Syndicate, a group dedicated to countering Nanotrasen's influence by any means necessary.
+
+Cybersun operates their own private military, which has been partially integrated with the Gorlex Marauders since the foundation of the Syndicate. They form a professional backbone for the undisciplined Marauders, increasing their effectiveness in operations against Nanotrasen. Cybersun also takes charge of most of the Syndicate's operations, acting as the brains behind the entire group.
+
+Chances are if you see a cyborg, an implant, cybernetics, or advanced technology in the hands of a syndie, that it originated in the mind of a Cybersun researcher.
 
 ## Gorlex Marauders
 A collective of raiders and pirates turned private military, the Gorlex Marauders are one of the founding members of the syndicate, and act as the sword of the operation. The Marauders are opposed to Nanotrasen due to the corporation's involvement in private military endeavours, which they view as a threat to their business.
