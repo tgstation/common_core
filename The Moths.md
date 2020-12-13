@@ -1,8 +1,8 @@
 # The Moths
 
->"Hey bug-eyes I think you got the wrong door, the outfitters is two blocks down."
+>"Hey, Bug-Eyes. I think you got the wrong door, the outfitters is two blocks down."
  
--Anonymous Moth recounting their experience being the first of his kind to walk into a formerly humans only restaurant after the species equality act was signed
+-Anonymous Moth recounting their experience as the first of their kind to walk into a formerly human-only restaurant, following the creation of the Species Equality Act.
 
 ***
 
@@ -26,61 +26,39 @@ And just then, Arnold trailed off and the CEO had realized something. He looked 
 
 ## Description:
 
-_The Moth folk._ A recent addition to the Nanotrasen list of Xeno crew. Contrary to popular belief, these moth folk weren't really acknowledged until they bled into crew manifests. Their origin is unknown, even they're a little fuzzy on the details, they remember being a part of Nanotrasen's crew for as long as they can remember really.
+The Moths originally hail from a world that has since been lost, though how exactly the moths came to forget where their own planet is confuses everyone- everyone, it seems, except the moths. Apocryphal tales of the planet are passed down through generations, describing its remarkable geography- it was tidally locked, and split into two halves as a result- upon the sun-facing side grew a vast jungle, full of life, while on the dark side an arctic wasteland formed, bitter and cold year round. And from these two sides, came two different types of moth- the hardy, cold resistant frost moths, and the lighter, fun loving moss moths. The cultural and physiological differences between the two sides run deep, however they have come to reconcile their differences due to their new living arrangements, aboard the Grand Nomad Fleet.
 
-Part of this phenomenon is their seamless assimilation to their mostly human neighbors and their reclusive nature. They've blended in so well, they don't even remember their exact origin. 
+Mothkind now *mostly* lives aboard the Grand Nomad Fleet, an impressive armada of thousands of ships, from tiny shuttles to hulking capital ships, kept afloat by the combined efforts of every moth living aboard the vessels. In order to keep them running, the moths trade resources harvested from regions the fleet passes by to other civilizations in exchange for crucial parts. Many moths, in support of the fleet, thereby depart from it to work within the ranks of corporations, with the intention of sending money and resources to their families back home. And this is how moths came to live and work alongside the other species of the galaxy.
 
-How it is that moths came to forget their own home planet is beyond comprehension. At most, some of the more elderly ones say they just saw a station or a colony and decided to just "hang out."
+The moths have had a bumpy past with humanity- following first contact, raids on human vessels by moth pirates were common, however the nature of the attacks was anything but. The moths would arrive, disable the ship, and board, taking as many salvagable parts as they could, all while doing their best to harm nobody aboard their target vessel. Particular preference was given by these fluffy raiders for particularly glowy parts, including (most notably) the ships' uranium power cores, which led to an epidemic of ships being stranded on minimal power in the outer rim for some time. As contact between the two species increased, their piratical ways gave way to trading. In the decades since, moths have become easily the most accepted xeno species by humanity, likely due to their amicable nature and humanlike mannerisms.
 
-Common interactions between moths and humans often involve clothes related scandals as moths often crave clothing for easy Keratine to aid in the maintenance and sheen of their scales.
+As to why the moths have not settled down and founded a colony, many speculate. Some believe that they are just happy aboard their fleet, and see no need to settle. Others reckon that they're searching for their home planet, to reclaim their lost heritage. Others still believe that the moths are perfectionists, and will accept only a perfect substitute for home. Regardless of their true reasoning, one thing is clear- the moths are here to remain on the galactic stage, and few seem to want this to change.
 
-That is not to say they often do this, this is an intimate interaction they acknowledge and understand, since they also (surprisingly) wear clothing. This smell hunt is usually a part of a behavior they call "infatuation". Because of this, some moths have been able to capitalize on this instinct.
-
-In 2500 a clothes retailing company arose in response to high demand from distant less noticeable colonies, **Cottonball Core**. They specialized in comfortable clothing with a lot of breathability, but that was not what they became known for.
-
-Recently, there have been new vending machines popping up regularly around colonies, and even in a few stations. Vending machines that sell used undergarments from popular idols and celebrities from around the Galaxies. Strangest of all is their variety.
-
-Nanotrasen has recently been displeased and has even led disgust campaigns against such sales (partly because they're not profiting from it). When they pressed the owner of Cottonball Core with a sexual indecency lawsuit they were astounded to find that the Mothball Core CEO was none other than Claurice Woolery who assured Nanotrasen that the vending machines were a catering business. 
-
-The lawsuit was later dropped due to more evidence pointing to the CEO of Mothball Core's claim (to Nanotrasen's horror). 
-
-The CEO of Nanotrasen had this to say in a statement:
-	
-> _"So we just found a new species of space dwelling creatures and we just now stumble upon the information that they own one of the most coveted and illustrious clothing retailers in the known galaxy? How did this slip past you? I thought the media was supposed to have some of the most well informed investigative individuals and you dumbasses didn't even know that a moth was running that shit? Did you all think they were just space Japanese? How did they slip past us? Can somebody please tell me where they even came from? What do we pay you for?!"_
+Common interactions between moths and humans often involve clothes related scandals as moths often crave clothing for easy keratine to aid in the maintenance and sheen of their scales.
 
 ***
 
-# Behaviorism
-
- **A recent study was conducted on moths to study their culture and behavior. These are some of the results (_note: These results were a selected random sample of moths and may not encompass all moth behavior. Just the general ones_):**
+# Fun Factoids
 
 * Shame is not something Moths readily feel. Especially not from other species.
 
-* Moths have shown little interest in forming moth only groups, instead, observations have pointed to the conclusion that moths are more reclusive than most other xeno species.
+* Moths are quite sociable, particularly amongst members of their own species, due to living in the tight quarters of the Grand Nomad Fleet.
 
-* The antennas of a moth serve as a receptor for their sense of smell. Their wings become less functional in areas where the gravitational pull is stronger.
+* The antennas of a moth serve as a receptor for their keen sense of smell.
 
-* Moths are very keen to smell, it is a preferable sense and they often use a variety of smells to coat themselves in.
+* Moths have a very keen sense of smell. It is their primary sense for perceiving the world, and they are often big fans of perfumes which they can coat themselves in. Their antennae serve as their main olfactory receptor, as they have no noses. (How do they smell? Like whatever they doused themselves in.)
 
-* Moths are very cute and fluffy. They know this and often they tend to use it to their advantage.
+* Moths are very cute and fluffy, which tends to make them adorable to humans. They are very aware of this fact, and often tend to use it to their advantage.
  
-* Their "fluff" is more akin to scales than human hair. It is used for sensory input and will glimmer upon falling off. As a show of dramatism Moths will throw around their scales in a similar way humans toy with glitter.
+* Their "fluff" is more akin to scales than human hair. It is used for sensory input and will glimmer upon falling off. As a show of dramatism, Moths are known to shake themselves violently to throw off a cloud of shimmering, glittery scales.
 
-* Moth wings are useless outside of low gravity environments but Moths will often pride themselves on their wings and flaunt them around. 
+* Moth wings are near useless outside of low gravity environments- this does not stop them from priding themselves on their wings and flaunting them around. This is because their wings are particularly precious to them, and most Moths will defend them with their lives.
 
-* Moth wings are very precious to moths and they will often preserve them with their lives.
+* Moths are generally not very good in fights. They shock easily, they're susceptible to bright flashes, and so on. Most opt to take the peaceful route instead. When forced to fight, they instinctively scratch rather than bite.
 
-* Most Moths are not very combat able. They shock easily, they're susceptible to bright flashes, and so on. Most moths take the peaceful route.
+* Some of the more isolated moths have their own religion which is based around space moth deities. These deities appear to represent positive ideals that shine through the darkness of existence and the moths frequently call themselves lightseekers. This religion calls for isolative exploration of the self, which leads adherents to live isolated lives in solitude.
 
-* In conflict situations they instinctively scratch at their foe rather than punch.
-
-* Some more isolated moths have their own religion which is based around space moth deities. These deities appear to represent positive ideals that shine through the darkness of existence and the moths frequently call themselves lightseekers.
-
-* Their religion usually calls for isolative self exploration. This usually leads to isolated lives of solitude.
-
-* Moths by nature are very considerate of others and this distends to other species. They often think about their companions before they think about themselves.
-
-* Moths tend to be very deceptive with their language. If they have something negative to say to someone they will often not say it at all, this leads to resentment among their peers.
+* Moths by nature are very considerate of others and this extends to other species. They often think about their companions before they think about themselves. As a result, they also tend to avoid confrontation, and will frequently use flowery or deceptive language when saying negative things about other people.
 
 * Moths often form monogamous relationships and choose their mate primarily by smell rather than looks.
 
@@ -92,13 +70,11 @@ The CEO of Nanotrasen had this to say in a statement:
 
 # Racial Tensions
 
+Racial tensions with the Moths have dramatically declined since the initial conflicts of first contact, however this does not mean that everything is peachy between them. Many surveys find that humans are much more positively inclined towards Moths than other xeno lifeforms, and the feeling is mutual.
+
 Through multiple surveys it was found that humans are more positively inclined towards moths than most other xenohumanoid lifeforms. This feeling is strangely mutual. That is to say, moths have reportedly accepted humans as their own and have claimed to have even "accepted humans into their community" despite it being quite obvious that they are the ones that have interloped into human infrastructures. This strange behavior recently turned controversial when significant moth pop artists have taken ancient renaissance era paintings of human interactions with angels and redrew the angels as holy moth folk.  
 
 These controversial acts have turned some human superiority groups against moths with claims that humanity is being silently invaded by this "bug menace". This has led to many biological attacks where human extremists will attack moths and use biotechnology to mutate moths into humans or other creatures. As a result, a group known as the Cottonmouth Coalition has had a rise in popularity amongst the moth community. 
-
-To address the racial tension buildup, CEO of Cottonball Core had this to say:
-
-> _"Wait, you guys didn't know I was a moth?"_ 
 
 ***
 
