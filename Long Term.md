@@ -1,4 +1,3 @@
-
 # On the Unnamed Plasma Disease
 
 There are a few aspects of plasma that quickly become clear after being introduced to it: it is purple, highly combustible, and (as anyone who's handled a bar of it at room temperature can attest) very poorly named. 
