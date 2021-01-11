@@ -51,3 +51,6 @@ Produces fitness equipment, such as skateboards, weight machines and clothing.
 
 # Robust Industries, LLC
 Produces consumables, including snacks, drinks and cigarettes.
+
+# Sophronia Broadcasting
+A Broadcasting Company. Behind 'Sophronia Broadcasting's Plasteel Chef', and 'Sophronia Broadcasting's History Comes Alive'. Also creates merchandise in the form of the ingredient beacon and hero beacon.
