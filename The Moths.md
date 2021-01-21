@@ -34,8 +34,6 @@ The moths have had a bumpy past with humanity- following first contact, raids on
 
 As to why the moths have not settled down and founded a colony, many speculate. Some believe that they are just happy aboard their fleet, and see no need to settle. Others reckon that they're searching for their home planet, to reclaim their lost heritage. Others still believe that the moths are perfectionists, and will accept only a perfect substitute for home. Regardless of their true reasoning, one thing is clear- the moths are here to remain on the galactic stage, and few seem to want this to change.
 
-Common interactions between moths and humans often involve clothes related scandals as moths often crave clothing for easy keratine to aid in the maintenance and sheen of their scales.
-
 ***
 
 # Fun Factoids
