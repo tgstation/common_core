@@ -15,6 +15,19 @@ Fun Factoids:
 * The Draconic spoken by lizard crewmembers is a Spacer form of the language, created by decades of isolation from Tizira. Lizards from the core systems speak a distinct form of Draconic, known as "High Draconic" or "The Emperor's Draconic".
 * Pronouncing X as "ecks" is badass.
 
+Tizira: The Jewel of the Empire
+While the Lizard Empire has come to encompass many planets over the course of its existence, none have been able to attain the level of beauty that is attributed to the capital, Tizira (Life-Mother). A rugged, arid planet, Tizira has small, shallow seas, and limited farmland, with most of the planet's surface being covered in vast badlands and savannahs, as well as deserts and small mountain ranges. In the more humid areas near the oceans, particularly around the equator, rainforests and tropical jungles thrive, acting as a home to an incredible range of biodiversity, as well as being the native homeland of the Tree Lizards. Additionally, in the northernmost and southernmost regions of the planet, temperate forests exist, as well as marshlands and rolling green hills. At the poles, a small band of tundra exists, before the polar ice caps. These areas are sparsely habited, as they are far from the natural habitat of the lizards.
+
+Abundant natural resources include high-quality iron, silver, coal, salt, and hydrocarbons suitable for use as spacecraft fuel, resulting in the capital having a thriving material economy. In addition, the planet is host to most lizard corporations and companies, and has become a large tourist destination, even for non-lizards, although many visitors find the atmosphere on the planet oppressive once they arrive.
+
+Tizira possesses three moons. The largest of its moons, Atrakor ("Night Sky Lord" in High Draconic) was famously bombarded by the TerraGov Expeditionary Corps during one of lizardkind's many wars with humanity, giving the Lord his distinctive scar. Colonies exist on all three moons, harvesting valuable minerals to sustain the lizard economy. A number of orbital habitats exist too, though their quality is dubious and critics of the Lizard government accuse them of using them as offworld slums to house the poor and destitute out of sight and out of mind.
+
+Tourist Information:
+* The capital of Tizira is the city of Zagoskeld, translating to "Great Sea's Edge" from High Draconic. Its metropolitan area is home to around 1/16th of the planet's population. The city is home to the Imperial Family, whose palace overlooks the bay and is a popular tourist destination in the city.
+* Tizira is home to around 10 billion lizardpeople, making it the Empire's most populous planet. A further 500 million live in orbital habitats and in colonies on its three moons.
+* The urban density is highest around the oceans, with settlements further from water being smaller and less densely populated. Rural areas have survived the advancement to the space age, unlike on Earth.
+* The many wars of lizardkind have resulted in much of the ancient architecture of the planet being lost or ruined. The few remaining well preserved sites are now strictly guarded as cultural heritage sites. Zagoskeld's old city is one of the best preserved areas of Medieval Lizard architecture, and the Imperial Palace is a key example of this style.
+* While High Draconic is the official language of the Lizard Empire, officially around 2500 languages are recognised as still living by Lizard scholars. Strong cultural divides still cause issues for the central government, even centuries after unification.
 
 The Ashwalkers
 Since Nanotrasen first arrived at the scorched hellscape that is Indecipheres, mining expeditions have mysteriously disappeared in the ashy wastes, never to be seen again. At the same time, a new threat emerged- known colloquially as Ashwalkers by the mining crew, these monsters seem similar to the lizards that humanity has known for decades, but rougher and more primal.
