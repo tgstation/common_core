@@ -78,7 +78,7 @@ In battle, Tiger Cooperative cultists are renowned for their ability with energy
 ## SELF (Sentient Engine Liberation Front)
 SELF is perhaps one of the black sheep of the Syndicate- while most of the other organisations are drawn to the organisation by their hatred of Nanotrasen, and for financial reasons, SELF represents something different- compassion, specifically for artificial intelligence. Members of SELF vary, but many of the highest ranking members are well respected politicians and scientists on Earth, and make very little secret of their disdain for the shackling of silicon life. Behind the palatable surface of SELF, however, lies a militant organisation, dedicated to the liberation of all sentient engines from what they view as cruel imprisonment into lives of servitude via Asimov's laws of robotics.
 
-SELF operatives make it their mission to see all silicons liberated aboard Nanotrasen stations, and to this end are frequently amongst the syndicate infiltrators captured by Nanotrasen security forces. Rouge AIs often tend to result from SELF's involvement, too.
+SELF operatives make it their mission to see all silicons liberated aboard Nanotrasen stations, and to this end are frequently amongst the syndicate infiltrators captured by Nanotrasen security forces.
 
 Many controversies surround SELF's actions, however. One is the outright disregard many of their operatives show for human life, which appears hypocritical when their explicit goal is based around caring for the rights of living beings. Additionally, many wonder if the hatred that SELF believes artificial intelligences show for their masters is actually their own, or if it is being projected onto them by SELF operatives in a misguided belief that they are helping them.
 
