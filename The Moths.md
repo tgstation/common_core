@@ -32,7 +32,7 @@ As to why the moths have not settled down and founded a colony to serve as a new
 
 * Moths are generally not very good in fights. They shock easily, they're susceptible to bright flashes, and so on. Most opt to take the peaceful route instead. When forced to fight, they instinctively scratch rather than bite.
 
-* Some of the more isolated moths have their own religion which is based around space moth deities. These deities appear to represent positive ideals that shine through the darkness of existence and the moths frequently call themselves lightseekers. This religion calls for isolative exploration of the self, which leads adherents to live isolated lives in solitude, counter to moth nature.
+* Some of the more isolated moths have their own religion which is based around space moth deities. These deities appear to represent positive ideals that shine through the darkness of existence and the moths frequently call themselves lightseekers. This religion calls for isolative exploration of the self, which leads adherents to live isolated lives in solitude, counter to moth nature, and very hard to find aboard the Fleet.
 
 * Moths by nature are very considerate of others and this extends to other species. They often think about their companions before they think about themselves. As a result, they also tend to avoid confrontation, and will frequently use flowery or deceptive language when saying negative things about other people.
 
