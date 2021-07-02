@@ -32,7 +32,7 @@ As to why the moths have not settled down and founded a colony to serve as a new
 
 * Moths are generally not very good in fights. They shock easily, they're susceptible to bright flashes, and so on. Most opt to take the peaceful route instead. When forced to fight, they instinctively scratch rather than bite.
 
-* Some of the more isolated moths have their own religion which is based around space moth deities. These deities appear to represent positive ideals that shine through the darkness of existence and the moths frequently call themselves lightseekers. This religion calls for isolative exploration of the self, which leads adherents to live isolated lives in solitude, counter to moth nature.
+* Some of the more isolated moths have their own religion which is based around space moth deities. These deities appear to represent positive ideals that shine through the darkness of existence and the moths frequently call themselves lightseekers. This religion calls for isolative exploration of the self, which leads adherents to live isolated lives in solitude, counter to moth nature, and very hard to find aboard the Fleet.
 
 * Moths by nature are very considerate of others and this extends to other species. They often think about their companions before they think about themselves. As a result, they also tend to avoid confrontation, and will frequently use flowery or deceptive language when saying negative things about other people.
 
@@ -47,6 +47,20 @@ As to why the moths have not settled down and founded a colony to serve as a new
 Racial tensions with the Moths have dramatically declined since the initial conflicts of first contact, however this does not mean that everything is peachy between them. Many surveys find that humans are much more positively inclined towards Moths than other xeno lifeforms, and the feeling is mutual. This may be why Moths have managed to dodge the racially-motivated violence that is common to the other xenos.
 
 ***
+
+## Life aboard the Grand Nomad Fleet: "Authoritarian by Necessity"
+
+For the moths, life is very different to what we experience on Earth, by the necessity of living aboard a massive fleet of old, scrappy ships.
+
+Due to the restrictions placed on space for growing food and manufacturing, much of the supplies necessary to maintain the populations' needs and health must be sourced from outwith the fleet, and as such a rationing system has been put in place to give everyone their fair share. Each citizen is given a weekly ration of 7 main meals served at a licensed canteen (1 for each day), 5 smaller mid-day meals served at a licensed canteen (1 for each workday), and a package of discretionary credits which can be redeemed at a commissary for snacks, breakfast supplies, and luxury items. In cases of illness, injury, or rearing young, two full meals will be provided each day. The licensed canteens where these meals are supplied are communal areas and generally garner a convivial atmosphere, as the moths gather to eat their food with friends and family and forget the harshness of life aboard the fleet for a short while. Alcohol is qualified as a luxury and can be purchased with discretionary credits, either at the canteens or at specialised bars. There are a few days on which restrictions are relaxed: on public holidays workers are relieved of their duties and food is served without a need for ration tickets.
+
+All aboard the fleet must contribute to keeping it running, be that via maintenance, service jobs, medical work, or (in rare cases) working outwith the fleet to gather cash which can be used by the fleet for purchasing supplies. Typically moths will be trained in more than one area of expertise, allowing them to be flexible to the needs of the fleet. Those who do not contribute receive only the barest essentials of rations, and if their mooching goes on for too long, they will be dragged before the Admiralty to be forced to accept a career, or face exile from the fleet- there is no room for leeches.
+
+At the age of 12 moths will enter the workforce assisting with light tasks that are generally safe alongside vocational training for their future career and their education. Later, at the age of 18, they will transfer to their new career and begin working. Those who stay closer to home to work will transfer ship upon turning 18, in an effort to maintain genetic diversity amongst the species. They will stay aboard their new vessel for life in most cases, forming a close bond with their new neighbours.
+
+Living arrangements aboard the fleet are suitably spartan: the best possible place to live is aboard the ex-colony ships or old civilian vessels, as they have larger, more spacious crew quarters which are purpose built for comfortable living. More commonly, however, moths can expect repurposed rooms shoddily divided into individual apartments, with shared bathroom facilities and very little actual privacy. In the worst cases, they may need to share these spaces, or even worse, have to live in dorms with a number of other moths. While they are a communal species, moths do appreciate some privacy every now and then.
+
+Given it is made up of thousands of old vessels, and the Moths' legacy of piracy, the Grand Nomad Fleet has a number of vessel types making up its ranks: everything from old colony ships, to military vessels, ancient trade haulers, entertainment barges (where moths can go on their days off to enjoy themselves), engineering and construction ships, and hundreds of smaller vessels which carry only a small crew.
 
 # Speculations
 
