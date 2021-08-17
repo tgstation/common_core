@@ -55,3 +55,21 @@ Fact Sheet:
 Sulfur. Ever an important chemical in industrial processes throughout history, this yellow element took on a new lease of life with the discovery of plasma. A new industrial process for the harvesting of plasma from amenthite, and other associated low purity ores, taken from Mars' vast plasma mines was developed, known as the Altmeyer process. A key reagent of the Altmeyer process is sulfuric acid, used to create a slurry which is then subjected to further purification- and this demanded high quantities of sulfur. With the cost of extraction on Earth increasing as the planet became increasingly urbanised, the mining corporations of the Sol System turned elsewhere: to the surface of Venus.
 
 Venus was well explored by humanity prior to its colonisation, but never had any landings of this scale been undertaken. Beforehand, the peak surface population at any point was 15 people, living on a single Terragov-funded research outpost. After the first landings by Exagon Extractions, the population jumped to 1,200. And more companies followed, as time went on: including a few big names: Cybersun Industries maintains a large share of sulfur mining on the planet, as does Nanotrasen- and the two are presently posturing to take over the smaller corporations to secure a larger piece of the pie.
+
+# Saturn: Feeding Chemistry and Fusion Power
+
+Fact Sheet:
+* Gas Skimmers dot the upper atmosphere of Saturn, harvesting the valuable gases it contains. These Skimmers are maintained in a tight orbit, acting similarly to gliders, and contain machinery which collects, traps, cools and compresses, and finally stores the harvested gases.
+* The vast majority of the population on Saturn is (perhaps obviously) on orbital platforms: the Gas Skimmers maintain a skeleton crew who are tasked with keeping the machinery in working order and doing tasks that are unsuited to robots. The life of a Gasjack, as they are called, is rough and unpleasant, as they live and work in tight confines aboard the Gas Skimmers, and to venture outside they must wear pressure suits that are even more cumbersome than spacesuits. Their pay is excellent, however- which may ease the stress somewhat.
+* Orbital shipyards and industrial stations make up a vast network above Saturn, utilising resources harvested from the planet and its moons.
+* Much of the initial prospecting and early Gas Skimming of Saturn was handled by Havelka Gas Enterprises, a Czech gas extraction concern who designed and perfected the initial Gas Skimmer designs. The company would eventually be snapped up by Cybersun Industries, as part of their growing industrial empire in the Sol System- but not before the designs for the skimmers were copied by numerous other corporations.
+
+
+
+# Titan: Methane Seas
+
+
+# Europa: Water for the Masses
+
+
+# Charon: Next Stop: Alpha Centauri
