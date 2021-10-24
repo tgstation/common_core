@@ -30,7 +30,7 @@ Fact Sheet:
 * New Moscow is also the closest major human colony to Nanotrasen's spinward stations, and as such is a major destination for Nanotrasen workers. In addition, it serves as the major transport hub for the region, with major spaceports and shipyards ready to service travellers to the SSC.
 * The planet has an earth-like climate, though is generally colder than the mother planet. The overall population is around 250 million.
 * The primary exports from the planet are minerals, chemicals and agricultural goods, with manufacturing and tourism being other major sectors.
-* As is to be expected of a former colony of the Third Soviet Union, Novayarossiyan is the official language of the planet- Galactic Common is generally spoken and understood in the major population centres, but those with no knowledge of Novayarossiyan will struggle as they venture further into the countryside.
+* As is to be expected of the former capital of the Third Soviet Union, Novayarossiyan is the official language of the planet- Galactic Common is generally spoken and understood in the major population centres, but those with no knowledge of Novayarossiyan will struggle as they venture further into the countryside.
 * Space has now been corrupted by capitalism. All is lost.
 
 New Moscow has had a tumultous past. Originally founded by and serving as the capital of the Third Soviet Union, the planet first came into humanity's grasp under less than ideal circumstances. Atrocities by the leaders of the TSU alongside political repression, famine, and a generally poor standard of living would come to a head in the August Revolution, seeing the fall of the Soviet leadership on the planet, and beginning the final collapse of the Third Soviet Union. Following this violence and the subsequent rise of the Spinward Stellar Coalition, the planet would go on to experience a renaissance, as the industrial capacity grew and culture flourished. Today, New Moscow is a shining example of excellence in humanity's border regions, and its meteoric rise seems set to continue.
@@ -44,7 +44,7 @@ Fact Sheet:
 
 Humanity is far from the first civilisation to make it to space, and it is not going to be the last. Remnants of ancient civilisations dot the galaxy, occasionally being unearthed during groundwork on new colonies or by intrepid explorers. However, no find as of yet has been able to compete with Ancienne, in the Saramix system. An ancient ecumenopolis which has been tied to the long-extinct Terintan people, cities comprise about 85% of the planet's surface, with the rest consisting of salt deserts which are believed to have once been oceans. Damage to the planet's ecosystem are irreversible without extensive terraforming- the likes of which are presently being tried on Mars. That said, despite the lack of surface water and failing atmosphere, the planet is also a hotbed of activity due to the incredible finds hidden within its labyrinthine concrete jungle. Terintan technology was far ahead of our own, and as such almost everything that can be salvaged in sufficiently working condition to be studied is worth an incredible amount. This has attracted the brave, intrigued, and desperate to try to hash out a living exploring the perilous ruins and bringing back salvage.
 
-# Venus: Living in Hell
+# Venus: Living on Hell
 
 Fact Sheet:
 * Colonisation of Venus has been amongst Humanity's greatest challenges. Terraforming seems impossible: the solution instead has been to construct domed colonies for housing workers, maintained by a complex system of shielding and corrosion resistant coatings.
@@ -64,12 +64,29 @@ Fact Sheet:
 * Orbital shipyards and industrial stations make up a vast network above Saturn, utilising resources harvested from the planet and its moons.
 * Much of the initial prospecting and early Gas Skimming of Saturn was handled by Havelka Gas Enterprises, a Czech gas extraction concern who designed and perfected the initial Gas Skimmer designs. The company would eventually be snapped up by Cybersun Industries, as part of their growing industrial empire in the Sol System- but not before the designs for the skimmers were copied by numerous other corporations.
 
+As one of the Sol system's primary sources of hydrogen and helium, Saturn is today considered critical to industrial manufacturing of sublight fuel, as well as providing fusionable material for large-scale power generation. In order to harvest these important gases, the atmosphere of Saturn must be tapped- and to accomplish this, the Gas Skimmer was born. A small, lightly manned vessel, gas skimmers maintain a tight orbit within the upper limits of the planet's atmosphere in order to capture and store gases which are then sent to orbital stations for separation, purification, and eventual sale/further manufacturing. The scale of this operation cannot be understated: to fuel humanity's advance to the stars, thousands of skimmers must be active at any given time. When one eventually outlives its usefulness, it is evacuated and allowed to drop into the crushing depths of Saturn's deep atmosphere, never to be seen again.
 
+The overall population on Saturn is estimated in the 10,000 range- of which around 3-4,000 are Gasjacks aboard the skimmers, and a further 7,000 sit in orbit.
 
 # Titan: Methane Seas
 
+Fact Sheet:
+* Titan is of particular interest to humanity as a source of organic chemical material- useful building blocks for things like plastics, pharmaceuticals, food additives, and really anything that's important in the modern day. Given the depletion of oil reserves on Earth, the chemicals produced on Titan are critical for maintaining humanity's manufacturing capabilities.
+* The atmosphere of Titan is thick with methane, and is therefore toxic to human life. Colonies on the surface are domed and gastight.
+* Titan, as a moon of Saturn, also takes advantage of the planet's orbital network of manufacturing plants and shipyards.
+* Titan has spawned its own megacorporation, the Canada-based Howard Organics. They control a commanding share of operations on the moon, which has made them wealthy enough to compete with the big boys.
+
+As any organic chemist will tell you, organic chemistry is key to the modern world. Almost every product that is available in modern society has, at some point, been passed through the hands of an organic chemist, be that for the production of plastics, or formation of medicinal products, or any number of critical steps in producing useful things. To that end, supplies of useful organic material are critical to humanity. As it presently is, our main source is oil, which will not last forever.
+
+In the 2200s, following attempts at conservation throughout the 21st and 22nd centuries, humanity's worst fear was realised, as the oil reserves on the planet finally dried up. A scramble to find a new source of organic material was initiated, as the planet began rationing remaining supplies and instituting extensive recycling programs. A brief dark age would emerge for the following few decades, known today to historians as the Transitory Period. Fortunately, salvation would be at hand in the form of Titan- the moon had long been known for its methane reserves, but with little reason to exploit them there had been little more than minor expeditions and small scale operations on the planet. This would change with the arrival of Trent Howard, a Canadian industrialist and organic chemist, who had discovered a new method of methane extraction, purification, and functionalisation, on the scene. Howard's process would revolutionise methane extraction on Titan, and almost single-handedly end the Transitory Period, as well as earn Howard his place in the sun with his new company, Howard Organics.
+
+Now, Titan is inhabited by an estimated 8,000 people, spread across hundreds of extraction plants on the planet's surface- most of which are owned by Howard Organics.
 
 # Europa: Water for the Masses
 
+Fact Sheet:
+* Water is important, both as a direct survival need and for the industrial production of oxygen for spaceflight. Europa provides most of the water used by humanity in space.
+
+Europa is 
 
 # Charon: Next Stop: Alpha Centauri
