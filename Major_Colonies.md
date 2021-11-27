@@ -81,12 +81,3 @@ As any organic chemist will tell you, organic chemistry is key to the modern wor
 In the 2200s, following attempts at conservation throughout the 21st and 22nd centuries, humanity's worst fear was realised, as the oil reserves on the planet finally dried up. A scramble to find a new source of organic material was initiated, as the planet began rationing remaining supplies and instituting extensive recycling programs. A brief dark age would emerge for the following few decades, known today to historians as the Transitory Period. Fortunately, salvation would be at hand in the form of Titan- the moon had long been known for its methane reserves, but with little reason to exploit them there had been little more than minor expeditions and small scale operations on the planet. This would change with the arrival of Trent Howard, a Canadian industrialist and organic chemist, who had discovered a new method of methane extraction, purification, and functionalisation, on the scene. Howard's process would revolutionise methane extraction on Titan, and almost single-handedly end the Transitory Period, as well as earn Howard his place in the sun with his new company, Howard Organics.
 
 Now, Titan is inhabited by an estimated 8,000 people, spread across hundreds of extraction plants on the planet's surface- most of which are owned by Howard Organics.
-
-# Europa: Water for the Masses
-
-Fact Sheet:
-* Water is important, both as a direct survival need and for the industrial production of oxygen for spaceflight. Europa provides most of the water used by humanity in space.
-
-Europa is 
-
-# Charon: Next Stop: Alpha Centauri
