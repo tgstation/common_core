@@ -17,11 +17,6 @@ When the truth came forward, however, what happened was not what Blackstar expec
 
 Blackstar would form one of the primary companies involved in the Chinese Revolution, with their area of operation being mostly in the urbanised south. After the war, they would move their headquarters to Macau. In the modern day, they are now essentially kept on retainer by Cybersun, who utilise them for operations where they cannot afford to send their own agents.
 
-## Raijin Risk Management
-Headquarters: Nagasaki, Japan, Earth
-
-Compared with
-
 ## Springbok Security LLC
 Headquarters: Cape Town, South Africa, Earth
 
