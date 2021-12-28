@@ -48,6 +48,11 @@ Racial tensions with the Moths have dramatically declined since the initial conf
 
 ***
 
+### Moth Technology
+It is no secret that moths are at the forefront of ship technology. Having a culture that breeds excellence in engineering (mostly because keeping deathtraps running is a tricky prospect) alongside a flat societal structure that means anyone with an idea is capable of attempting to put it in practice means that mothic ship engineers are amongst the best in the galaxy. To this end, most systems on vessels of the Grand Nomad Fleet are tinkered with and optimised to incredible degrees- although at the cost of being tempramental and difficult to repair for almost anyone except the moths themselves.
+
+***
+
 ## Life aboard the Grand Nomad Fleet: "Authoritarian by Necessity"
 
 For the moths, life is very different to what we experience on Earth, by the necessity of living aboard a massive fleet of old, scrappy ships.
@@ -62,16 +67,12 @@ Living arrangements aboard the fleet are suitably spartan: the best possible pla
 
 Given it is made up of thousands of old vessels, and the Moths' legacy of piracy, the Grand Nomad Fleet has a number of vessel types making up its ranks: everything from old colony ships, to military vessels, ancient trade haulers, entertainment barges (where moths can go on their days off to enjoy themselves), engineering and construction ships, and hundreds of smaller vessels which carry only a small crew.
 
+***
+
 # Speculations
 
-There has been an uprise in reports regarding attacks on a station situated on a classified frigid location. These reports all mention the same thing: There are feral moths out there besetting the station in an attempt to pull victims into the icy madness below. 
+As is to be expected of any group which can provide exceptional services, mothic engineers often travel from the fleet to take up positions with the other species of the galaxy, usually demanding a king's ransom to do so. In return, the hiring organisation will find themselves with the highest quality of ship designs that money can buy- at least until their contract expires, at which point they had best hope they've trained the rest of their engineers sufficiently well to keep their systems at peak capacity.
 
-Due to the nature of the attacks, Nanotrasen has decided to keep these attacks on the down low in order to prevent traffic to the area for fear they might scare away signs of what could be the origin of the moth influx. The price they pay is that many unknown staff members may themselves be victim to the strange ire of the angry natives.
-
-The strange part however is the different manner of encounters provided by moths and the rest of the crew. 
-
-All non moth personnel that have witnessed the attacks say the same thing. They're dead silent and drag off their crew mates into the dark blizzards, never to be seen again. They say that the most notable thing about them is their presence. When one of those moths is around, they know. A sense of fear and dread washes over you, followed by the quick ending struggle of their crew members. Never to be seen again.
-
-When moths tell the story however, there's a minor change. They hear them. They claim that the natives somehow echo their voice in a more primitive form of moffic. It rings through their minds, yet that's as far as they go. No moth has been able to establish a manner to communicate with these natives, let alone find them. All they say is that the echoing grows louder as they come nearer, and when they're closeby they can hear the echoes of their victims screaming in agony. 
+Mothic Engineers have been behind many successes from many companies, including making designs for Azik Interstellar, Cybersun Industries, Donk Co, and even Nanotrasen- for whom the moths were responsible for several station innovations.
 
 ***
