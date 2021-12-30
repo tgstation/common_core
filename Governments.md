@@ -35,7 +35,6 @@ Notes:
 * The most common language in the SSC is Novorusskii, a permutation of modern day Russian that is common to Old Russia on Earth, and to colonial regions dominated by Russian immigration, most notably the Former Third Soviet Union. While Galactic Common is frequently spoken in the major cities, it is not an official language of the SSC, and non-speakers will find their time in the region marred by communication issues if they stray too far into the countryside.
 * The SSC popular living location for nearby NT crewmembers who are unsatisfied living on NT property and seek more freedom and normalcy during their time off rotation. Most seasoned employees can afford a decent living space on one of the planets or orbital facilities, and the commute from the SSC core to NT's Peripheral Dispatch Station is only a day or two by local sublight mass transit. If your character has a private apartment or domicile nicer than a closet and isn't at least a head of staff, they probably live here.
 * Lots of neat tourist and recreational destinations for crewmembers on leave from work! The locals will probably hate you though, because of what some dumb band of assistants did to the place last weekend. And the weekend before that. And the weekend before that.......
-* The official language of the SSC is Novorusskii, an East Slavic language derived from Old-Earth Russian. While most people in larger settlements will speak GalCom, particularly in the capital of New Russia, the further you go from these centres of civilisation, the less you'll be able to get by without knowing the local language.
 
 
 # The Third Soviet Union
@@ -46,13 +45,16 @@ Type of Org: Rump State/Insurgency
 
 Description: The birth of the SSC did no favours to its mother, the Third Soviet Union. Founded roughly one century prior to SS13's construction by a splinter group of Communist settlers in the Russian dominated colonial region of New Moscow, the Third Soviet Union sought a return to what they viewed as the idyllic past of Soviet Russia, but this time free of the crippling external influences that saw that state (and the Second Union, for that matter) collapse. Unfortunately, they fell into many of the same pitfalls as their predecessors, with a regime marked by brutal repression and political violence.
 
-Such a state was doomed to fail, and it would take only around 50 years from its founding to its eventual collapse, with the February Revolution seeing the head cut from the beast. In its place, the SSC was founded to return political enfranchisement to the people of the Union, just in time to have that right again threatened by corporate influence.
+Such a state was doomed to fail just like its predecessors, and it would take only around 50 years from its founding to its eventual collapse, with the February Revolution seeing the head cut from the beast. In its place, the SSC was founded to return political enfranchisement to the people of the Union, just in time to have that right again threatened by corporate influence.
 
-Despite the central government's collapse, the half-century since has not seen the fires of communism die. Instead, they have been reduced to cinders- alive, but barely. Resistance groups of Red Soldiers and Communist Loyalists continue the fight against the capitalistic decadence of the SSC from hidden outposts dotted around the region, and have been known to cause issues for Nanotrasen, too.
+Despite the central government's collapse, the half-century since has not seen the fires of communism die. Instead, they have been reduced to cinders- alive, but barely. Though the likelihood of a resurgent Soviet state seems impossible, resistance groups of Red Soldiers and Communist Loyalists continue the fight against the capitalistic decadence of the SSC from hidden outposts dotted around the region, and have been known to cause issues for Nanotrasen, too.
 
 Notes:
-* The hostile space Russians you see are mostly associated with the TSU.
+* The hostile space Russians you see are mostly associated with the TSU, though some are just kosmogopniks with no cause and copious amounts of vodka.
 * While they are hidden and their numbers are few, Soviet Remnants are a formidable problem for the SSC to deal with. Terrorist attacks by the group are a constant threat to major cities in the SSC, particularly in New Moscow.
+* KS13 was a Soviet installation prior to being shut down during the collapse. The station was never reactivated by the SSC as it was deemed "too old" to bother expending resources on.
+* There are rumours that the Soviets still possess the PWS Khranitel Revolyutsii, their old flagship that went missing during the collapse. If these rumours are true, the Soviets may be able to pose a serious naval threat in the region- but as this has never materialised yet, many believe it's simply an apocryphal tale.
+
 
 # The Lizard Empire
 
