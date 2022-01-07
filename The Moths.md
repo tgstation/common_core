@@ -44,9 +44,9 @@ As to why the moths have not settled down and founded a colony to serve as a new
 
 # Names
 
-Names hold significant importance within moth culture. According to folklore names are inextricably bound to the owner, like a key to their soul that must be protected or face terrible consequences should anyone with ill intentions discover it. In more modern times, revealing one's own name has become a symbol of great personal trust. It is a matter so rarely discussed that it's not unheard of for some moths to forget their own name.
+Names hold significant importance within moth culture. According to folklore, names are inextricably bound to the owner, like a key to their soul that must be protected or face terrible consequences should anyone with ill intentions discover it. In more modern times, revealing one's own name has become a symbol of great personal trust. It is a matter so rarely discussed that it's not unheard of for some moths to forget their own name.
 
-For this reason no official name is recognized on the fleet. Every citizen is assigned an identification number that will be used for all official matters, while colloquially moths will address one another in various ways such as by nickname, rank, occupation or the ship they are serving on.
+For this reason, no official name is recognized on the fleet. Every citizen is assigned an identification number that will be used for all official matters, while colloquially moths will address one another in various ways such as by nickname, rank, occupation or the ship they are serving on.
 
 To allow identification within human society, moths are eventually required to pick their own legally recognized name. Some regard this as a meaningless formality and will pick at random, while others, seeing it as an opportunity to further exploit their amicable appearance, may choose a name that humans could find cute or amusing, much to the chagrin of the officials that have to approve the requests.
 
@@ -83,7 +83,7 @@ Given it is made up of thousands of old vessels, and the Moths' legacy of piracy
 
 Despite criminality in the fleet being almost absent, partially thanks to lax regulations in regards to narcotics and contraband, the same can't be said about the numerous pirate and smuggler crews that operate from within it. Although officially operating outside of its control, the fleet will often turn a blind eye to their activities as long as they keep contributing to the fleet's upkeep.
 
-Unsurprisingly this has often put a strain on diplomatic relations. In an effort to remain under the radar, most crews adhere to an unofficial "honor code" that most importantly forbids any type of violence, which has contributed to the moths' reputation of being peace-loving to a fault. Yet the truth is much less glamorous: it is a code followed not for honor but self-preservation as the fleet will immediately rescind any support and outlaw any crew found guilty of violent crimes to avoid any major diplomatic incidents.
+Unsurprisingly, this has often put a strain on diplomatic relations. In an effort to remain under the radar, most crews adhere to an unofficial "honor code" that most importantly forbids any type of violence, which has contributed to the moths' reputation of being peace-loving to a fault. Yet the truth is much less glamorous: it is a code followed not for honor, but self-preservation as the fleet will immediately rescind any support and outlaw any crew found guilty of violent crimes to avoid any major diplomatic incidents.
 
 ***
 
