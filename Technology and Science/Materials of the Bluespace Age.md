@@ -1,4 +1,4 @@
-# Materials in the Bluespace Age
+# Materials of the Bluespace Age
 
 ### Plasma
 Plasma is a novel compound, first discovered by mankind in limited quantities on Mars in the Amenthes region, from which it draws its scientific name, Amenthium. Various "ores" of plasma exist, including Amenthite, Memnonite, Thaumasiatite, and Hellasite, each with varying amounts of plasma and other impurities, and almost all coming from the vast plasma mines of Mars. Of these, Amenthite is the most commonly found in human space, comprised of around 78% plasma, with 17% silicon and 5% trace impurities including iron oxides and carbon.
