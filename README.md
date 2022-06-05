@@ -46,8 +46,8 @@ Random things and facts that don't deserve their own article or I haven't gotten
 * Most other settlements, both on other planets and on man-made space structures, are easily dated by their construction style and aesthetic to the range of a few decades, as they start out with a unified design and are slowly replaced and repaired bit by bit afterwards using newer technologies and trends.
 
 # Further reading
-[Nanotrasen, the big cheese themselves](https://github.com/tgstation/common_core/blob/master/Nanotrasen.md)
+[Nanotrasen, the big cheese themselves](https://github.com/tgstation/common_core/blob/master/Governments%20and%20Organisations/Corporations/Nanotrasen.md)
 
-[Syndicate corps](https://github.com/tgstation/common_core/blob/master/Syndicate.md)
+[Syndicate corps](https://github.com/tgstation/common_core/blob/master/Governments%20and%20Organisations/Corporations/The%20Syndicate/The%20Syndicate.md)
 
-[Governance in the common core universe](https://github.com/tgstation/common_core/blob/master/Governments.md)
+[Governance in the common core universe](https://github.com/tgstation/common_core/blob/master/Governments%20and%20Organisations/Governments/Governments.md)
