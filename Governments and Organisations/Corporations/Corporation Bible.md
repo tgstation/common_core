@@ -4,6 +4,9 @@ This document should not be taken as gospel. If you want to make an item, and do
 # Nanotrasen
 General industrial manufacturing concern. If you can't think of a specialised company to be making a given product, Nanotrasen will probably fit.
 
+# Voidustries
+This Faction specialises in Deep Space Travel, Researching advanced FTL technologies, A successful Byproduct of their research is Bluespace travel, creating Long range teleporters and transportation devices that almost directly compete with Nanotrasens technology.
+
 # Cybersun Industries
 The syndicate's primary corporate member. Produces high grade electronics, cyborgs for the consumer market, and basic virtual and artificial intelligences (i.e. those not including Nanotrasen's recent advancements).
 
@@ -53,4 +56,4 @@ Produces fitness equipment, such as skateboards, weight machines and clothing.
 Produces consumables, including snacks, drinks and cigarettes.
 
 # Sophronia Broadcasting
-A Broadcasting Company. Behind 'Sophronia Broadcasting's Plasteel Chef', and 'Sophronia Broadcasting's History Comes Alive'. Also creates merchandise in the form of the Cook's Ingredient Beacon and Curator's Hero Beacon. The Company is believed by some to conduct mind control experiments on their viewers.
+A Broadcasting Company. Behind 'Sophronia Broadcasting's Plasteel Chef', and 'Sophronia Broadcasting's History Comes Alive'. Also creates merchandise in the form of the Cook's Ingredient Beacon and Curator's Hero Beacon. The Company is believed by some to conduct mind control experiments on their viewers. 
