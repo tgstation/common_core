@@ -29,35 +29,3 @@ Tourist Information:
 * The urban density is highest around the oceans, with settlements further from water being smaller and less densely populated. Rural areas have survived the advancement to the space age, unlike on Earth.
 * The many wars of lizardkind have resulted in much of the ancient architecture of the planet being lost or ruined. The few remaining well preserved sites are now strictly guarded as cultural heritage sites. Zagoskeld's old city is one of the best preserved areas of Medieval Lizard architecture, and the Imperial Palace is a key example of this style.
 * While High Draconic is the official language of the Lizard Empire, officially around 2500 languages are recognised as still living by Lizard scholars. Strong cultural divides still cause issues for the central government, even centuries after unification.
-
-### The Lizard Currency
-To understand lizard currency, it is first important to understand lizard mathematics- owing to the lizard physiology of 4 fingers per hand, many number systems on Tizira throughout history were to a base 8, instead of humanity's 10. From this, a hexadecimal number system developed to base 16, and this is today used across the planet. Lizard currency, therefore, is also to a base 16. The Tiziran Rena, or Crown, is the only official legal currency on Tizira, although Universal Credits are also frequently accepted by larger companies and in major cities.
-
-A complex systems of coins dominates the Rena, with coins representing fractions of a full Rena. The smallest increment is the sekata (half kata), which is 1/32th of a pelata or 1/512th of a rena. From there, the increments build up as such:
-1 kata (pewter) = 2 sekata (1 k)
-1 selkata (two kata) = 2 kata
-1 talkata (four kata) = 4 kata
-1 yalkata (eight kata) = 8 kata
-1 pelata (iron) = 16 kata (1 p, 1/-)
-1 korta (gold) = 32 kata = 2 pelata (2 p, 2/-)
-1 alsan (sword) = 64 kata = 4 pelata (5 p, 5/-)
-1 serena (half rena) = 128 kata = 8 pelata (10 p, 10/-)
-1 rena (crown) = 256 kata = 16 pelata (1 r, 20 p, 20/-)
-
-Currency below a few rena is frequently expressed as pelata/kata, as these are fairly convenient coins to carry. Rena notes exist to the base 16, in order of 8 rena, 16 rena, 32 rena, etc.
-
-### The Ashwalkers
-Since Nanotrasen first arrived at the scorched hellscape that is Indecipheres, mining expeditions have mysteriously disappeared in the ashy wastes, never to be seen again. At the same time, a new threat emerged- known colloquially as Ashwalkers by the mining crew, these monsters seem similar to the lizards that humanity has known for decades, but rougher and more primal.
-
-Some 200 years ago, shortly before First Contact with humanity, the lizards created their first FTL-capable vessel- a colony ship, the ICS Thazakto, which would be sent off with the intent of finding a steady source of plasma, a material which had long eluded lizardkind and stunted their technological advancement. In a grand ceremony, the Thazakto pierced the light-speed barrier, and vanished into the great beyond in search of this miracle material. And then, there was nothing. Tizira never heard again from the pioneers aboard the ship.
-
-On the other side of the artificial wormhole, chaos ensued. The trip had created an electromagnetic pulse, a risk of FTL travel unknown to the unexperienced lizards. Worse still, the Thazakto found itself caught in the gravity well of a nearby planet immediately on dropping from FTL speed, and the already weakened ship found itself unable to escape. The damage was severe, and of the crew of 300, only 120 emerged from the smouldering wreckage on what was to be their new home- a lava-drenched hellscape, where ash hung heavy in the air. Indecipheres.
-
-The ship was reorganised into a makeshift shelter, and the survivors knew they would need to adapt to survive. Laws relaxed. Order crumbled. And then, the lizards made a dark discovery: the Necropolis, and its dark tendrils.
-
-The evil of this new land seeped into their psyches; soon, they found themselves reverting to their basest urges, driven only by primal instinct- and of course, the guiding hand of their new master, the Great Tendril, which creates new Ashwalkers in their twisted image when fed with the lifeforce of sacrifices.
-
-Now, the Ashwalkers stand, having taken the mantle of custodians of the Necropolis, ready to repel any invaders they find in their new homeland. To hunt.
-
-### On Rehabilitation of Ashwalkers
-While the psychological and physiological alterations brought about by the Necropolis are numerous and severe, Nanotrasen scientists have, via extensive testing, found some success in rehabilitating ashwalkers taken from the surface of Indecipheres. Via removal of exposure from the Necropolis, alongside careful reintroduction to normal lizard living conditions and the social environment of the station, some ex-ashwalkers have had their Necropolis Adaptation reversed, and been successfully reintegrated with normal society where they serve as a novel source of labour for Nanotrasen's spinward stations. Many more, however, have died during attempts, or been driven mad in the process.

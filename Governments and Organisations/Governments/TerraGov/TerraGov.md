@@ -13,7 +13,7 @@ Centralised colonies, or C-Colonies, are directly administrated by TerraGov, and
 While TerraGov does not impose direct control over such states as the SSC, it does maintain close relations with them, including a military presence of peacekeepers in the region, and economic and trading ties. Eventually it seems likely that the central government will attempt to bring them into the fold- but for now, these states are able to maintain some degree of independence from Humanity's central authority.
 
 ## Military
-TerraGov possesses a unified army, replacing the need for a traditional army for member states. Recruitment is done from all member states, with no particular bias on who is able to serve.
+TerraGov possesses a unified army (see: the TGJMC), replacing the need for a traditional army for member states. Recruitment is done from all member states, with no particular bias on who is able to serve.
 
 The TerraGov military has not dropped completely the trappings of the UN, with the classic blue helmets and berets remaining on their heads while deployed domestically or as peacekeeping forces, alongside a host of patches and TG markings. In more active warzones, this is likely to be reduced to a single patch.
 
