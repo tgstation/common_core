@@ -14,7 +14,7 @@ Adasta was one of the greatest finds during Humanity's surveying of the Alpha Ce
 
 Adasta, as is perhaps expected for a planet of its importance, is well represented in the senate- in fact, it is overrepresented relative to its population. This is perceived by many to be a deliberate choice to avoid a repeat of the disastrous Martian revolution, particularly as Adasta is now critical to maintaining humanity's industrial and military sectors.
 
-As far as life on Adasta is concerned, the planet is considered by many to be "Earth, but rainier". Modern industrial techniques and technology allow the planet's industry to run cleanly, giving a remarkably low pollution relative to its industrial capacity. While the planet may lack some of the old-world charm of Earth, it more than makes up for it with its modern city design. They say that Adasta City has humanity's best nightlife, as well as some of the best quality of life anywhere in human space. The constant battering rain is a mere inconvenience when every street has a cover.
+As far as life on Adasta is concerned, the planet is considered by many to be "Earth, but darker and rainier". Modern industrial techniques and technology allow the planet's industry to run cleanly, giving a remarkably low pollution relative to its industrial capacity. While the planet may lack some of the old-world charm of Earth, it more than makes up for it with its modern city design. They say that Adasta City has humanity's best nightlife, as well as some of the best quality of life anywhere in human space. The constant battering rain is a mere inconvenience when every street has a cover.
 
 The twin moons of Adasta, Romulus and Remus, have become true industrial heartlands in much the same way as Earth's own moon, with major shipyards and manufacturing facilities.
 
@@ -37,5 +37,17 @@ The gas cities of Astarte are sprawling structures made up of a number of coloss
 * The planet as a whole has a population of 6 million, spread across the extremely fertile central band. Fewer live in the vast forests of the north and south.
 * Harvest is an Agriworld, with an economy very strongly based upon farming. Food from Harvest feeds humanity throughout the galaxy, with millions of tonnes being produced per annum. Other economic sectors include mining, logging and tourism.
 * The several moons of Harvest are barren, and as such are unpopulated.
+* Owing to its history as a settlement of the Brandt Gruppe's agricultural division, the Harvester dialect that has emerged there is regarded as a German regional dialect, although with significant alteration due to additional migration through the centuries since.
 
 Harvest, in the Demeter system, is one of Humanity's more important colonies, due to the incredible fertility of the soil there. Classified as an Eden planet, Harvest has a perfect atmosphere for humanity, as well as a remarkably mild climate. By all accounts, it was a perfect planet for humankind to settle, and humans have taken excellently to life there. The population is austere, hard-working and communal, and the people pride themselves on this fact, viewing offworlders with a degree of suspicion. Rural areas are dominated by colossal farms, producing huge quantities of food crops, as well as large amounts of animal products. In urban areas, food processing plants are common, turning the harvest from the countryside into high quality products to be shipped across the galaxy.
+
+# The Locker: Throw Away the Key
+
+Fact Sheet:
+* If you've found your way to the Locker, you've fucked up somewhere along the line.
+* A home for the worst the galaxy has to offer, the Locker is where those deemed too dangerous to be held in any standard prison are sent.
+* Perhaps the most famous inhabitant of the Locker, Sterling Q. Atamann, the former Archmagister of the Wizard's Federation, is kept in a special "magic-proof" cell within the highest security portion of the prison.
+
+Located in a remote system somewhere on the fringes of the TerraGov core, the Locker (as it is colloquially known) is humanity's highest security prison, for humanity's worst criminals. Built into an asteroid within a nebula and guarded by a detachment of the TerraGov navy, the prison houses a diverse range of evil types: mass murderers, war criminals, the criminally insane; they all find their way to the Locker. Once you're there, you're not leaving. In over 150 years of operation, nobody has successfully escaped the Locker- though many have tried.
+
+Commissioned in 2305 as a replacement for the previous Jump Three Incarceration Facility, the Locker is divided into 3 categories: Supermax, Hypermax, and Psych-Detention. Given the Locker is only used for criminals who are serving a life sentence *and* are so dangerous to society that they must be entirely separated from it, these distinctions are more geared towards liberties granted to the prisoners: visitation rights, luxuries, etc.
