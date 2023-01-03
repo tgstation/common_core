@@ -9,7 +9,7 @@ This is not an exhaustive effort to catalog the universe of SS13 in great detail
 # The Setting
 ## Basic Description
 
-The year is 2562. The universe is in flux, as giant megacorporations escalate from covert treachery and assassinations to outright skirmishing, government organizations desperately try to reign in and project power over said corporations as they expand to the farthest reaches of space, and fantastic and fascinating scientific advancements are constantly being made then destroyed. But by standing too far back and looking at the big picture, it's easy to miss out on the most compelling parts of life in the 26th century. These are the stories of the people, pets, silicons, and everything else in between who have become involved with Nanotrasen and their ventures.
+The year is 2563. The universe is in flux, as giant megacorporations escalate from covert treachery and assassinations to outright skirmishing, government organizations desperately try to reign in and project power over said corporations as they expand to the farthest reaches of space, and fantastic and fascinating scientific advancements are constantly being made then destroyed. But by standing too far back and looking at the big picture, it's easy to miss out on the most compelling parts of life in the 26th century. These are the stories of the people, pets, silicons, and everything else in between who have become involved with Nanotrasen and their ventures.
 
 ![A map of the ss13 universe, roughly sketched](https://file.house/2RoN.png)
 
