@@ -21,3 +21,5 @@ Blackstar would form one of the primary companies involved in the Chinese Revolu
 Headquarters: Cape Town, South Africa, Earth
 
 Somewhat oddly for a PMC, war is not the business of Springbok: they concern themselves more with private security, offering personal protection, site security, and armed and armoured convoys through hostile areas. Founded in the early 1970s in South Africa, Springbok would make a name for themselves as effective security for the dangerous streets of the nation, with contracts flooding in from high profile individuals, politicians, business owners, and even the South African Government itself. The sight of a Springbok operative with their signature blue shirts, green vests and Vektor assault rifles was common around the major cities of South Africa, and their armoured bakkies with their recognisable leaping springbok logo frequently made trips on the streets.
+
+In the modern day, Springbok maintains its clean image, mostly acting as an independent security contractor for various corporations, as well as doing some ad-hoc work for TerraGov.
