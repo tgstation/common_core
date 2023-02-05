@@ -13,7 +13,7 @@ The Moon: ever a focus of Humanity's gaze. A muse for artists and romantics; an 
 
 When TerraGov did come into being, however, this created a problem. The nominally-independent Moon had relied for centuries on its status as an economic and industrial free zone, but humanity's centralised government claimed natural dominion over the Lunar body. This dispute escalated through the senate's halls, and then into the legal system, until the work of Chancellor Christian Ebert (and the resulting Lunar Free Zone Act) brought about the establishment of the Lunar Free Territory- an economic free area, under nominal TerraGov jurisdiction but with significant economic, industrial and legal liberties afforded to a newly-founded committee of the 12 ruling corporations. This deal allowed the Moon to remain an important hub for industry, while also giving TerraGov the ability to maintain important legal stability and territorial integrity in the Sol System.
 
-Life on the Moon today is characterised by stratification. The dominant form of Lunar architecture is the stack city- so named as it is tunneled into the surface, with wealthier citizens living on or near the surface underneath great domes, while beneath lie the poorer districts where the workers live.
+Life on the Moon today is characterised by stratification. The dominant form of Lunar architecture, and the perfect example of this phenomenon, is the stack city- so named as it is tunneled into the surface, with wealthier citizens living on or near the surface underneath great domes, while beneath lie the poorer districts where the workers live.
 
 ### Mars: Fuelling Humanity
 

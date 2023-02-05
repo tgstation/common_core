@@ -13,9 +13,8 @@ Field: Research and Development
 
 ## NTCS (Nanotrasen Chemical Supply)
 Field: Chemical Manufacture and Distribution
-Another acquisition made in the early days of the company, NTCS began life as Texas Chemical, a major US-based chemical manufacturer. In the centuries since, it's grown to be one of humanity's largest chemical producers, taking advantage of NTHI's dominance in the resource extraction field to produce a wide range of consumer, laboratory, and industrial grade chemicals. NTCS' operations are managed from Nanotrasen's Southern US Headquarters, in Houston
+Another acquisition made in the early days of the company, NTCS began life as Texas Chemical, a major US-based chemical manufacturer. In the centuries since, it's grown to be one of humanity's largest chemical producers, taking advantage of NTHI's dominance in the resource extraction field to produce a wide range of consumer, laboratory, and industrial grade chemicals. NTCS' operations are managed from Nanotrasen's Southern US Headquarters, in Houston.
 
 ## NTCG (Nanotrasen Consumer Goods)
 Field: Consumer Electronics
 NTCG is based out of Nanotrasen's Asian regional headquarters in Busan, Korea.
-

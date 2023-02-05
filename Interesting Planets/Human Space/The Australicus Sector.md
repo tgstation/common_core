@@ -6,7 +6,3 @@ Constituting a federation of 9 stars (Kookaburra, Booderee, Adelaide, Elizabeth,
 ### Kookaburra
 The capital system of the Australicus Sector, Kookaburra is considered by many to be the least hostile of the systems of the Australicus Sector. It is, naturally, host to the capital planet of the sector, Union, alongside 2 other habitable planets, all of which have mild climates and generally harmless fauna.
 
-### Union- Home of the Australicans
-
-#### Fact Sheet:
-
