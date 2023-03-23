@@ -78,3 +78,13 @@ Notes:
 * With the exodus of lizards from the colonies, there are many lizards in human space today who were born outwith of lizard space, and are therefore much more integrated with human society.
 * The majority of lizards who are found outwith the empire are members of the working and artisan castes- the military and priestly castes are much more likely to be loyalists to the Imperial cause and remain in the core systems.
 * Lizards on the crew are most likely not from within the borders of the empire, however as with all things this is not a universal truth.
+
+# The Mothic Admiralty Board
+
+Location: Mothic Grand Nomad Fleet
+
+Type of Org: Military Junta
+
+Capital: The Va Lümla, Flagship of the GNF
+
+Description: When the moths left their home on Lümla behind, the traditional power structures of planetary life were left behind with it.

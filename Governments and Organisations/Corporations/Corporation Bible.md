@@ -1,5 +1,5 @@
 # HEY, LISTEN!
-This document should not be taken as gospel. If you want to make an item, and don't want to tie it to one of these corporations, don't! Feel free to add more! A more fleshed out universe is good, and more corporations is one way of making that happen.
+This document should not be taken as gospel (despite its dramatic name). If you want to make an item, and don't want to tie it to one of these corporations, don't! Feel free to add more! A more fleshed out universe is good, and more corporations is one way of making that happen.
 
 # Nanotrasen
 General industrial manufacturing concern. If you can't think of a specialised company to be making a given product, Nanotrasen will probably fit.
