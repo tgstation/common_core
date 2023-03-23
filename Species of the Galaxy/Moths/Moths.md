@@ -79,11 +79,21 @@ Given it is made up of thousands of old vessels, and the Moths' legacy of piracy
 
 ***
 
-# Smugglers and Privateers
+# Smugglers, Privateers and Exiles
 
 Despite criminality in the fleet being almost absent, partially thanks to lax regulations in regards to narcotics and contraband, the same can't be said about the numerous pirate and smuggler crews that operate from within it. Although officially operating outside of its control, the fleet will often turn a blind eye to their activities as long as they keep contributing to the fleet's upkeep.
 
 Unsurprisingly, this has often put a strain on diplomatic relations. In an effort to remain under the radar, most crews adhere to an unofficial "honor code" that most importantly forbids any type of violence, which has contributed to the moths' reputation of being peace-loving to a fault. Yet the truth is much less glamorous: it is a code followed not for honor, but self-preservation as the fleet will immediately rescind any support and outlaw any crew found guilty of violent crimes to avoid any major diplomatic incidents.
+
+But outside of these caveats the fleet is remarkably tough on criminality, which has greatly contributed in maintaining its mostly crime-free status. 
+
+As the fleet does not include long term imprisonment as a punishment, disciplinary action ranges from having discretionary credits docked or temporary suspension from other fleet benefits, while major offences may result in permanent exile. Punishments for repeat offenders typically become exponentially more severe.
+
+The fleet has been often criticized for seemingly weighting judgement around the collective interests of the fleet more so than what human society would call a sense of just punishment, with disproportionate sentences for underperforming members while capable crew may be able to get away with a slap on the wrist for something that would have put the former at risk of major disciplinary action or even exile. Yet most of its members still defend this practice as being a necessity, as the tough life on the fleet does not allow the luxury of harboring troublemakers who can't pay back for their misdeeds.
+
+After being sentenced, exiles are afforded transportation to a nearby settlement of their choice. Although not explicitly against the law, keeping contacts with exiles is frowned upon and likely to negatively affect social standing within the fleet, causing most exiles to end up being left to fend for themselves. However, for some it can be the start of a new life of greater individual freedom, for others an opportunity to continue their life of crime unshackled from the influence of the fleet.
+
+Nowadays many small communities of moth exiles and their descendants exist, some well adjusted to life among the other races, others preferring to keep for themselves. While the descendants of exiles are able to request membership into the fleet, they will be required to completely sever all ties with their family and friends should their request be approved.
 
 ***
 
