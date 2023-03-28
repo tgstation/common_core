@@ -20,7 +20,7 @@ Trivia: If the creation story of Reebe is to be believed, then you could infer t
 
 ## Netherworld
 
-The Netherworld is one of the few inhabited dimensions, with the inside being a vast plane of fully lit rainbow structures, flora, and sky. The dimension is survivable atmospheric amd pressure wise, but is filled with esoteric creatures of all sizes and shapes and colors, ranging from the size of ants to large buildings. The natural fauna within seem to be interlocked in a constant hyper evolutionary race, making a documentation of species impossible.
+The Netherworld is one of the few inhabited dimensions, with the inside being a vast plane of fully lit rainbow structures, flora, and sky. The dimension is survivable atmospheric and pressure wise, but is filled with esoteric creatures of all sizes and shapes and colors, ranging from the size of ants to large buildings. The natural fauna within seem to be interlocked in a constant hyper evolutionary race, making a documentation of species impossible.
 
 The only entrance to the Netherworld has been natural "links" found in the Spinward Periphery. Unfortunately, these are two ways and as such occasionally a creature wanders into our reality. These creatures are nearly always dangerous and make reaching the link itself difficult. Even if you reached the link itself, being inside is both mind melting and incredibly lethal. As such, Nanotrasen has not made any advancements in taking advantage of the dimension.
 
