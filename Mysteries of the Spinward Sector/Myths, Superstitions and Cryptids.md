@@ -1,13 +1,13 @@
 Superstitions, myths and legends are as numerous and varied as the stars in the sky, and every place has its own local flavors. Some, however, have ascended to such popularity to be widely known across most of the spacer community.
 
 Some bad omens or things said to bring bad luck include:
--Wearing red on your first day at work
--The number 13
--Putting on a space helmet before the suit/Wearing a helmet without the suit
--Making preparations to disembark before docking is complete(i.e. unbuckling from the seat)
--Naming a ship after a living person
--Counting the stars out of a window
--Borrowing work equipment (typically for dangerous jobs)
+*Wearing red on your first day at work
+*The number 13
+*Putting on a space helmet before the suit/Wearing a helmet without the suit
+*Making preparations to disembark before docking is complete(i.e. unbuckling from the seat)
+*Naming a ship after a living person
+*Counting the stars out of a window
+*Borrowing work equipment (typically for dangerous jobs)
 
 ## Space Whales
 These gargantuan beasts are said to be responsible for the mysterious disappearance of countless vessels. They are typically depicted as pitch black, occasionally with bright dots easily mistaken for distant stars. The vocalizations they use for echolocation are capable of scrambling radar equipment.  It is said the only time a space whale can be seen is when they open their enormous mouth to swallow entire stations whole.
