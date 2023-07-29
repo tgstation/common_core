@@ -29,7 +29,7 @@ Some believe these factors caused something of a self-fulfilling prophecy, as th
 
 
 ## Lost Cosmonaut
-Appears as a man floating in space wearing a tattered, bloodied spacesuit and a helmet with a borken visor, yet an impenetrable darkness seems to always linger where his face would be. The Lost Cosmonaut is said to be portent of doom, visiting those who are in mortal danger or on their way to certain death.
+Appears as a man floating in space wearing a tattered, bloodied spacesuit and a helmet with a broken visor, yet an impenetrable darkness seems to always linger where his face would be. The Lost Cosmonaut is said to be portent of doom, visiting those who are in mortal danger or on their way to certain death.
 
 He is believed to be the spirit of the first person to become stranded in space after his tether malfunctioned during routine EVA maintenance. His name has been lost to time, and his remains were never found.
 
