@@ -40,6 +40,8 @@ As to why the moths have not settled down and founded a colony to serve as a new
 
 * Mothra is a very popular hero among the Moth community and most conflicts in Kaiju conventions are usually caused by uppity Moths.
 
+* Despite being slightly taller than humans on average, moths accustomed to the relatively higher human standard gravity compared to the fleet tend to develop a somewhat hunched over posture due to the weight of their wings, making them appear much shorter. Although they can adapt without ill effects, long term exposure to high gravity tends to make this posture change permanent, making fleet-based moths a rather standout sight in human territories.
+
 ***
 
 # Names
