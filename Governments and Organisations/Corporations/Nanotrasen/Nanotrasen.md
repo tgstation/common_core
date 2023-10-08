@@ -43,18 +43,14 @@ Notes:
 * Staffed by a slew of high ranking officials, including Admirals and Corporate Directors.
 
 
-# Sub-Entry: Nanotrasen Division of Asset Protection
-
-Location: Mostly active in Sol, some presence in Spinward Sector.
-
-Type of Org: Division of Nanotrasen
+# Sub-Entry: Asset Protection and Security Division
 
 Description: As close as Nanotrasen is legally allowed to come to owning a private army, and then some. The DAP is Nanotrasen's paramilitary wing, and on paper is in charge of protecting most of Nanotrasen's cargo ships, settlements, space stations, and other valuable assets from the hands of insurgents or pirates who may want to cause them harm. In reality, however, the DAP performs offensive operations at least as often as it performs defensive maneuvers, a fact that is often left out of their press material. Some of their offensive operations include black ops raids on corporate rivals, overrunning native populations on resource rich planets or asteroid belts, and lightning strikes on vulnerable cargo transports carrying desired goods; in short, the exact things they are charged with preventing.
 
 Despite their generally shady nature and willingness to commit war crimes in pursuit of the almighty space dollar, the DAP is rarely involved in activity in the Spinward Sector. Their reputation back in Sol was already under scrutiny for various espionage operations they were apart of before the latest round of inquiries into Nanotrasen's Spinward activities, so NT's leadership has made as much of an effort as possible to distance the two organizations from each other. Still though, it's possible to find a few agents on a long distance mission protection Nanotrasen cargo or high value prisoners on the Periphery, though most of their functionality has been taken over by the Emergency Response Corps or on-station security teams.
 
 Notes:
-* The Department of Asset Protection prefers older, less experimental gear than their Spinward counterparts. The NT Boarder AR and venerable M1911 as well as the aging Mk. I SWAT suit are the weapons and armor of choice for AP Operatives.
+* The Asset Protection and Security prefers older, less experimental gear than their Spinward counterparts. The NT Boarder AR and venerable M1911 as well as the aging Mk. I SWAT suit are the weapons and armor of choice for AP Operatives.
 
 
 # Sub-Entry: Nanotrasen Emergency Response Corps
