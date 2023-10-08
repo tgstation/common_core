@@ -1,8 +1,7 @@
 # Divisions of Nanotrasen
 
 # NTHI (Nanotrasen Heavy Industry)
-![NTHI logo](https://i.imgur.com/zMO6ZK5.png "NTHI logo")
-<img src="https://i.imgur.com/zMO6ZK5.png" alt="NTHI Logo" style="height: 256px; width: 1328px">
+![NTHI logo](https://i.imgur.com/zMO6ZK5.png)
 Headquarters: NT European International Campus, Dortmund, Germany
 Field: Resource Extraction and Heavy Industrial Equipment
 Originally existing as the German Wulfe Gruppe, NTHI was the first major acquisition beyond computing made by Nanotrasen, starting their upwards climb to being one of humanity's foremost corporations. NTHI is one of the company's most important divisions, if not the most important, being responsible for around 1/3rd of Nanotrasen's overall net worth, as well as managing Nanotrasen's extensive plasma empire. Most of the stations and outposts found in the frontier and in major industrial centres are operated primarily by NTHI, usually with some involvement by NTFID.
