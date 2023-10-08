@@ -1,6 +1,7 @@
 # Divisions of Nanotrasen
 
 # NTHI (Nanotrasen Heavy Industry)
+![NTHI logo](https://i.imgur.com/zMO6ZK5.png "NTHI logo")
 <img src="https://i.imgur.com/zMO6ZK5.png" alt="NTHI Logo" style="height: 256px; width: 1328px">
 Headquarters: NT European International Campus, Dortmund, Germany
 Field: Resource Extraction and Heavy Industrial Equipment
