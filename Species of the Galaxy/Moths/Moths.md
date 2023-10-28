@@ -42,16 +42,6 @@ As to why the moths have not settled down and founded a colony to serve as a new
 
 ***
 
-# Names
-
-Names hold significant importance within moth culture. According to folklore, names are inextricably bound to the owner, like a key to their soul that must be protected or face terrible consequences should anyone with ill intentions discover it. In more modern times, revealing one's own name has become a symbol of great personal trust. It is a matter so rarely discussed that it's not unheard of for some moths to forget their own name.
-
-For this reason, no official name is recognized on the fleet. Every citizen is assigned an identification number that will be used for all official matters, while colloquially moths will address one another in various ways such as by nickname, rank, occupation or the ship they are serving on.
-
-To allow identification within human society, moths are eventually required to pick their own legally recognized name. Some regard this as a meaningless formality and will pick at random, while others, seeing it as an opportunity to further exploit their amicable appearance, may choose a name that humans could find cute or amusing, much to the chagrin of the officials that have to approve the requests.
-
-***
-
 # Racial Tensions
 
 Racial tensions with the Moths have dramatically declined since the initial conflicts of first contact, however this does not mean that everything is peachy between them. Many surveys find that humans are much more positively inclined towards Moths than other xeno lifeforms, and the feeling is mutual. This may be why Moths have managed to dodge the racially-motivated violence that is common to the other xenos.
