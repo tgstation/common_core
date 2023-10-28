@@ -9,12 +9,13 @@ For this reason, no official name is recognized on the fleet. Every citizen is a
 To allow identification within human society, moths are eventually required to pick their own legally recognized name. Some regard this as a meaningless formality and will pick at random, while others, seeing it as an opportunity to further exploit their amicable appearance, may choose a name that humans could find cute or amusing, much to the chagrin of the officials that have to approve the requests.
 
 ### Fleet Day and the Festival of the Errant Lights
+
 >"You can't be lost if you don't know where to go. So follow the wind, for it knows the way."
 -Mothic Proverb
 
 Fleet Day, one of the most anticipated festivities of the fleet, sees all of the fleet mothkind congregate around the various capital ships for a rare day of merry leisure. It is also a rare occasion for outsiders to witness the fleet's bustling life, as during the festivities they tend to be more tolerant than usual to tourists.
 Closing the festivities is the so-called Festival of the Errant Lights, a symbolic reenactment of the start of the fleet's journey towards the vast unknown. Each moth is encouraged to bring a lantern (or any other light-emitting device) which will be jettisoned out of the ship along with thousands of others. 
-Although most will contribute simple lanterns, each year some of the most creative and ingenious fleet members compete to create the most beautiful and ingenous lighting contraption, with competition seemingly becoming more and more fierce each year as the creators try to one-up each other.
+Although most will contribute simple lanterns, each year some of the most creative and ingenious fleet members compete to create the most beautiful and impressive lighting contraption, with competition seemingly becoming more and more fierce each year as the creators try to one-up each other.
 Those lucky enough to witness the festivities are often impressed about the spectacular lightshow created by the thousands of lights drifting out into space.
 Finding one of these festival lanterns out space is said to bring good luck, a rare occurrence for the fleet as they tend to not linger in the same area for long. It is, however, a sentiment rarely reciprocated by those "lucky" enough to have to manouver their ship around the newly formed debris field.
 
