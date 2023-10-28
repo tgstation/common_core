@@ -87,4 +87,14 @@ Type of Org: Military Junta
 
 Capital: The Va Lümla, Flagship of the GNF
 
-Description: When the moths left their home on Lümla behind, the traditional power structures of planetary life were left behind with it.
+Description: The Mothic Grand Fleet is a conglomeration of many vessels, commanded by the Mothic Admiralty Board. The vessels of the ship are often mashed together amalgamations of older models, many of their ships being regarded as the modern ship of theseus. Despite this, or even because of this, the moths aboard the Nomad Fleet are some of the finest in the galaxy. They are nomads, travelling from region to region, never staying in the same place for too long but always staying on the outskirts of society.
+
+Their economy is funded on two main axis: Piracy and engineering.
+They frequently organize raids to big vessels, kidnap smaller ones and similar piracy crimes in order to gather resources, money and parts. Despite their piracy, however, many organizations are in good terms with the moths, seeing these losses as a small price to pay for the real price: The mothic engineering.
+
+In many societies it's common to do celebratory flights - taking a decades or even centuries old spaceship and taking it for a public showcase during a holiday. Fixing a hundreds plus years old spaceship and making it capable of hyperspeed flight is no easy task, and one only one group can do: The moths. Getting moth engineers costs a pretty penny however the empires are willing to offer under the conter diplomatic immunity and a blind's eye to the moth piracy in exchange for a generous cut in prices.
+
+In addition to repairing craft no one else knows how to the moths are often contracted as advisors on state-of-the-art stations and ships. Spaceships, even the most modern ones, are often a jumble of parts from different companies, times and models. Failures where 12 different working parts interlock themselves in such a way that they take down the whole ship are not too uncommon, and only the moths have cracked the code on how to adapt different model pieces to work together. For that extra safety presidents, CEOs and emperors are willing to contract moth experts into their crew, often with diplomatic favors to the entire fleet as payment. 
+
+Many think that it's these odd and hyperspecialized jobs that keep the moths afloat but in reality these jobs act as a political tool in order to keep their piracy under wraps rather than a source of income. The moths have little if any economic relations with the rest of the galaxy, making external payments almost useless to their society. Their primary way of obtaining commodities and industralized products is via direct piracy, not commerce - the jobs are merely to enable this. 
+The moths will never tell you this, but almost all the objects in the fleet were stolen from someone else.
