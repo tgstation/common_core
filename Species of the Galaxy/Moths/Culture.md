@@ -17,9 +17,10 @@ Fleet Day, one of the most anticipated festivities of the fleet, sees all of the
 Closing the festivities is the so-called Festival of the Errant Lights, a symbolic reenactment of the start of the fleet's journey towards the vast unknown. Each moth is encouraged to bring a lantern (or any other light-emitting device) which will be jettisoned out of the ship along with thousands of others. 
 Although most will contribute simple lanterns, each year some of the most creative and ingenious fleet members compete to create the most beautiful and impressive lighting contraption, with competition seemingly becoming more and more fierce each year as the creators try to one-up each other.
 Those lucky enough to witness the festivities are often impressed about the spectacular lightshow created by the thousands of lights drifting out into space.
-Finding one of these festival lanterns out space is said to bring good luck, a rare occurrence for the fleet as they tend to not linger in the same area for long. It is, however, a sentiment rarely reciprocated by those "lucky" enough to have to manouver their ship around the newly formed debris field.
+Finding one of these festival lanterns out space is said to bring good luck, a rare occurrence for the fleet as they tend to not linger in the same area for long. It is, however, a sentiment rarely shared by those "lucky" enough to have to manouver their ship around the newly formed debris field.
 
 ### Sparkweed
+
 One of the few surviving plants originating from the moth homeworld and arguably the most obiquitous, the fleet is known to produce an enormous quantity of Sparkweed thanks to it's many uses as a recreational substance as well as the speed and ease with which it can grow in the right conditions.
 It is an aquatic plant growing on a central stem with pinnate leaves and a purple-reddish color, it requires a minimum temperature of 45°C to grow and can survive up to 120°C.
 The otherwise prohibitively expensive amount of heating required for any conventional hydroponic setup was no match for mothic ingenuity: by hooking up the hydroponic tanks to the to the ship engines' cooling systems, Sparkweed became nearly cost-free to produce. Even outside of dedicated hydroponic ships, some of the more enterprising captains occasionally jury-rig their own small scale production.
