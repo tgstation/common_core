@@ -11,13 +11,13 @@ To allow identification within human society, moths are eventually required to p
 ### Fleet Day and the Festival of the Errant Lights
 
 >"You can't be lost if you don't know where to go. So follow the wind, for it knows the way."
--Mothic Proverb
+-Old Mothic Proverb
 
 Fleet Day, one of the most anticipated festivities of the fleet, sees all of the fleet mothkind congregate around the various capital ships for a rare day of merry leisure. It is also a rare occasion for outsiders to witness the fleet's bustling life, as during the festivities they tend to be more tolerant than usual to tourists.
 Closing the festivities is the so-called Festival of the Errant Lights, a symbolic reenactment of the start of the fleet's journey towards the vast unknown. Each moth is encouraged to bring a lantern (or any other light-emitting device) which will be jettisoned out of the ship along with thousands of others. 
 Although most will contribute simple lanterns, each year some of the most creative and ingenious fleet members compete to create the most beautiful and impressive lighting contraption, with competition seemingly becoming more and more fierce each year as the creators try to one-up each other.
 Those lucky enough to witness the festivities are often impressed about the spectacular lightshow created by the thousands of lights drifting out into space.
-Finding one of these festival lanterns out space is said to bring good luck, a rare occurrence for the fleet as they tend to not linger in the same area for long. It is, however, a sentiment rarely shared by those "lucky" enough to have to manouver their ship around the newly formed debris field.
+Finding one of these festival lanterns out space is said to bring good luck, a rare occurrence for the fleet as they tend to not linger in the same area for long. It is, however, a sentiment rarely shared by those "lucky" enough to have the newly formed debris field smash into their hull.
 
 ### Sparkweed
 
@@ -25,5 +25,5 @@ One of the few surviving plants originating from the moth homeworld and arguably
 It is an aquatic plant growing on a central stem with pinnate leaves and a purple-reddish color, it requires a minimum temperature of 45°C to grow and can survive up to 120°C.
 The otherwise prohibitively expensive amount of heating required for any conventional hydroponic setup was no match for mothic ingenuity: by hooking up the hydroponic tanks to the to the ship engines' cooling systems, Sparkweed became nearly cost-free to produce. Even outside of dedicated hydroponic ships, some of the more enterprising captains occasionally jury-rig their own small scale production.
 Sparkweed stems and leaves can be either chewed or dried and steeped in hot water, while the roots are smoked akin to a cigarette (called "Afterburners") thanks to their spongy structure acting as a natural filter.
-It has a mild euphoric effect and gives a feeling of warmth. High dosage poses no particular danger, although long term excess tends to cause "the shakes", a persistent sense of anxiety and shivering.
+It has a mild euphoric effect and gives a feeling of warmth. High dosage poses no particular danger, although long term excess tends to cause "the shakes", a persistent sense of anxiety and shivering. This condition can be easily remedied by stopping consumption for a few days, though it is widespread enough to have contributed to the moths' reputation of always being on edge.
 What little is known about its origins has been passed through generations: it would grow exclusively in the scorching waters of volcanic geysers and was a staple for enduring the freezing temperatures of the planet's colder side.
