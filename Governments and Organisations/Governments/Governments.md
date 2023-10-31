@@ -87,4 +87,17 @@ Type of Org: Military Junta
 
 Capital: The Va Lümla, Flagship of the GNF
 
-Description: When the moths left their home on Lümla behind, the traditional power structures of planetary life were left behind with it.
+Description: The Mothic Grand Fleet is a conglomeration of many vessels, commanded by the Mothic Admiralty Board. The vessels of the ship are often mashed together amalgamations of older models, many of their ships being regarded as the modern ship of theseus. Despite this, or even because of this, the moths aboard the Nomad Fleet are some of the finest in the galaxy. They are nomads, travelling from region to region, never staying in the same place for too long but always staying on the outskirts of society.
+
+Their economy is funded on two main axis: Piracy and Engineering, even if the admiralty board never has publicly admitted to piracy.
+
+The moths are often contracted as advisors on state-of-the-art stations and ships. Spaceships, even the most modern ones, are often a jumble of parts from different companies, times and models. Failures where 12 different working parts interlock themselves in such a way that they take down the whole ship are not too uncommon, and only the moths have cracked the code on how to adapt different model pieces to work together. For that extra safety presidents, CEOs and emperors are willing to contract moth experts into their crew, often with turning a blind's eye to the fleet's piracy as payment. 
+
+They frequently organize raids to loot big vessels and kidnap smaller ones in order to gather resources, money and parts. The moths deny any accusations of piracy, of course, and the whole thing is regarded as a myth outside of the fleet. The large corporations and governments also deny these claims, in part to keep good deals with the moths and in part to hide the risks associated with space travel. While the admiralty board openly denies the claims and strongly critiques the practice they secretly fund and direct the moth piracy for their own gains.
+
+Notes:
+* The Admirality Board (and by extension the rest of the fleet) don't openly admit to the piracy and try to cover it up as much as possible. Outside of dedicated pirate raids getting visited by the nomadic fleet is frequently peaceful and with tons of commerce.
+* The Admirality Board spends a lot of money on marketing to appeal to their fluffiness and cuteness in order to cover up their piracy; this is why you can find many moths on service or medical duty across the galaxy in addition to engineering roles or why so many safety posters feature moths in them.
+* The fleet likes to hover around the edge of the galaxy rather than the more developed areas around Terra; this helps their piracy business but is mostly done for cultural reasons.
+
+
