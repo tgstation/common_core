@@ -16,7 +16,7 @@ Abandonment of the station leaves many important station assets especially vulne
 
 ## General responsibilities during an evacuation
 All crew members should board the escape shuttle at the first available opportunity, provided they have no other significant responsibility to fulfill. If you are unable for some reason unable to reach the escape shuttle, they may opt for an emergency escape pod. The likelihood of rescue by means of escape pod is far less likely due to costs associated with search and rescue.
-If a crewmember opts for an escape pod, the cost or the rescue operation will be owed to the crewmember. Failure to pay or assume proper debt will result in forced collections which may include but is not limited to indentured servitude, scientific experimentation, and organ harvesting in order to recoup the cost of the rescue.
+If a crewmember opts for an escape pod, the debt of the rescue operation will be owed to the crewmember. If the debt can not be payed imedicatly, Nanotrasen will deduct the cost from your wage until the debt is repaid.
 
 ## Specific responsibilities during an evacuation
 The following tasks should be accounted for prior to the departure of the escape shuttle.
