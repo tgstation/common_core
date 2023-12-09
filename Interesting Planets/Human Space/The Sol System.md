@@ -2,6 +2,7 @@
 Ah, Sol. The centre of human space, and the ancestral homeland of every human throughout the galaxy today. As is probably expected from the centre of a galactic empire, the Sol System is densely populated (mostly in the central band), heavily industrialised, and full of opportunity. In addition, it's easily the safest human territory one could choose to live in, as any attackers (or pirates) will rapidly find themselves under the guns of half the TerraGov fleet stationed above the Moon.
 
 ### Luna: The Lunar Free Territory
+> "I see the bad moon a-risin'; I see trouble on the way; I see earthquakes and lightnin'; I see bad times today"
 
 #### Fact Sheet:
 * As one of humanity's first settlements, Luna was originally settled prior to the foundation of TerraGov, instead being handled entirely by corporate entities from various nations on Earth. This created some friction at the outset of TerraGov's existence, which (after some debate) lead to the establishment of the Lunar Free Territory- the territory was incorporated into TerraGov's jurisdiction, but with significant economic freedom when compared with other federal regions. This loosening of red tape has allowed the Moon to flourish into an industrial heartland for humanity, with colossal shipyards and massive manufacturing plants.
@@ -16,6 +17,7 @@ When TerraGov did come into being, however, this created a problem. The nominall
 Life on the Moon today is characterised by stratification. The dominant form of Lunar architecture, and the perfect example of this phenomenon, is the stack city- so named as it is tunneled into the surface, with wealthier citizens living on or near the surface underneath great domes, while beneath lie the poorer districts where the workers live.
 
 ### Mars: Fuelling Humanity
+> "Arise, children of the Red Planet, the day of glory has arrived!"
 
 #### Fact Sheet:
 * The capital city of Mars is New Osaka, in the Arabia Sector. Originally founded as Oda Colony, the city has expanded to have a population of 10 million and hosts most of the planet's administrative and governmental functions. It is also known as the Red City, due to its red rock buildings constructed from local materials... and due to the frequent sandstorms that roll through its streets. It's not uncommon for entire weeks to be characterised by dust hanging heavy in the air.
@@ -31,6 +33,7 @@ Alongside the foundation of these colonies, a major terraforming campaign was st
 Now, Mars stands as a symbol of Humanity's ability to overcome harsh conditions, even if the planet is not Humanity's largest nor most prosperous colony.
 
 ### Venus: Living on Hell
+> "Six months extracting sulfur on Venus; I can't think of a worse proposition, frankly."
 
 #### Fact Sheet:
 * Colonisation of Venus has been amongst Humanity's greatest challenges. Terraforming seems impossible: the solution instead has been to construct domed colonies for housing workers, maintained by a complex system of shielding and corrosion resistant coatings.
@@ -52,9 +55,10 @@ Venus was well explored by humanity prior to its colonisation, but never had any
 
 As one of the Sol system's primary sources of hydrogen and helium, Saturn is today considered critical to industrial manufacturing of sublight fuel, as well as providing fusionable material for large-scale power generation. In order to harvest these important gases, the atmosphere of Saturn must be tapped- and to accomplish this, the Gas Skimmer was born. A small, lightly manned vessel, gas skimmers maintain a tight orbit within the upper limits of the planet's atmosphere in order to capture and store gases which are then sent to orbital stations for separation, purification, and eventual sale/further manufacturing. The scale of this operation cannot be understated: to fuel humanity's advance to the stars, thousands of skimmers must be active at any given time. When one eventually outlives its usefulness, it is evacuated and allowed to drop into the crushing depths of Saturn's deep atmosphere, never to be seen again.
 
-The overall population on Saturn is estimated in the 10,000 range- of which around 3-4,000 are Gasjacks aboard the skimmers, and a further 7,000 sit in orbit.
+The overall population on Saturn is estimated in the 10,000 range- of which around 3-4,000 are Gasjacks aboard the skimmers, and the rest in orbit.
 
 ### Titan: Methane Seas
+> "HOWARD ORGANICS: BUILDING BLOCKS FOR CHEMISTRY"
 
 #### Fact Sheet:
 * Titan is of particular interest to humanity as a source of organic chemical material- useful building blocks for things like plastics, pharmaceuticals, food additives, and really anything that's important in the modern day. Given the depletion of oil reserves on Earth, the chemicals produced on Titan are critical for maintaining humanity's manufacturing capabilities.
@@ -69,6 +73,8 @@ In the 2200s, following attempts at conservation throughout the 21st and 22nd ce
 Now, Titan is inhabited by an estimated 8,000 people, spread across hundreds of extraction plants on the planet's surface- most of which are owned by Howard Organics.
 
 ### Jump Zero: A Long Way From Home
+> "Signed my papers and shook his hand; spent 2 long years on Padmanabhan"
+- "We're the PFI", Terran Army Cadence
 
 #### Fact Sheet:
 * Jump Zero was, until the first trip to Alpha Centauri, the furthest humans had ever managed to travel, being weeks from Earth. Now, it's less than a half hour's FTL cruise from Earth. How far we've come.
@@ -84,6 +90,8 @@ These days, Jump Zero's scientific purposes are all but depleted, as is much of 
 Of course, there's more behind the scenes, specifically on Eris...
 
 ### Eris: Away From Prying Eyes
+> "Let's see them aliens."
+> "Mate, you're a Tiziran. You are the aliens."
 
 #### Fact Sheet:
 * Taking advantage of the military presence permitted by Jump Zero, TerraGov made the entirety of Eris a restricted area, only for the use of the military. This has resulted in a lot of military infrastructure being set up across the planet- training grounds, production facilities (for approved corporations only), proving grounds, and monitoring equipment.

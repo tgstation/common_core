@@ -1,4 +1,5 @@
 # Divisions of Nanotrasen
+> "A house divided against itself cannot stand."
 
 # NTHI (Nanotrasen Heavy Industry)
 ![NTHI logo](https://i.imgur.com/zMO6ZK5.png)
@@ -36,6 +37,8 @@ NTHW is Nanotrasen's medical subdivision, tasked with medical research, health i
 ## NTHW Subdivisions
 
 # NTCG (Nanotrasen Consumer Goods)
+> "We got to install microwave ovens; custom kitchen deliveries; we got to move these refrigerators; we got to move these colour TVs"
+
 Headquarters: NT Asian Regional Headquarters, Busan, Korea
 NTCG is responsible for most of Nanotrasen's publically-sold products; under their broad heading is included consumer electronics, automotive, aerospace, as well as dozens of smaller companies with their own branding under the NT umbrella. As might be expected of the division that produces everything from alarm clocks to spaceships, coffeemakers to industrial drills, or games consoles to handguns, they exercise a great deal of power within NT's internal politics game and generate a lot of revenue for the corporation.
 

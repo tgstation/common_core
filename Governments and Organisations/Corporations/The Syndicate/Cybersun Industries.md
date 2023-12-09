@@ -15,9 +15,10 @@ Chances are if you see a cyborg, an implant, cybernetics, or advanced technology
 
 # Cybersun Industries
 ### Humanity's *Second* Largest Megacorporation
-> "You can't be serious about trying to move into Hong Kong. That's Cybersun's city, you'll be dead within a week."
+> "From my father I inherited a rusted sword. My efforts have polished it to a shining edge. And yet, it can be so much more."
+- Goro Ichikawa
 
-Insofar as any of the Syndicate's many factions can be called the "head" of the organisation, Cybersun Industries has a better claim to that title than most- as the primary source of funding for the Syndicate, as well as the largest corporation within its ranks by far, and one of its founding members, Cybersun has a commanding role within the Syndicate.
+Insofar as any of the Syndicate's many factions can be called the "head" of the organisation, Cybersun Industries has a better claim to that title than most- as the primary source of funding for the Syndicate, as well as the largest corporation within its ranks by far, and the lynchpin that has brought most of the other factions together (and keeps them that way), Cybersun has a commanding role within the Syndicate.
 
 ## Origins
 During the 1800s, Japan underwent a significant period of modernisation and "westernisation", spearheaded by the Meiji emperorship. In this new world of economic and social evolution, the zaibatsu model emerged- similar in many ways to the western corporation, these private enterprises would exert significant influence over the direction Japan would take over the next century or so. One of these zaibatsus was the Ichikawa Group- opening initially as an engineworks in the city of Osaka, scientific advancement would cause them to shift into the automotive industry. Mining and aerospace would soon follow, with the company receiving extensive funding from the Japanese government to provide equipment for Japan's increasing militarisation. And then, WW2 happened.

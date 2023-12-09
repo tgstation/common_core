@@ -1,4 +1,6 @@
-### The Australicus Sector
+# The Australicus Sector
+> "Course, once you get past the spiders, and the weather, and all that stuff... yeah, it's a fair dinkum place, really."
+
 A sector in name only, the Australicus Sector is a subdivision of the Trailward Near Rim once used as a penal colony, and today known galaxywide for its hostile conditions, dangerous wildlife, and friendly populace.
 
 In terms of habitability, the Australicus sector is considered a minor miracle, with 18 fully habitable planets spread across its stars. Such unprecedented density of habitability, however, comes at a cost- the planets are home to an incredible array of flora and fauna, most of which wants you dead. While the Australican spiders are the most famous inhabitants, special mention also must be given to such species as the Kinross Redhead Snake, the River Snapper, and especially to the Drop Bear.

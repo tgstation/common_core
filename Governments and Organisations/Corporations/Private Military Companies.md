@@ -9,6 +9,9 @@ The Chinese Government, in the early 2200s, would seek to reduce the influence o
 The Chinese Revolution would end on the 14th of December, 2238, with the collapse of the 289 year old People's Republic. In its place, a divided China would stand, a puppet to the corporations that toppled its predecessor- and no romance of the three kingdoms would save it this time. To this day, China is a state artificially kept from becoming whole: corporate power rules in the nation- and private militaries continue to hold their relevance in maintaining this status quo, and in corporate conflict as a whole, in a new golden age for mercenaries.
 
 ## Blackstar Company
+> "Always Vigilant; Always Armed"
+- Blackstar Motto
+
 Headquarters: TerraGov International District of Hong Kong and Macau, Earth
 
 When thinking of Private Militaries based on Earth, Blackstar Company is the first that most TerraGov citizens would think of, and for good reason: their shady dealings and abuses of human rights are legendary. Having been founded in 2146 as a security agency for early space colonisation efforts, Blackstar would soon branch out into other areas of operation, becoming involved in true mercenary work shortly afterwards. After cutting their teeth in such conflicts as the Central African Civil War, the Dubai Crisis, and the Red Thai Conflict, Blackwater earned their reputation for efficiency on the battlefield- and also for ruthlessness. Their poor treatment of civilians was kept under tight wraps, but obviously in the age of information it's impossible to hide things forever.

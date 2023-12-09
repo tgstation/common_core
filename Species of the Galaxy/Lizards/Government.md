@@ -1,9 +1,9 @@
 # The Tiziran Government
 
 ### Monarchy: 
-The reigning monarch of Tizira is the young Empress Arael-Rena I, notable for being the youngest crowned monarch in Tizira's unified history, having taken the throne at 17 after the sudden death of her father. Now 24, she is known for her idealism and belief in change.
+The reigning monarch of Tizira is the young Empress Arael-Rena I, notable for being the youngest crowned monarch in Tizira's unified history, having taken the throne at 17 after the sudden death of her father. Now 24, she is known for her idealism and belief in change, standing firmly opposed to Tizira's jingoism and entrenched social order.
 
-The Empress is well known for her close cooperation with her twin brother Shal-Rena.
+The Empress is well known for her close cooperation with her twin brother Shal-Rena, although recently Shal has been away on military campaign in his position as an officer in the army.
 
 The Empress' early life was defined by rebellion. As a child, she had little interest in preparing to take the throne, instead preferring to spend her time away from the nobility and the royal lifestyle. Into her teenage years, this tranformed into sneaking out to spend nights with the commonfolk, giving her a unique perspective amongst the royal family into the life of an average Tiziran- as well as a disliking of the status quo of Tizira. After ascending to the throne, she began to push against the military establishment, using her now concerningly (to the powers-that-be) loud voice to advocate for increased galactic cooperation and an end to Tizira's jingoism. This, perhaps obviously, did not earn her many supporters amongst the higher eschelons of Tiziran political life and the military, who see her as a naive upstart that threatens their grip on power. However, it has made her a very popular figure amongst Tizira's war-weary and increasingly discontent population.
 
