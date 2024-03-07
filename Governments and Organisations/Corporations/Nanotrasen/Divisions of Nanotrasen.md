@@ -3,6 +3,7 @@
 
 # NTHI (Nanotrasen Heavy Industry)
 ![NTHI logo](https://i.imgur.com/zMO6ZK5.png)
+> ***BUILDING A BETTER TOMORROW***
 Headquarters: NT European International Campus, Dortmund, Germany
 Field: Resource Extraction and Heavy Industrial Equipment
 Originally existing as the German Wulfe Gruppe, NTHI was the first major acquisition beyond computing made by Nanotrasen, starting their upwards climb to being one of humanity's foremost corporations. NTHI is the company's most profitable division, being responsible for around 1/3rd of Nanotrasen's overall net worth, as well as managing Nanotrasen's extensive plasma empire. Most of the stations and outposts found in the frontier and in major industrial centres are operated primarily by NTHI, usually with some involvement by NTFID.
@@ -19,6 +20,7 @@ Field: Energy, Petrochemical, and Fuel
 
 
 # NTFID (Nanotrasen Futures and Innovation Division)
+> ***EXPANDING OUR HORIZONS***
 Headquarters: NT Southwestern Campus, San Jose, California
 Nanotrasen's research and development division, responsible for pushing humanity's scientific boundaries and being on the cutting edge of innovation. Naturally, NTFID acts as a significant source of funding for Nanotrasen's endeavours as a whole in the form of grants from TerraGov, as well as being a magnet for talent due to partnerships with research groups at universities across human space. Additionally, NTFID is a signatory and member of the Terran Joint Research Collective alongside many other major corporations. In theory, this should ensure that discoveries made by NTFID's researchers make their way into the collective knowledge of mankind rapidly. In practice, the collective sees very little of Nanotrasen's juiciest research, instead getting scraps or anything that management has deemed "no longer critical to maintain secrecy on". NTFID is based out of the Southwestern Campus at San Jose, although it also has major secondary sites at Houston, Busan, Dortmund and Adasta City, and a huge number of lesser facilities across pretty much all of human space.
 
@@ -31,13 +33,14 @@ NTFID's director is Mátyás Lórincz, who worked his way up through the ranks a
 Field: Surveying and Colonial Endeavours
 
 # NTHW (Nanotrasen Health and Wellbeing)
+> ***MAKING HEALTHIER LIVES***
 Headquarters: Ishtar, Astarte, Alpha Centauri
-NTHW is Nanotrasen's medical subdivision, tasked with medical research, health insurance, production of medical goods, and operation of hospitals, clinics, and deathcare facilities across human space. Despite consistent profits, the division has fallen on hard times in recent years due to the Prosperity cloning scandal damaging public trust, and this has resulted in a reduction of funding from corporate. Perhaps unsurprisingly, this hasn't exactly made NTHW's higher-ups happy, and their approach to internal politics within Nanotrasen has become increasingly hostile, with Director Claire Duchamp being desperate to reclaim the division's lost glory by any means necessary.
+NTHW is Nanotrasen's medical subdivision, tasked with medical research, health insurance, production of medical goods, and operation of hospitals, clinics, and deathcare facilities across human space. Despite consistent profits, the division has fallen on hard times in recent years due to the Prosperity cloning scandal damaging public trust, and this has resulted in a reduction of funding from corporate. Perhaps unsurprisingly, this hasn't exactly made NTHW's higher-ups happy, and their approach to both external and internal politics has become increasingly ruthless, with Director Claire Duchamp being desperate to reclaim the division's lost glory by any means necessary.
 
 ## NTHW Subdivisions
 
 # NTCG (Nanotrasen Consumer Goods)
-> "We got to install microwave ovens; custom kitchen deliveries; we got to move these refrigerators; we got to move these colour TVs"
+> ***INNOVATIONS FOR A BETTER TOMORROW***
 
 Headquarters: NT Asian Regional Headquarters, Busan, Korea
 NTCG is responsible for most of Nanotrasen's publically-sold products; under their broad heading is included consumer electronics, automotive, aerospace, as well as dozens of smaller companies with their own branding under the NT umbrella. As might be expected of the division that produces everything from alarm clocks to spaceships, coffeemakers to industrial drills, or games consoles to handguns, they exercise a great deal of power within NT's internal politics game and generate a lot of revenue for the corporation.

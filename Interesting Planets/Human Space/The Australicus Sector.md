@@ -20,7 +20,7 @@ Barely qualifying as a star system, Booderee consists of its central star, with 
 ### King's Star
 
 ### New Pembroke
-The site of the first settlement within the Australicus Sector, New Pembroke today has the honour of being the most populous of the Australican star systems, with its four habitable planets being home to around a fifth of the Sector's overall population between them. The capital, Arthurstown, sits on the golden shores of Albion's largest sea
+The site of the first settlement within the Australicus Sector, New Pembroke today has the honour of being the most populous of the Australican star systems, with its four habitable planets being home to around a fifth of the Sector's overall population between them. The capital, Arthurstown, sits on the golden shores of Albion's largest sea, and is a popular tourist destination within the sector.
 
 ### Topside
 The most sparsely populated of the stars of the federation, Topside's three planets are each essentially uninhabitable by normal means. The most hospitable, Earlmont, beats the other two by actually having a breathable atmosphere- however, the baking heat of Topside scorching its sands makes the surface practically unlivable. Instead, the inhabitants of Earlmont dig into the ground to construct settlements, such as the planet's (and system's) capital, Copperhead.

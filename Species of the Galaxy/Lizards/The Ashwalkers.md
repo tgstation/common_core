@@ -18,7 +18,7 @@ And so, the Ashwalkers stand, wearing their new titles as custodians proudly, hu
 * The ashwalkers are essentially unknown beyond Indecipheres itself. While reports about them might trickle back through Nanotrasen's channels internally, the major governments of the galaxy know very little. Nanotrasen would prefer to keep it this way, too- if the Tizirans get wind of a settlement of what is *ostensibly* their people on a lucrative mining world, they may use it as a pretext to lay claim to the system, and bringing entirely too much federal attention with it.
 
 ### On Rehabilitation of Ashwalkers
-> "It's a lot like being woken suddenly from a dream. Where once all I knew was the thrill of the hunt, now I am "normal", or so I am told."
+> "It's a lot like being woken suddenly from a dream. Where once all I knew was the thrill of the hunt, now I am "normal", they say."
 - Ka-Tal, first Ashwalker to survive rehabilitation
 
 While the psychological and physiological alterations brought about by the Necropolis are numerous and severe, Ashwalkers are still Lizards at their core, and Nanotrasen scientists have, via extensive testing, found some success in rehabilitating ashwalkers taken from the surface of Indecipheres. Via removal of exposure from the Necropolis, alongside careful reintroduction to normal lizard living conditions and the social environment of the station, some ex-ashwalkers have had their Necropolis Adaptation reversed, and been nominally reintegrated with normal society where they serve as a novel source of labour for Nanotrasen's spinward stations. Many more, however, have died during attempts, or been driven mad in the process.

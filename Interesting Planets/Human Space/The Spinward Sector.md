@@ -19,6 +19,7 @@ Note that stability does not mean that the Spinward Sector is a safe, centralise
 New Moscow has had a tumultous past. Originally founded by and serving as the capital of the Third Soviet Union, the planet first came into humanity's grasp under less than ideal circumstances. Atrocities by the leaders of the TSU alongside political repression, famine, and a generally poor standard of living would come to a head in the August Revolution, seeing the fall of the Soviet leadership on the planet, and beginning the final collapse of the Third Soviet Union. Following this violence and the subsequent rise of the Spinward Stellar Coalition, the planet would go on to experience a renaissance, as the industrial capacity grew and culture flourished. Today, New Moscow is a shining example of excellence in humanity's border regions, and its meteoric rise seems set to continue.
 
 ### Gateway: Welcome to Terran Territory, Tiziran Friends
+> "ATTENTION: YOU ARE NOW ENTERING THE TERRITORY OF THE TERRAN FEDERATION. PLEASE BE PREPARED TO SUBMIT TO SEARCHES AND HAVE IDENTIFICATION AT HAND."
 
 #### Fact Sheet:
 * The Gateway system holds the dubious honour of being the furthest incorporated Terran territory from Earth in the Spinward direction. It is therefore the first stop for new arrivals to human space from the Tiziran Empire, provided they're following legal channels to do so.

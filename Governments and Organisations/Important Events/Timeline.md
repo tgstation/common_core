@@ -1,3 +1,5 @@
+# Timeline
+
 1889: The Ichikawa Group opens its first engineworks in the city of Osaka, Japan.
 
 1963: Trasen-Knox Computing is founded by Michael Trasen and Dale Knox in the city of Fresno, California.

@@ -5,7 +5,7 @@ The Spinward Far Rim is the furthest region of human-inhabited spinward space, t
 The Imperial March is the catchall term for the demilitarised zone comprising portions of the Spinward Far Rim and the Tiziran-owned Frontier March Sector. No military vessels of either side are permitted in the region, which has made this area a major hub for piracy and crime, plaguing merchant ships using the Kalon run to travel between human and lizard space- although there are no safer alternatives that would remain profitable.
 
 ### Val Corrin: Libertalia of the Starry Skies
-> "Some people would call making a demilitarised zone where we can't even send anti-piracy fleets a bad idea. Given the situation with Val Corrin, I'll go one step beyond that- it was a colossal fuck-up, and until we can manage to talk the Lizards into some kind of arrangement to bomb these assholes the fuck off-world, we're stuck with them."
+> "Some people would call making a demilitarised zone where we can't even send anti-piracy fleets a bad idea. Given the situation with Val Corrin, I'll go one step beyond that- it was a colossal fuck-up, and until we can manage to talk the Lizards into some kind of arrangement to bomb these assholes back to fucking dust, we're stuck with them."
 
 #### Fact Sheet:
 * Val Corrin has no official capital. The largest settlement is Tabletop, located on top of the Great Green Table, a vast tepui close to the coast. Described as a new Tortuga, Tabletop is a small yet bustling city that's as full of (illicit) opportunity as it is rife with danger.

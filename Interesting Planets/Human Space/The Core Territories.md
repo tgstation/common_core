@@ -8,7 +8,7 @@ Officially, the core starts at the borders of the Sol System, and ends at the st
 
 #### Fact Sheet:
 * Adasta has rapidly become the largest industrial centre in Alpha Centauri, making it one of the most industrialised planets in human space. Though it does not currently rival the Moon or Saturn (although it is close), its current trajectory of expansion suggests that in less than a century it will surpass them.
-* This industrialisation is prompted by an incredible mineral wealth. Ore deposits lie near or at the surface, with massive excavations and open pits pulling up billions of credits worth of ore daily. Unfortunately, however, the planet lacks plasma, which makes its ability to keep up with technological advancements limited without imports from Mars, or further afield.
+* This industrialisation is prompted by an incredible mineral wealth. Ore deposits lie near or at the surface, with massive excavations and open pits pulling up billions of U¢ worth of ore daily. Unfortunately, however, the planet lacks plasma, which makes its ability to keep up with technological advancements limited without imports from Mars, or further afield.
 * The shipyards of Adasta are colossal, and the TerraGov navy has plans to set up facilities for the production of the next-generation of capital vessels there- much to the chagrin of the corporations operating on and around the Moon, who are presently responsible for the expansion of the TerraGov navy.
 * Adasta has a yearly "dark season", wherein the cloud cover becomes so thick and severe that the sun is essentially blocked out for several months at a time. This is known as the Long Night to the inhabitants of Adasta, and it's when Adasta City truly comes alive.
 
