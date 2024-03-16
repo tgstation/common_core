@@ -24,8 +24,8 @@ Finding one of these festival lanterns out space is said to bring good luck, a r
 
 ### Sparkweed
 
->"They sure know how to throw a party, I tell ya what. With the speed they go through the stuff, if you told me they needed it to survive I'd believe it. Then again, with those work hours, maybe they do."
--Testimony from a former drug smuggler
+>"They sure know how to throw a party, I tell ya what. The speed they go through the stuff... if you told me they needed it to survive I'd believe it. Then again, with those work hours, maybe they do."
+-Testimony from a former smuggler
 
 One of the few surviving plants originating from the moth homeworld and arguably the most obiquitous, the fleet is known to produce an enormous quantity of Sparkweed thanks to it's many uses as a recreational substance as well as the speed and ease with which it can grow in the right conditions.
 It is an aquatic plant growing on a central stem with pinnate leaves and a purple-reddish color, it requires a minimum temperature of 45°C to grow and can survive up to 120°C.
