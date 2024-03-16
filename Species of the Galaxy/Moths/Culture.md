@@ -2,6 +2,9 @@
 
 ### Names
 
+>"Whatever."
+-The first moth to be granted Terragov citizenship, Whatever, choosing their legally recognized name
+
 Names hold significant importance within moth culture. According to folklore, names are inextricably bound to the owner, like a key to their soul that must be protected or face terrible consequences should anyone with ill intentions discover it. In more modern times, revealing one's own name has become a symbol of great personal trust. It is a matter so rarely discussed that it's not unheard of for some moths to forget their own name.
 
 For this reason, no official name is recognized on the fleet. Every citizen is assigned an identification number that will be used for all official matters. Colloquially moths address one another in various ways such as by nickname, rank, occupation, the ship they are serving on, physical attributes or mannerisms (examples: "Stutters", "Rude Bartender", "Ship Engineer", "One-Eye Captain"). Ironically, this means moths will have not just one but several different names each depending on a specific context and you may even hear conversations between two moths talking about the same person using different names. This tends to cause confusion with outsiders, though the moths seem very well accustomed to this method, sometimes even using it with other races out of habit.
@@ -20,6 +23,9 @@ Those lucky enough to witness the festivities are often impressed about the spec
 Finding one of these festival lanterns out space is said to bring good luck, a rare occurrence for the fleet as they tend to not linger in the same area for long. It is, however, a sentiment rarely shared by those "lucky" enough to have the newly formed debris field smash into their hull.
 
 ### Sparkweed
+
+>"They sure know how to throw a party, I tell ya what. With the speed they go through the stuff, if you told me they needed it to survive I'd believe it. Then again, with those work hours, maybe they do."
+-Testimony from a former drug smuggler
 
 One of the few surviving plants originating from the moth homeworld and arguably the most obiquitous, the fleet is known to produce an enormous quantity of Sparkweed thanks to it's many uses as a recreational substance as well as the speed and ease with which it can grow in the right conditions.
 It is an aquatic plant growing on a central stem with pinnate leaves and a purple-reddish color, it requires a minimum temperature of 45°C to grow and can survive up to 120°C.
