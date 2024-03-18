@@ -19,7 +19,7 @@ Bad omens or things that bring bad luck include:
 
 These gargantuan beasts are said to be responsible for the mysterious disappearance of countless vessels. They are typically depicted as pitch black, occasionally with bright dots easily mistaken for distant stars. The vocalizations they use for echolocation are capable of scrambling radar equipment.  It is said the only time a space whale can be seen is when they open their enormous mouth to swallow entire stations whole.
 
-There only exists one official report of a space whale attack that led to the disappearance of the HF Cassius in 2301, however the accuracy of this report has often been put into question and solid evidence of their existance is virtually nonexistant.
+There only exists one official report of a space whale attack that led to the disappearance of the HF Cassius in 2101, however the accuracy of this report has often been put into question and solid evidence of their existance is virtually nonexistant.
 
 Although nowadays they are widely believed to be a hoax, space whales still permeate spacer culture. "Maybe it got swallowed by a whale" is a joke often heard whenever a tool gets lost and even the most skeptical of crewmembers can't help but feel a chill down their spine whenever they are gazing out to the vast nothingness of space and see a shadow move in the corner of their eye.
 
