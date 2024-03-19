@@ -1,8 +1,11 @@
 ## Moonrakers Trading Conglomerate
 Headquarters: None
 
-Back in the 2100's the Moonrakers Movement started to appear as a grassroots pushback against Terragov's encroaching the off-world markets during the early days of space colonization. It's proponents would preach about the sanctity of the free market and personal freedom while the Terran Federation still struggled to crack down on the flood of contraband amid the foundation of the first space colonies.
-The movement's methods of pushback would range from lobbying, to acts of defiance, the occasional violent scuffle and even a few bombings, though given the group's unofficial status pinning the blame on anyone but the individuals responsible was difficult. 
+>"Let Mars bend its knee. Let the Terran Government believe they can keep the entire galaxy under its boot. We will still be out there, fighting for our freedom for as long as it takes, whatever it takes."
+-"The Bull", Moonraker spokesman
+
+Back in the late 2100's the Moonrakers Movement started to appear as a grassroots pushback against Terragov's encroaching the off-world markets during the early days of space colonization. It's proponents would preach about the sanctity of the free market and personal freedom while the Terran Federation still struggled to crack down on the flood of contraband amid the foundation of the first space colonies.
+The movement's methods would range from lobbying, to acts of defiance, the occasional violent scuffle and even a few bombings, though given the group's unofficial status pinning the blame on anyone but the individuals responsible was difficult. 
 Not everyone agrees the movement was as spontaneous as it looked on the surface, some believe the group was backed by several powerful groups from behind the scenes, and although never proven, they certanly were to benefit greatly from it.
 
 This would all but become obvious when the Conglomerate would officially become a corporation off the back of the Martian Revolution in 2280. Originally founded by several high profile trading magnates hoping to win their battle with the power of burocracy, it has since evolved into a massive distribution network of big and small companies.
@@ -15,6 +18,9 @@ Word is that under the mask of a legitimate corporation the Moonrakers are also 
 
 ## Doubletime Logistics
 Headquarters: HKF Somere, Grand Nomad Fleet
+
+>"It's not just FAST, it's Doubletime!"
+-Doubletime Company Slogan
 
 It was only natural for the nomad fleet to rent out every inch of free cargo space while on their way to their next destination, but eventually what were once just occasional jobs done out of convenience became a full fledged operation for trading and long distance hauling.
 
