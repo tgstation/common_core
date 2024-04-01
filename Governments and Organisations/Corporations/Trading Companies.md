@@ -1,8 +1,8 @@
 ## Moonrakers Trading Conglomerate
 Headquarters: None
 
->"Let Mars bend its knee. Let the Terran Government believe they can keep the entire galaxy under its boot. We will still be out there, fighting for our freedom for as long as it takes, whatever it takes."
--"The Bull", Moonraker spokesman
+>"Having my latest find appraised turned out to be trickier than I had anticipated, and so my contact suggested reaching out to the Moonrakers. Depending on who you ask they are either the last bastion of freedom or people that would do anything if there's money to be made, and I don't think they themselves agree about which is which. Either way, there's no denying they had the means and expertise."
+-"The Unknown and Lesser Known of the Spinward sector", Vedika Bakshi
 
 Back in the late 2100's the Moonrakers Movement started to appear as a grassroots pushback against Terragov's encroaching the off-world markets during the early days of space colonization. It's proponents would preach about the sanctity of the free market and personal freedom while the Terran Federation still struggled to crack down on the flood of contraband amid the foundation of the first space colonies.
 The movement's methods would range from lobbying, to acts of defiance, the occasional violent scuffle and even a few bombings, though given the group's unofficial status pinning the blame on anyone but the individuals responsible was difficult. 
@@ -22,9 +22,8 @@ Headquarters: HKF Somere, Grand Nomad Fleet
 >"It's not just FAST, it's Doubletime!"
 -Doubletime Company Slogan
 
-It was only natural for the nomad fleet to rent out every inch of free cargo space while on their way to their next destination, but eventually what were once just occasional jobs done out of convenience became a full fledged operation for trading and long distance hauling.
+It was only natural for the nomad fleet to rent out every inch of free cargo space while on their way to their next destination, but eventually what were once just occasional jobs done out of convenience became a full fledged operation of trading and long distance hauling.
 
-They mainly operate for clients outside of the fleet itself by hauling cargo but also manage much of the trading in and out of the fleet, working as something of a middleman between the admiralty and the outside world when it comes to supply deals.
+Although they still fall under direct ownership of the admiralty, their influence still allows them an atypical degree of freedom to operate as they see fit, which has made them a somewhat controversial topic among their own. Their position as something of a middleman between the admiralty and the outside world means supply deals tend to go through them first.
 
-Although they still fall under the ownership of the admiralty, their influence still allows them an atypical degree of freedom on how to operate which has made them a somewhat controversial topic. 
 Their ability to reliably haul extremely large quantities of cargo is well documented, yet there is much speculation on whether some of the goods they offer for trade are acquired legitimately and even rumors about the company being used as a proxy for mercenary piracy contracts. There's never been evidence of this being a widespread occurrence however, and some of the past incidents have been swept under the rug with claims of involvement by third parties.
