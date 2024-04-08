@@ -26,8 +26,8 @@ Although nowadays they are widely believed to be a hoax, space whales still perm
 
 ## Delta-Void Zones (also referred as DVZ, or Denied Voyage Zone)
 
->"Captain Sabersplit, as I knew him, was a bona fide hard-ass, but I could see he was restless.'Superstition or not, that place is trouble' he barked, 'Chart a course to go around'."
--"A Year On The Grand Nomad Fleet", Vedika Bakshi
+"Captain Sabersplit, as I knew him, was a bona fide hard-ass, but I could see he was restless. 'Superstition or not, that place is trouble' he barked, 'Chart a course to go around.'" 
+-Vedika Bakshi, "A Year On The Grand Nomad Fleet"
 
 Unexplained phenomena are not uncommon in some of the less traveled parts of known space, however certain sectors have garnered the reputation of being especially perilous, if not downright cursed. From ships becoming stranded due to unexplained mechanical failures to outright disappearing without a trace, ships traversing these areas seem to get into trouble more than usual. 
 
