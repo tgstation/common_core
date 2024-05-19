@@ -45,3 +45,10 @@ Humanised Tizirans experience *significant* pressure to conform and attempt to f
 Members of other species can point at the success of these attempts and argue that the fact that it can be done means that the continuing situation around Tizira is unacceptable; in return the Tizirans would say that the number of children killed by these methods is actually much *higher*, it's simply that their detractors are drawing the arbitrary line of where personhood begins in a different place than they are.
 
 Most human polities have accepted that Lizards under the age of 6 cannot be tutored in the same pre-school environments as human children, as it's not realistically possible to socialise them against biting people who weren't born in the same nest.
+
+## Ashwalkers
+
+While you would perhaps think, given their lifestyle and conditions, that Ashwalkers would represent a reversion to a tribal ancestral state... nothing could be further from the truth.  
+The lifestyle of the Ashwalkers is entirely artificial and sustained totally through their interactions with the mysterious Necropolis. Ashwalkers are a single group who primarily work in service of this sinister parent, whereas if left to their own devices they would likely have formed several competing societies and spread further across the planet's surface.  
+
+Within the enclaves of the Ashwalkers, all eggs are produced by mysterious tendrils that erupt from the ground and hatch as fully-formed, mutated Tizirans who already know several of the skills they will need in order to survive their harsh environment, as well as an instilled affection towards The Necropolis. Whether they even maintain the capability to reproduce in a more typical fashion is unknown. 
