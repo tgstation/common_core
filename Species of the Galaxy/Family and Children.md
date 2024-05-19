@@ -15,7 +15,7 @@ Larger (and smaller) family units are certainly not unheard of, both due to the 
 In almost all respects except cultural, Felinids *are* humans. Their designation as a "species" is a legal construct rather than a biological one, as their genetic modifications do not in truth move them far enough from their ancestors to be regarded as a separate animal.  
 Felinids then grow largely speaking in identical ways to how humans do; giving birth to similar numbers of children after a similar length of pregnancy, meeting similar developmental milestones at similar times, aging at a similar rate, and dying at similar ages.  
   
-As not even a single generation has passed since Felinids emerged onto the galactic stage and they largely live entirely in mixed enclaves with other Humans rather than having any territory of their own, they simply have not had time to diverge significantly from the wider Human culture to any significant degree, however there are a few important things to note.  
+As not even a single generation has passed since Felinids emerged onto the galactic stage and they largely live entirely in mixed enclaves with other Humans rather than having any territory of their own they simply have not had time to diverge significantly from the wider Human culture to any significant degree, however there are a few important things to note.  
 
 While Felinids are entirely reproductively compatible with the rest of humanity they are an oppressed minority within Human space and so tend to be insular and stick together. Mixed relationships are inevitably actually quite common, but are often viewed with suspicion or distate by *both* Humans and Felinids for different reasons.  
 
