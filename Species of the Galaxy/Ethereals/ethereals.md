@@ -23,6 +23,9 @@ Ethereals have no childhood stage; they are born fully mature from their crystal
 This method of "accidental" reproduction essentially leaves Ethereals with no established family structure at all, it is impossible for a child to know their parent or vice versa, but very rarely Ethereals _do_ experience siblings. A "seed crystal" which grows to unusual size or is prevented somehow from emerging from the ground will occasionally produce multiple Ethereals after it emerges, either all at once or sequentially after "hatching" the first. These Ethereals in turn may look radically different, or be essentially clones of each other. 
 This rare event is treated very differently by varying cultural groups on Sprout (or was, prior to their Great Enlightenment) but these groups of individuals are generally assumed to have some form of dramatic and fated destiny; for either good or ill.
 
+So far this process has never been witnessed outside of the planet Sprout. Human researchers posted on the planet have posited the theory that it is possible that the entire surrounding micro and macro level ecosystem is required to create the right conditions for Ethereal formation, and some are beginning to suspect that the increasing centralisation of the planet, only in its infancy, is already beginning to change the rate at which new Ethereals emerge from the ground.
+What this means for their future as inhabitants of an industrialised galaxy is not yet clear.
+
 ## History
 
 When first discovered by TerraGov's explorers, the Ethereals were in an Medieval age, similar to our own Middle Ages- an era of knights and chivalry, with feudal nobility ruling over petty fiefdoms and few (if any) strong, unified nations. While Ethereal nations trended towards autocracy, lack of children also means lack of any forms of hereditary inheritance; a fact which lead to regular civil wars and kept any individual nation from reliably outliving the death of its leader. 
