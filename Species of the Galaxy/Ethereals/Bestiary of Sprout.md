@@ -48,7 +48,7 @@ Hootos are occasionally tamed as mounts to traverse the deep rainforest, though 
 
 ### Dweller
 
->"During one of our excursions outside the village, I must admit, I made the mistake of wandering off a little too far from our group, distracted by a type of flower I had not seen before. I was so lost in my thoughts that I did not notice our guide Kepler XVI approaching an abruptly yanking me back onto the trail. Rude, I thought to myself! But I did not have time to voice my displeasure before I noticed the rock I was standing right in front of had eyes, and it was staring right at me."
+>"During one of our excursions outside the village, I must admit, I made the mistake of wandering off a little too far from our group, distracted by a type of flower I had not seen before. I was so lost in my thoughts that I did not even notice Kepler approaching before abruptly yanking me back onto the trail. Rude, I thought to myself! But I did not have time to voice my displeasure before I noticed the rock I was standing right in front of had eyes, and it was staring right at me."
 -"The Tourist's Survival Guide to Sprout", Vedika Bakshi
 
 Danger Level: Variable
