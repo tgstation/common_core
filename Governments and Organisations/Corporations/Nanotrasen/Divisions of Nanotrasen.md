@@ -32,10 +32,10 @@ NTFID's director is Mátyás Lórincz, who worked his way up through the ranks a
 ### New Horizons
 Field: Surveying and Colonial Endeavours
 
-# NTHW (Nanotrasen Health and Wellbeing)
+# NTDC (Nanotrasen-Deforest Corporation)
 > ***MAKING HEALTHIER LIVES***
 Headquarters: Ishtar, Astarte, Alpha Centauri
-NTHW is Nanotrasen's medical subdivision, tasked with medical research, health insurance, production of medical goods, and operation of hospitals, clinics, and deathcare facilities across human space. Despite consistent profits, the division has fallen on hard times in recent years due to the Prosperity cloning scandal damaging public trust, and this has resulted in a reduction of funding from corporate. Perhaps unsurprisingly, this hasn't exactly made NTHW's higher-ups happy, and their approach to both external and internal politics has become increasingly ruthless, with Director Claire Duchamp being desperate to reclaim the division's lost glory by any means necessary.
+NTDC is Nanotrasen's medical subdivision, formed after the company's acquisition of the Deforest Medical Corporation. This division is tasked with medical research, health insurance, production of medical goods, and operation of hospitals, clinics, and deathcare facilities across human space. Despite consistent profits, the division has fallen on hard times in recent years due to the Prosperity cloning scandal damaging public trust, and this has resulted in a reduction of funding from corporate. Perhaps unsurprisingly, this hasn't exactly made NTHW's higher-ups happy, and their approach to both external and internal politics has become increasingly ruthless, with Director Claire Duchamp being desperate to reclaim the division's lost glory by any means necessary.
 
 ## NTHW Subdivisions
 

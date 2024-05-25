@@ -9,6 +9,7 @@ While the Credit is not legal tender outwith Nanotrasen, it doesn't stop it from
 Nanotrasen offers services to convert between credits and unitary dollars; the conversion rate is usually around 100₦ : 1U¢.
 
 ## Spinward Stellar Ruble (S₽)
+The Spinward Stellar Ruble is the official currency of the Spinward Stellar Coalition, adopted following the collapse of the Third Soviet Union and the subsequent transition to a market economy. 
 
 ## Tiziran Rena (Ɍ/k)
 
