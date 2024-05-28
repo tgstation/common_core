@@ -90,11 +90,11 @@ Moondrifter skin is highly sought after for its extreme conductive properties an
 -"The Tourist's Survival Guide to Sprout", Vedika Bakshi
 
 Danger Level: Minimal
-Average Size: 6 m (lenght), 2 m (height)
+Average Size: 8 m (lenght), 2 m (height)
 Average Weight: 300 kg
 Diet: Herbivore
 
-A long and rather flat centipede composed of 30 jointed rings each with two long but rather dull spikes facing upward that they use as deterrents against predators.
+A long and rather flat centipede composed of several jointed rings each with two long but rather dull spikes facing upward that they use as deterrents against predators.
 Despite it's less than flattering name and intimidating appearance, Gutterpedes are rather docile and helpful creatures: occasionally called "commuters" for the peculiar way in which they follow a very strict schedule of rotating their grazing spots once a day, always moving inbetween them through a circuit of routes called "gutters", "trenches" or "highways" slowly eroded into the ground by their daily routine. These gutters vary in depth depth depending on how long they've been used, ranging from a few centimeters to a couple of meters in the most extreme cases.
 Thanks to their habitual nature and an indifferent disposition towards most other creatures, ethereals realized Gutterpedes could be mounted in the wild to conveniently and consistently travel across large distances. Any attempt at controlling their movements has failed as Gutterpedes simply end up abandoning their trenches when any man-made alterations are made to try and coax them into different taking directions, so those who are looking to make use of them have to rely on preexisting natural routes.
 
