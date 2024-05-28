@@ -90,17 +90,20 @@ Moondrifter skin is highly sought after for its extreme conductive properties an
 -"The Tourist's Survival Guide to Sprout", Vedika Bakshi
 
 Danger Level: Minimal
-Average Size: 8 m (lenght)
-Average Weight: 200 kg
+Average Size: 6 m (lenght), 2 m (height)
+Average Weight: 300 kg
 Diet: Herbivore
 
 A long and rather flat centipede composed of 30 jointed rings each with two long but rather dull spikes facing upward that they use as deterrents against predators.
-Despite it's less than flattering name and intimidating appearance, Gutterpedes are rather docile and helpful creatures: occasionally called "commuters" for the peculiar way in which they follow a very strict schedule of rotating their grazing spots once a day, always moving inbetween them through a circuit of routes called "gutters", "trenches" or "highways" slowly eroded into the ground by their daily routine.
+Despite it's less than flattering name and intimidating appearance, Gutterpedes are rather docile and helpful creatures: occasionally called "commuters" for the peculiar way in which they follow a very strict schedule of rotating their grazing spots once a day, always moving inbetween them through a circuit of routes called "gutters", "trenches" or "highways" slowly eroded into the ground by their daily routine. These gutters vary in depth depth depending on how long they've been used, ranging from a few centimeters to a couple of meters in the most extreme cases.
+Thanks to their habitual nature and an indifferent disposition towards most other creatures, ethereals realized Gutterpedes could be mounted in the wild to conveniently and consistently travel across large distances. Any attempt at controlling their movements has failed as Gutterpedes simply end up abandoning their trenches when any man-made alterations are made to try and coax them into different taking directions, so those who are looking to make use of them have to rely on preexisting natural routes.
 
-Gutterpedes live in herds and tend to evenly divide themselves among the available grazing spots in a constant rotation across their circuit of trenches.
+Gutterpedes live in herds of 20 to 50 and tend to evenly divide themselves among the available grazing spots in a constant rotation across their circuit of trenches. They tend to stick around open plains and only occasionally make routes across the rainforest.
 
-Thanks to their habitual nature and an indifferent disposition towards most other creatures, ethereals realized they could be mounted in the wild to conveniently and consistently travel across large distances.
-Taming centipedes is impossible as they seem to ignore any type of interaction, thus only wild specimens can be mounted and their routes can't be consistently altered. Just about the only way to make a Gutterpede acknowledge one's presence is to stand in their way: the Gutterpede may appear confused for a time for having its route blocked, after which it will attemp to remove the blockage by grabbing it with their front mandibles and throwing it out of the gutter before continuing on its way.
+Just about the only way to make a wild Gutterpede acknowledge one's presence is to stand in their way: the Gutterpede may appear confused for a time for having its route blocked, after which it will attemp to remove the blockage by grabbing it with their front mandibles and throwing it out of the gutter before continuing on its way.
 This became something of a popular dare among tourists for a time until measures had to be taken to crack down on this practice, and attempting to do so is a sure way to make the local guides very angry.
 
 Hunting Gutterpedes is forbidden without specific permission, as any disturbance poses the risk of them abandoning their routes and the subsequent destruction of useful logistical connections.
+
+Although wild Gutterpedes can't be domesticated, those raised in captivity never develop their traveling instinct despite countless attempts at training them. They make excellent mounts or pack animals however, not quite as fast as many other domesticated species, but seemingly tireless and able to carry and incredible amount of weight.
+Gutterpede ranches require very large grazing grounds, so they are only a viable option for larger settlements based in the plains.
