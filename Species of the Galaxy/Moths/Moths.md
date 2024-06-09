@@ -84,8 +84,8 @@ But outside of these caveats the fleet is remarkably tough on criminality, which
 
 # Fleet Exiles
 
->"Anyone who goes against our cause in favor of their egoistic desires is not just a criminal but also a traitor. The Fleet Authority may be lenient but I am not. Find me a replacement, they are not getting on my ship."
--Captain Sabresplit, high ranking fleet officer, refusing to take on crew with previous convictions
+>"Criminals and traitors are one and the same. Those who go against our cause in favor of their egoistic desires have no place in the fleet."
+-Captain Sabresplit, high ranking fleet officer
 
 As the fleet does not include long term imprisonment as a punishment, disciplinary action ranges from having discretionary credits docked or temporary suspension from other fleet benefits, while major offences may result in permanent exile. Punishments for repeat offenders typically become exponentially more severe.
 
