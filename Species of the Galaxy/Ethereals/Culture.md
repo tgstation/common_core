@@ -28,11 +28,13 @@ Following the uplifting Sprout became a popular tourist attraction due to it's b
 Although this would become a boon to jumpstart Sprout's economy into the intergalactic stage, it put a serious strain on the ethereal society still reeling from the devastation.
 Nothing could have cemented the opinion of those still on the fence about the outsiders who nearly destroyed the planet more than seeing dumb tourists litter, destroy and deface day after day while flippantly upsetting the balance that the ethereals struggled to keep for generations.
 
-Nevertheless, many of the unique products originating from Sprout are now quite popular, and the demand seems to keep rising. The Moths seems particularly fond of souvernirs from Sprout due to the alluring bioluminescent glow of many objects in ethereal fashion.
+Nevertheless, most ethereals still maintain a strong sense of hospitality to outsiders. Be it a wary traveler or tourist, turning away someone in need is considered a shameful act.
 
 During their stay on Sprout, outsiders are advised to remain in proximity of major settlements and avoid straying away from marked roads. For those with a penchant for adventure that wish to see the wild side of Sprout, it is strongly recommended to only do so accompanied by a local guide.
 
 While harvesting plants is allowed with the appropriate permits, hunting remains strictly prohibited to outsiders. Poaching, especially by trophy hunters, is considered a severe crime which can result in a hefty fine or even being permanently expelled from Sprout. Fortunately it is a relatively rare occurrence thanks the watchful eye of local authorities, though keeping it that way remains a constant battle.
+
+Many of the unique products originating from Sprout are now quite popular, and the demand seems to keep rising. The moths seems particularly fond of souvernirs from Sprout due to the alluring bioluminescent glow of many objects made in ethereal fashion.
 
 ### Proxiharp and Resonation Organ
 
