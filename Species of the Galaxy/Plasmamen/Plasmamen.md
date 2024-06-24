@@ -1,3 +1,7 @@
+# Plasmamen
+> "The colonids, as has become the accepted parlance for the "plasmaman" zooid, each adopt a discrete purpose within the colony, in a similar manner to stem cells within mammals.
+- "Biology of the Plasmaman", Dr R. Singh
+
 # A New Kind of Worker
 
 While Plasmamen may, to the layman's eyes, look like merely purple skeletons, this does not tell the truth of the incredible complexity of the organisms that make them tick. For Plasmamen are not merely one organism, but millions, known as Colonids.
