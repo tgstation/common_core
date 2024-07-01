@@ -13,6 +13,9 @@ None of this is to say that Ethereals do not have a distinct culture. While the 
 -Ancient Ethereal Saying
 
 Life on Sprout is full of dangers. Massive creatures, dangerous plants and harsh, unpredictable environments are only a few of the many problems the Ethereals always had to contend with. The countless failed attempts at taming the wilds have given the Ethereals a deep reverence for the environment they live in: it seemed nature was intent on teaching them that the planet was not theirs to conquer, and so they learned to find their place in the ecosystem. 
+
+According to their mythology ethereals were originally a subterranean species, living in a sprawling cave network hidden deep beneath the surface of the planet. They would one day find their way to the surface, discovering a whole new world that was never meant for them.  Although this has yet to be proven scientifically and the entrance to these caves has never been found, some theorize that it would explain why the ethereals and their biology appear somewhat out of place even on their own planet, and their signature glow would have allowed them to survive in the complete darkness of the underground.
+
 The Ethereals have mastered a delicate balancing act of carving themselves a safe haven from the encroaching wilderness and maintaining the ecosystem as undisturbed as possible. Settlements vary wildly in size and types based on the environment, ranging from large, more traditional cities built in the plains to small settlements tucked away in the deep forest, built high up in the intricate tree canopies away from most dangers.
 This way of living has taught the ethereals how to efficiently harness their environment. Much of their sustenace comes from foraging natural resources rather than traditional farming, and despite its dangers Sprout is a bountiful planet full of resources for those that know how to harvest them in a sustainable manner.
 
