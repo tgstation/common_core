@@ -53,7 +53,7 @@ Hootos are occasionally tamed as mounts to traverse the deep rainforest, though 
 
 Danger Level: Variable
 Average Size: 25 m (lenght), 10 m (height)
-Average Weight: 40 tons (estimated)
+Average Weight: 150 tons (estimated)
 Diet: Omnivore
 
 Appearing as something of a mix between a salamander and a toad, with six short legs, stocky body and tail all covered in rock solid scales, these beasts can reach lenghts of over twenty meters and yet remain one of the most elusive species on the planet. Dwellers spend most of their life completely immobile, absorbing what little nutriment they need to survive in their vegetative state through skin contact with the ground and the layers of dirt and flora that inevitably starts covering their backs, acting as the perfect camouflage.
@@ -68,7 +68,7 @@ How the Dwellers evolved into this extreme form of mimicry isn't clear as their 
 If there's such a thing as a sacred animal for the ethereals that'd be the Dwellers. Their positions are carefully monitored by the local trailwardens and hunting them is strictly prohibited, although not many would be foolish enough to try: their extremely thick skin is almost impossible to pierce with conventional weapons and their tail swipes are strong enough to topple trees. They can run with surprising speed when needed, leaving destruction in their wake due to their size.
 They are a common appearance in ethereal mythology. Some of the popular myth surrounding them mention the existence of "crystal dwellers", an even bigger variant with crystals growing on their backs that reside in huge underground caves spanning the entire planet, others speak of Sprout itself being a planet-sized, dormant dweller.
 
-The currently largest known specimen, nicknamed "The Old King", has been measured to be nearly 60 meters in lenght. As the story goes, Old King was discovered the day it was awoken by a battle between two rival villages who uwittingly found themselves fighting right on top of it. As the earth split open between the two sides, the survivors could do nothing but watch in horror as the rampaging beast destroyed both of their villages. When the dust settled, the chaos that was wrought to the region had destabilized the area to such a degree that several other nearby settlements also had to be abandoned. After finding his new home, The Old King has remained dormant ever since... for now.
+The currently largest known specimen, nicknamed "The Old King", has been measured to be nearly 50 meters in lenght. As the story goes, Old King was discovered the day it was awoken by a battle between two rival villages who uwittingly found themselves fighting right on top of it. As the earth split open between the two sides, the survivors could do nothing but watch in horror as the rampaging beast destroyed both of their villages. When the dust settled, the chaos that was wrought to the region had destabilized the area to such a degree that several other nearby settlements also had to be abandoned. After finding his new home, The Old King has remained dormant ever since... for now.
 
 ### Moondrifter
 
