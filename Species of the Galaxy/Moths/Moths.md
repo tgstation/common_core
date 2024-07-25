@@ -40,15 +40,7 @@ As to why the moths have not settled down and founded a colony to serve as a new
 
 * Mothra is a very popular hero among the Moth community and most conflicts in Kaiju conventions are usually caused by uppity Moths.
 
-***
-
-# Names
-
-Names hold significant importance within moth culture. According to folklore, names are inextricably bound to the owner, like a key to their soul that must be protected or face terrible consequences should anyone with ill intentions discover it. In more modern times, revealing one's own name has become a symbol of great personal trust. It is a matter so rarely discussed that it's not unheard of for some moths to forget their own name.
-
-For this reason, no official name is recognized on the fleet. Every citizen is assigned an identification number that will be used for all official matters, while colloquially moths will address one another in various ways such as by nickname, rank, occupation or the ship they are serving on.
-
-To allow identification within human society, moths are eventually required to pick their own legally recognized name. Some regard this as a meaningless formality and will pick at random, while others, seeing it as an opportunity to further exploit their amicable appearance, may choose a name that humans could find cute or amusing, much to the chagrin of the officials that have to approve the requests.
+* Despite being slightly taller than humans on average, moths accustomed to the relatively higher human standard gravity compared to the fleet tend to develop a somewhat hunched over posture due to the weight of their wings, making them appear much shorter. Although they can adapt without ill effects, long term exposure to high gravity tends to make this posture change permanent, making fleet-based moths a rather standout sight in human territories.
 
 ***
 
