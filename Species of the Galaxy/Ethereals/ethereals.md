@@ -1,4 +1,4 @@
-# The Moths
+# The Ethereals
 
 >"Stellar Shock: a term attributed to the societal and political upheaval caused by undergoing 1500 years worth of technological development in less than 50."
  
