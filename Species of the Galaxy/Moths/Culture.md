@@ -36,16 +36,16 @@ What little is known about its origins has been passed through generations: it w
 
 ### The Creed of the Metalweavers and Shiplinking
 
->"To keep this rust bucket from blowing up takes nothing less than yours truly's unmatched expertise. AND divine intervention."
+>"Keeping this rust bucket running for so long has required nothing less than yours truly's unmatched expertise... AND divine intervention."
 -"Magpie", Chief Machinist
 
 Metalweavers are believed to be otherworldly spirits which can possess machinery (typically spaceships), ensuring their continued function and bringing protection to those around them. They are depicted as amorphous figures of fire and light, weaving an infinite web of metal. 
 
-The process of enticing a Metalweaver to inhabit a vessel starts with the construction of a small shrine to which each member of the crew will offer objects of personal value. The ship will only be considered protected once a full year has passed. Because of this, crew is often reluctant to serve on so called "Umbral Vessels", brand new ships with no service history, but what needs must.
+The process of enticing a Metalweaver to inhabit a vessel starts with the construction of a small shrine to which each member of the crew will offer objects of personal value. The ship will only be considered protected once a full year has passed. Because of this, crew is often reluctant to serve on so called "Unbound Vessels", brand new ships with no service history, but what needs must.
 
 The cornerstone of the Creed is the Shiplinking Ceremony: once a year, each crewmember will receive a chainlink forged from scrap metal from the ship they are currently serving on, engraved with the ship's name and year of service, which will then be joined with the links from previous years to form a chain, a symbolic reminder of the  their pledge to the Metalweavers and record of the history of their service in the fleet. Once an individual passes away, the two ends of their chain are permanently joined together.
 Even among the less zealous members, Shiplink Chains are a popular way to flaunt a long career, occasionally carried around or worn on their uniform.
 
-Each crewmember's service pledged to the ship's Metalweaver is to be fulfilled after the person's passing, for as many years as they demanded the Metalweaver's protection in life. Although the Creed's origins predates the creation of the fleet, it unsurprisingly exploded in popularity ever since, with some of its conventions and ceremonies becoming pillars of its culture and even the more skeptic individuals may make their pledge either out of solidarity for their fellow crewmates or due to peer pressure - after all, if these are all fairy tales you have nothing to lose, right?
+Each crewmember's service pledged to the ship's Metalweaver is to be fulfilled after the person's passing, for as many years as they demanded the Metalweaver's protection in life. Although the Creed's origins predates the creation of the fleet, it unsurprisingly exploded in popularity ever since, with some of its conventions and ceremonies becoming pillars of its culture. Even the more skeptic individuals may make their pledge either out of solidarity for their fellow crewmates or due to peer pressure - after all, if these are all fairy tales you have nothing to lose, right?
 
 As each soul pledged to the Metalweaver strenghtens its protection, ships with a particularly long or notable history may be granted the status of "Archvessel". Such vessels are highly regarded and the fleet will go to great lenghts to keep them functional even in cases where it would be more efficient to decommission them, though they may not always maintain their current assignment depending on their state. One such vessel is the HKF Somere: a once a mighty military carrier, now still serves as one the fleet's main supply ships.
