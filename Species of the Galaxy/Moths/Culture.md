@@ -36,9 +36,9 @@ What little is known about its origins has been passed through generations: it w
 
 ### The Creed of the Metalweavers and Shiplinking
 
->"Now repair  
-Tell a prayer  
-Ask the 'weaver of this cage  
+>"Now repair<br>
+Tell a prayer<br>
+Ask the 'weaver of this cage<br>
 Let 'er see us to our old age"
 -Mothic Shanty
 
