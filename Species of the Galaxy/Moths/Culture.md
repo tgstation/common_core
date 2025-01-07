@@ -3,6 +3,7 @@
 ### Names
 
 >"Whatever."
+ 
 -The first moth to be granted Terragov citizenship, Whatever, choosing their legally recognized name
 
 Names hold significant importance within moth culture. According to folklore, names are inextricably bound to the owner, like a key to their soul that must be protected or face terrible consequences should anyone with ill intentions discover it. In more modern times, revealing one's own name has become a symbol of great personal trust. It is a matter so rarely discussed that it's not unheard of for some moths to forget their own name.
@@ -14,6 +15,7 @@ To allow identification within human society, moths are eventually required to p
 ### Fleet Day and the Festival of the Errant Lights
 
 >"You can't be lost if you don't know where to go. So follow the wind, for it knows the way."
+ 
 -Old Mothic Proverb
 
 Fleet Day, one of the most anticipated festivities of the fleet, sees all of the fleet mothkind congregate around the various capital ships for a rare day of merry leisure. It is also a rare occasion for outsiders to witness the fleet's bustling life, as during the festivities they tend to be more tolerant than usual to tourists.
@@ -36,10 +38,11 @@ What little is known about its origins has been passed through generations: it w
 
 ### The Creed of the Metalweavers and Shiplinking
 
->"Now repair<br>
-Tell a prayer<br>
-Ask the 'weaver of this cage<br>
+>"Now repair   
+Tell a prayer   
+Ask the 'weaver of this cage   
 Let 'er see us to our old age"
+ 
 -Mothic Shanty
 
 

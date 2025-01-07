@@ -10,6 +10,7 @@ None of this is to say that Ethereals do not have a distinct culture. While the 
 ### Rule of Nature and the Uplifting Schism
 
 >"Subjugation sows reprisal. Prosperity demands harmony."
+ 
 -Ancient Ethereal Saying
 
 Life on Sprout is full of dangers. Massive creatures, dangerous plants and harsh, unpredictable environments are only a few of the many problems the Ethereals always had to contend with. The countless failed attempts at taming the wilds have given the Ethereals a deep reverence for the environment they live in: it seemed nature was intent on teaching them that the planet was not theirs to conquer, and so they learned to find their place in the ecosystem. 
@@ -25,6 +26,7 @@ Everything would change after the Day of Fire. In no time at all, the ethereals 
 ### Tourism
 
 >"These days I spend most of my time making sure tourists don't get eaten by wild animals. Can't digest them, gives them a tummy ache."
+ 
 -Kepler XVI, Trailwarden
 
 Following the uplifting Sprout became a popular tourist attraction due to it's beautiful and unique environments. From scientists and adventurers to families on vacation and net influencers chasing their new viral story, the gold rush to discover this new and exciting planet seems to never end, with mixed reactions by the locals.
