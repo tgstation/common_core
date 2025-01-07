@@ -38,13 +38,14 @@ What little is known about its origins has been passed through generations: it w
 
 ### The Creed of the Metalweavers and Shiplinking
 
-```Now repair   
-Tell a prayer   
-Ask the 'weaver of this cage   
-Let 'er see us to our old age```
- 
--Mothic Shanty
+>>>
+"Now repair  
+Tell a prayer  
+Ask the 'weaver of this cage  
+Let 'er see us to our old age"
+>>>
 
+-Mothic Shanty
 
 Metalweavers are believed to be otherworldly spirits which can possess machinery (typically spaceships), ensuring their continued function and bringing protection to those around them. They are depicted as amorphous figures of fire and light, weaving an infinite web of metal. 
 
