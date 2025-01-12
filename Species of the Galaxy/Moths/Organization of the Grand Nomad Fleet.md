@@ -48,7 +48,7 @@ Most young moths will do odd jobs for the SU while growing up before officially 
 
 ### Eminent Retinues
 
-A rather recent addition to the Fleet's organization, Eminent Retinues are special groups led by one or more individuals (called Pursers) who have distinguished themselves for their leadership skills and have been sanctioned to lead their crew as they see fit, independently from the rest of the fleet. 
+A rather recent addition to the Fleet's organization, Eminent Retinues are special groups led by one or more individuals (called Retainers) who have distinguished themselves for their leadership skills and have been sanctioned to lead their crew as they see fit, independently from the rest of the fleet. 
 
 This status is not without its drawbacks, however: although retinues can still benefit from the fleet's support network, they are expected to be self sufficient in their day-to-day operations on top of paying a contribution based on their size. Should they fail to do so, their status would be revoked and the crew assimilated back into the regular ranks. 
 
@@ -65,7 +65,7 @@ As the group operates within the confines of the Fleet's laws by suppling third-
 # Doubletime! Logistics
 
 By far the biggest of the retinues, Doubletime is responsible for much of the trading that happens between the fleet and outsiders, as well as a being a pillar of the fleet's supply lines. 
-Doubletime is so important in fact, that its continued status as an independent retinue is often called into question: while its current Pursers still remain at the helm, the Fleet's upper command has been steadily expecting more direct control and it is unlikely they would consider maintaining their status should irreconcilable disagreements arise.
+Doubletime is so important in fact, that its continued status as an independent retinue is often called into question: while its current Retainers still remain at the helm, the Fleet's upper command has been steadily expecting more direct control and it is unlikely they would consider maintaining their status should irreconcilable disagreements arise.
 
 # Enginmender Guild
 
