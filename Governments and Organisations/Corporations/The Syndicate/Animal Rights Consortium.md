@@ -1,2 +1,0 @@
-# Animal Rights Consortium
-### 

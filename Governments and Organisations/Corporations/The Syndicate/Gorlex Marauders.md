@@ -18,4 +18,4 @@ Throughout the years, the Marauders would earn their stripes as a brutally effec
 > "Maxim Six: If violence wasn't your last resort, you failed to resort to enough of it."
 - The Seventy Maxims of Maximally Effective Mercenaries
 
-As the main front-men of the Syndicate in the Spinward Sector, much of the Marauders' iconography has become synonymous with the organisation itself. The hardsuits, the plasteel- even the unofficial logo of the Syndicate, the triple-headed snake, is drawn directly from the Marauders' own logo.
+As the main front-men of the Syndicate in the Spinward Sector, much of the Marauders' iconography has become synonymous with the organisation itself. The hardsuits, the plasteel- even the unofficial logo of the Syndicate, the triple-headed snake, is drawn directly from the Marauders' own logo. Cybersun might be the Syndicate's brain (and wallet), but the Marauders are its sword.

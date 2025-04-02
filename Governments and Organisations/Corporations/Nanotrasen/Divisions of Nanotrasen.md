@@ -32,10 +32,6 @@ NTHI's director is Heike Beissel. Elevated to the position due to her exemplary 
 Field: Chemical Manufacture and Distribution
 Another acquisition made in the early days of the company, NTCS began life as Texas Chemical, a major US-based chemical manufacturer. In the centuries since, it's grown to be one of humanity's largest chemical producers, although not large enough to secure its independence from NTHI. Today, NTCS is involved heavily in NTHI's plasma production, providing the various reagents required for the Altmeyer process. In addition, it produces a wide range of industrial and consumer chemicals, from battery acid through to petrochemicals.
 
-### General Energy
-Field: Energy, Petrochemical, and Fuel
-General Energy
-
 # NTFID (Nanotrasen Futures and Innovation Division)
 > ***EXPANDING OUR HORIZONS***
 Headquarters: NT Southwestern Campus, San Jose, California
@@ -43,7 +39,7 @@ Nanotrasen's research and development division, responsible for pushing humanity
 
 In terms of land share within Nanotrasen's full organisation, NTFID comes in second place behind NTHI, operating a large number of facilities across human space, including several major sites on the peripheries. One of NTFID's notable sites is Space Station 13, which it will operate jointly with NTHI until the construction of a more permanent mining outpost on or around Indecipheres is finished, at which point the station will pass entirely into its ownership.
 
-NTFID's director is Mátyás Lórincz, who worked his way up through the ranks as a researcher and eventually into the upper echelons of management. Though driven and ambitious, Lórincz is also still a scientist at heart. This makes his role as the director of NTFID difficult, as he is often required to balance his genuine desire to drive scientific development and push the limits with his requirement to balance the budget and play the internal game of politics within Nanotrasen.
+NTFID's director is Mátyás Lórincz, who worked his way up through the ranks as a researcher and eventually into the upper echelons of management. Though driven and ambitious, Lórincz is also still a scientist at heart; a position that makes his duty to the shareholders of NTFID difficult for him to stomach, as it often conflicts with genuine scientific progress.
 
 ## NTFID Subdivisions
 ### New Horizons
@@ -52,15 +48,14 @@ Field: Surveying and Colonial Endeavours
 # NTDC (Nanotrasen-Deforest Corporation)
 > ***MAKING HEALTHIER LIVES***
 Headquarters: Ishtar, Astarte, Alpha Centauri
-NTDC is Nanotrasen's medical subdivision, formed after the company's acquisition of the Deforest Medical Corporation. This division is tasked with medical research, health insurance, production of medical goods, and operation of hospitals, clinics, and deathcare facilities across human space. Despite consistent profits, the division has fallen on hard times in recent years due to the Prosperity cloning scandal damaging public trust, and this has resulted in a reduction of funding from corporate. Perhaps unsurprisingly, this hasn't exactly made NTDC's higher-ups happy, and their approach to both external and internal politics has become increasingly ruthless, with Director Claire Duchamp being desperate to reclaim the division's lost glory by any means necessary.
+NTDC is Nanotrasen's medical subdivision, formed after the company's acquisition of the Deforest Medical Corporation. This division is tasked with medical research, health insurance, production of medical goods, and operation of hospitals, clinics, and deathcare facilities across human space. Despite consistent profits, the division has fallen on hard times in recent years due to the Prosperity cloning scandal damaging public trust, and this has resulted in a reduction of funding from corporate. Perhaps unsurprisingly, this hasn't exactly made NTDC's higher-ups happy, and their approach to both external and internal politics has become increasingly ruthless, with Director Claire Duchamp being desperate to reclaim the division's lost glory by any means necessary. A relative newcomer to NTDC, Claire Duchamp started her life on the corporate ladder at Corporate's finance division after a decade in investment banking. This experience landed her the directorship despite her lack of ties to NTDC, with corporate giving her a broad mandate to balance the flagging company's books.
 
-Claire Duchamp is a relative newcomer to NTDC, having started out on the corporate ladder in Nanotrasen's finance division. This financial experience was what landed her the Directorship, as she was selected by corporate to balance the books.
+Originally headquartered at the Asian Regional HQ in Busan, NTDC made the bold decision of transferring their head offices to the Alpha Centauri system as Ishtar became a financial hub for the core systems. Nowadays, they say that Ishtar's Scientific Quarter is practically owned by NTDC.
 
-## NTHW Subdivisions
+## NTDC Subdivisions
 
 # NTCG (Nanotrasen Consumer Goods)
 > ***INNOVATIONS FOR A BETTER TOMORROW***
-
 Headquarters: NT Asian Regional Headquarters, Busan, Korea
 NTCG is responsible for most of Nanotrasen's publically-sold products; under their broad heading is included consumer electronics, automotive, aerospace, as well as dozens of smaller companies with their own branding under the NT umbrella. As might be expected of the division that produces everything from alarm clocks to spaceships, coffeemakers to industrial drills, or games consoles to handguns, they exercise a great deal of power within NT's internal politics game and generate a lot of revenue for the corporation.
 
@@ -78,5 +73,3 @@ Trasen-Knox maintains its site at the Southwestern Campus, purchased by Michael 
 Headquarters: Anderston Yards, Adasta Orbital
 Field: General Aerospace
 Much of Nanotrasen's strength as a megacorporation comes from their ability to practice what is essentially autarky- the production of all required goods from raw material to finalised item, with little to no reliance on external companies or factors. To this end, Galaxywise is critical to Nanotrasen's practice of autarky- from their orbital shipyards above Adasta, Nanotrasen is able to produce a wide range of important vessels, from small single-man scouting vessels to large-scale freighters and everything inbetween. Unfortunately for Nanotrasen, however, their autarky chain is broken by limitations imposed by TerraGov stating that only licensed corporations are capable of producing heavily armed vessels (the Merchant Marine Act states that any vessel capable of bearing armaments in excess of Class 2, the highest legal civilian grade, may be produced by licensed companies only)- a license Galaxywise has been unable to secure due to politicking by corporate rivals at the senate.
-
-

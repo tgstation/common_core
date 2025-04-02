@@ -33,7 +33,7 @@ Alongside the foundation of these colonies, a major terraforming campaign was st
 Now, Mars stands as a symbol of Humanity's ability to overcome harsh conditions, even if the planet is not Humanity's largest nor most prosperous colony.
 
 ### Venus: Living on Hell
-> "She sent me to spend six months extracting sulfur on Venus; why not just tell me to go fuck myself directly?"
+> "Six months on the sulfur stations: guess I pissed off the higher-ups."
 
 #### Fact Sheet:
 * Colonisation of Venus has been amongst Humanity's greatest challenges. Terraforming seems impossible: the solution instead has been to construct domed colonies for housing workers, maintained by a complex system of shielding and corrosion resistant coatings.
