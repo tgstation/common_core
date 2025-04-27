@@ -1,9 +1,12 @@
 ## Spinward Sector
+> "The Spinward Sector, humanity's last great frontier. Better make the most of it: TerraGov ain't gonna ignore it forever, and when they do come down, they're going to come down hard."
+
 The Spinward Sector has become somewhat of an important region for humanity in recent years. With the frontier having moved along past it towards the Imperial March, increased attention from both TerraGov and corporations, and the collapse of the Third Soviet Union, some modicum of stability has finally began to settle in around New Moscow. Most of the populated territory in this region is under the control of the Spinward Stellar Coalition, a nominally independent state which is getting attention from TerraGov in what appears to be a movement to bring the region into full integration- although this is obviously being resisted by the SSC.
 
 Note that stability does not mean that the Spinward Sector is a safe, centralised area like the Core. Danger still permeates the region, with the limited oversight the SSC and TerraGov can provide being mostly focused on the main population centres. Piracy and violence are still commonplace, and away from the prying eyes of the regional governments, corporate powers vie for power against one another- with the ultimate prize being the freedom to operate in the area, and claim its mostly untapped mineral wealth for themselves.
 
 ### New Moscow: (Former) Home of Space Communism
+> "Of course, the capital of the SSC puts its best foot forward, desperate to show the rest of humanity that the Spinward Sector isn't a backwater. Sadly, all the modern art and idealism in the galaxy can't cover the stench of backwardness endemic to the entire region."
 
 #### Fact Sheet:
 * The capital city of New Moscow is (the aptly named) New Moscow City. With a population of 12 million, New Moscow City is the most populous city not only of New Moscow, but of the entire SSC (of which it is the capital), and is famous for its brutalist architecture and generally oppressive urban style (though this has somewhat softened since the collapse of the Third Soviet Union). Since the collapse, the city's culture has flourished, and a remarkable amount of modern art and architecture has since blessed its streets. On Workers' Square there is a popular public theatre collective which does showings, and in general the city has become a major destination for artists.
@@ -16,6 +19,7 @@ Note that stability does not mean that the Spinward Sector is a safe, centralise
 New Moscow has had a tumultous past. Originally founded by and serving as the capital of the Third Soviet Union, the planet first came into humanity's grasp under less than ideal circumstances. Atrocities by the leaders of the TSU alongside political repression, famine, and a generally poor standard of living would come to a head in the August Revolution, seeing the fall of the Soviet leadership on the planet, and beginning the final collapse of the Third Soviet Union. Following this violence and the subsequent rise of the Spinward Stellar Coalition, the planet would go on to experience a renaissance, as the industrial capacity grew and culture flourished. Today, New Moscow is a shining example of excellence in humanity's border regions, and its meteoric rise seems set to continue.
 
 ### Gateway: Welcome to Terran Territory, Tiziran Friends
+> "ATTENTION: YOU ARE NOW ENTERING THE TERRITORY OF THE TERRAN FEDERATION. PLEASE BE PREPARED TO SUBMIT TO SEARCHES AND HAVE IDENTIFICATION AT HAND."
 
 #### Fact Sheet:
 * The Gateway system holds the dubious honour of being the furthest incorporated Terran territory from Earth in the Spinward direction. It is therefore the first stop for new arrivals to human space from the Tiziran Empire, provided they're following legal channels to do so.

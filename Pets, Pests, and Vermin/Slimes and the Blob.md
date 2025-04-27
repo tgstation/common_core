@@ -1,4 +1,4 @@
-Slimes
+# Slimes
 
 Throughout mankind's time in the stars, they have encountered many diverse and interesting species. From other galactic faring civilizations, to incredible fauna, the universe is filled with many fantastic new varieties of alien life. And then, there are slimes.
 
@@ -11,5 +11,5 @@ Slimes also exhibit varying colours, seemingly with different characteristics. T
 Due to their extreme abundance, many scientists have tried to find a use for slimes, but seemingly to no avail. To this end, Nanotrasen has set up a new Xenobiology task force, with the intent to discover a use for these common pests. Many of Nanotrasen's top minds in this field suspect that the slime cores will be important to this eventual discovery.
 
 
-The Blob
+# The Blob
 Sometimes, something within a slime goes wrong. Much like a cancer, cells begin to divide unchecked, and the slime takes on a new, more unwholesome form. The common term for this phenomenon is Blobbing, and the organism that it creates is known, colloquially, as a blob. Blobs replicate endlessly, regardless of energy input, consuming anything in their path. An outbreak of one aboard a station becomes a serious risk to all life aboard.

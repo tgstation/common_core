@@ -2,35 +2,22 @@
 Ah, Sol. The centre of human space, and the ancestral homeland of every human throughout the galaxy today. As is probably expected from the centre of a galactic empire, the Sol System is densely populated (mostly in the central band), heavily industrialised, and full of opportunity. In addition, it's easily the safest human territory one could choose to live in, as any attackers (or pirates) will rapidly find themselves under the guns of half the TerraGov fleet stationed above the Moon.
 
 ### Luna: The Lunar Free Territory
+> "One day I took a trip up the stack, just for a look about. Sure, there was more finery, but the stink of blood's everywhere you go in Capra City, even if they try to mask it with smiles and roses upstairs."
 
 #### Fact Sheet:
 * As one of humanity's first settlements, Luna was originally settled prior to the foundation of TerraGov, instead being handled entirely by corporate entities from various nations on Earth. This created some friction at the outset of TerraGov's existence, which (after some debate) lead to the establishment of the Lunar Free Territory- the territory was incorporated into TerraGov's jurisdiction, but with significant economic freedom when compared with other federal regions. This loosening of red tape has allowed the Moon to flourish into an industrial heartland for humanity, with colossal shipyards and massive manufacturing plants.
 * Part of the agreement in founding the LFT was in allowing some legal autonomy to the governing corporations. Major laws passed down by TerraGov are still enforced on the planet, but most of the day-to-day legal system is handled instead under the jurisdiction of the Free Territory Committee, a board made up from representatives of the 12 Lunar corporations (and a 13th vote given to TerraGov to prevent deadlock, ostensibly due to their "continued cooperation in the success of the Lunar Free Territory"), and by the megacorps who run each region themselves.
-* As might be expected, the voting on the FTC can turn violent if it goes against some corporations interests- however, care is taken by all parties to minimise the collateral and keep their conflict on the down low, such that they can avoid attracting the wandering gaze of the slumbering giant of TerraGov.
-* The largest of the Moon's cities is Capra City, operated by the Italian fuel giant APdS S.p.A. and originally founded as a centre for helium harvesting and processing. While not the official capital, it is the first city that most people think of when picturing the Moon, and it pioneered the stack city concept that the rest of the Moon's urban centres would copy.
+* As might be expected, the voting on the FTC can turn violent if it goes against some corporations interests- however, care is taken by all parties to minimise the collateral and keep their conflict on the down low, such that they can avoid forcing TerraGov's willful ignorance to come to an ignominous end for all of them.
+* The largest of the Moon's cities is Capra City, operated by the Italian fuel giant APdA S.p.A. and originally founded as a centre for helium harvesting and processing. While not the official capital, it is the first city that most people think of when picturing the Moon, and it pioneered the stack city concept that the rest of the Moon's urban centres would copy.
 
 The Moon: ever a focus of Humanity's gaze. A muse for artists and romantics; an object of study and lofty goal for science, the first step into the final frontier. With all this in mind, it is perhaps no surprise that the Moon was one of the earliest bodies beyond Earth to be colonised as part of the Sol Rush. So early, in fact, that it was done prior to the "unification" of Earth under TerraGov. A number of independent moon colonies were founded during this period, under a total of 12 different corporations from various nations. Thanks to their efforts, Luna was heavily industrialised, taking advantage of the thin atmosphere, low gravity, and large swathes of virgin land to build massive shipyards and factories.
 
-When TerraGov did come into being, however, this created a problem. The nominally-independent Moon had relied for centuries on its status as an economic and industrial free zone, but humanity's centralised government claimed natural dominion over the Lunar body. This dispute escalated through the senate's halls, and then into the legal system, until the work of Chancellor Christian Ebert (and the resulting Lunar Free Zone Act) brought about the establishment of the Lunar Free Territory- an economic free area, under nominal TerraGov jurisdiction but with significant economic, industrial and legal liberties afforded to a newly-founded committee of the 12 ruling corporations. This deal allowed the Moon to remain an important hub for industry, while also giving TerraGov the ability to maintain important legal stability and territorial integrity in the Sol System.
+When TerraGov did come into being, however, this created a problem. The nominally-independent Moon had relied for centuries on its status as an economic and industrial free zone, but humanity's centralised government claimed natural dominion over the Lunar body. This dispute escalated through the senate's halls, and then into the legal system, until the work of the spectacularly corrupt Chancellor Christian Ebert (and the resulting Lunar Free Zone Act) brought about the establishment of the Lunar Free Territory- an economic free area, under nominal TerraGov jurisdiction but with significant economic, industrial and legal liberties afforded to a newly-founded committee of the 12 ruling corporations. This deal allowed the Moon to remain an important hub for industry, while also giving TerraGov the ability to maintain important legal stability and territorial integrity in the Sol System. Ebert himself went on to join the board of APdA shortly after his term ended, and eventually met his end in the gutters of Capra City, a victim of the system he worked so hard to create.
 
 Life on the Moon today is characterised by stratification. The dominant form of Lunar architecture, and the perfect example of this phenomenon, is the stack city- so named as it is tunneled into the surface, with wealthier citizens living on or near the surface underneath great domes, while beneath lie the poorer districts where the workers live.
 
-### Mars: Fuelling Humanity
-
-#### Fact Sheet:
-* The capital city of Mars is New Osaka, in the Arabia Sector. Originally founded as Oda Colony, the city has expanded to have a population of 10 million and hosts most of the planet's administrative and governmental functions. It is also known as the Red City, due to its red rock buildings constructed from local materials... and due to the frequent sandstorms that roll through its streets. It's not uncommon for entire weeks to be characterised by dust hanging heavy in the air.
-* The planet has a population of 850 million, spread mostly across the northern hemisphere where the flatter land permits more extensive construction.
-* Much of the planet's wealth comes from its plasma mines (of which 65% are in the Amenthes sector), although other minerals are also in relative abundance. Other major sectors include manufacturing, spacecraft construction, chemical production, and financial services. Tourism, funnily enough, does not rank amongst the top sectors, quite possibly because nobody wants to stare at endless dust.
-* Mars is the subject of ongoing terraforming attempts: a stable atmosphere has been introduced alongside enough vegetative life to sustain it, as well as a substantial amount of water, but much of the planet is still arid, useless dust. Future efforts are intended to focus on increasing soil fertility and planting a number of forests which are intended to act as the planet's lungs, similarly to the Amazon on Earth.
-* The planet's moons, Phobos and Deimos, are home only to small research outposts and mining operations, and host a population of around 1000 between them.
-
-As the closest planet to Earth, Mars has always captured Humanity's interest as a potential future expansion route off of our home planet. And in the late 21st Century, this goal would first be realised, with the foundation of a series of small scientific outposts. It would not be until the mid-22nd Century that the true value of Mars would be realised with the discovery of plasma in the Amenthes sector. Acting as the key to FTL flight and being used in more and more manufacturing processes, the mining operations on the planet would expand rapidly, and this necessarily drew more settlers to work the mines. Soon, a network of new, organised colonies would be set up by the companies with stakes in the mining operation.
-
-Alongside the foundation of these colonies, a major terraforming campaign was started with the aim of making the planet liveable, and this would proceed throughout the following centuries, with water being sourced from Neptune to create artificial water bodies, and large artificial atmospherics machines being constructed to provide a thick enough atmosphere to allow for plant life to survive. This atmosphere would become self-sufficient in the course of around a century, allowing the people of Mars to discard their helmets and bulky space suits while living on the planet- and further facilitating expansion of the colonies there.
-
-Now, Mars stands as a symbol of Humanity's ability to overcome harsh conditions, even if the planet is not Humanity's largest nor most prosperous colony.
-
 ### Venus: Living on Hell
+> "Six months on the sulfur stations: guess I pissed off the higher-ups."
 
 #### Fact Sheet:
 * Colonisation of Venus has been amongst Humanity's greatest challenges. Terraforming seems impossible: the solution instead has been to construct domed colonies for housing workers, maintained by a complex system of shielding and corrosion resistant coatings.
@@ -52,9 +39,10 @@ Venus was well explored by humanity prior to its colonisation, but never had any
 
 As one of the Sol system's primary sources of hydrogen and helium, Saturn is today considered critical to industrial manufacturing of sublight fuel, as well as providing fusionable material for large-scale power generation. In order to harvest these important gases, the atmosphere of Saturn must be tapped- and to accomplish this, the Gas Skimmer was born. A small, lightly manned vessel, gas skimmers maintain a tight orbit within the upper limits of the planet's atmosphere in order to capture and store gases which are then sent to orbital stations for separation, purification, and eventual sale/further manufacturing. The scale of this operation cannot be understated: to fuel humanity's advance to the stars, thousands of skimmers must be active at any given time. When one eventually outlives its usefulness, it is evacuated and allowed to drop into the crushing depths of Saturn's deep atmosphere, never to be seen again.
 
-The overall population on Saturn is estimated in the 10,000 range- of which around 3-4,000 are Gasjacks aboard the skimmers, and a further 7,000 sit in orbit.
+The overall population on Saturn is estimated in the 10,000 range- of which around 3-4,000 are Gasjacks aboard the skimmers, and the rest in orbit.
 
 ### Titan: Methane Seas
+> "HOWARD ORGANICS: BUILDING BLOCKS FOR CHEMISTRY"
 
 #### Fact Sheet:
 * Titan is of particular interest to humanity as a source of organic chemical material- useful building blocks for things like plastics, pharmaceuticals, food additives, and really anything that's important in the modern day. Given the depletion of oil reserves on Earth, the chemicals produced on Titan are critical for maintaining humanity's manufacturing capabilities.
@@ -69,6 +57,8 @@ In the 2200s, following attempts at conservation throughout the 21st and 22nd ce
 Now, Titan is inhabited by an estimated 8,000 people, spread across hundreds of extraction plants on the planet's surface- most of which are owned by Howard Organics.
 
 ### Jump Zero: A Long Way From Home
+> "Signed my papers and shook his hand; spent 2 long years on Padmanabhan"
+- "We're the PFI", Terran Army Cadence
 
 #### Fact Sheet:
 * Jump Zero was, until the first trip to Alpha Centauri, the furthest humans had ever managed to travel, being weeks from Earth. Now, it's less than a half hour's FTL cruise from Earth. How far we've come.
@@ -84,6 +74,8 @@ These days, Jump Zero's scientific purposes are all but depleted, as is much of 
 Of course, there's more behind the scenes, specifically on Eris...
 
 ### Eris: Away From Prying Eyes
+> "Let's see them aliens."
+> "Mate, you're a Tiziran. You are the aliens."
 
 #### Fact Sheet:
 * Taking advantage of the military presence permitted by Jump Zero, TerraGov made the entirety of Eris a restricted area, only for the use of the military. This has resulted in a lot of military infrastructure being set up across the planet- training grounds, production facilities (for approved corporations only), proving grounds, and monitoring equipment.

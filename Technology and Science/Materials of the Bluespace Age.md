@@ -1,4 +1,6 @@
 # Materials of the Bluespace Age
+> "Just as previous ages have been defined by a primary material of interest (take, for example, the stone age, the bronze age, the age of steam, the silicon age, et cetera), our current epoch is defined by bluespace crystals. This bluespace age can be said to have started with the Zhang incident of 2459, and has, in the span of one century, advanced our understanding of the universe more than the previous 25 put together..."
+- "Bluespace: A Century in Review": Dr Khánh Trong Pham, UCSF
 
 ### Plasma
 Plasma is a novel compound, first discovered by mankind in limited quantities on Mars in the Amenthes region, from which it draws its scientific name, Amenthium. Various "ores" of plasma exist, including Amenthite, Memnonite, Thaumasiatite, and Hellasite, each with varying amounts of plasma and other impurities, and almost all coming from the vast plasma mines of Mars. Of these, Amenthite is the most commonly found in human space, comprised of around 78% plasma, with 17% silicon and 5% trace impurities including iron oxides and carbon.

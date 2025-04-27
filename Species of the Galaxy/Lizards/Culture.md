@@ -1,6 +1,8 @@
 # Miscellaneous Culture of the Lizards
 
 ### Peliskpalo: The Tiziran Ball Game
+> "It's just not a good game unless someone breaks a rib."
+
 Peliskpalo (Game of War) is Tizira's "national" sport, played planetwide and popular amongst lizards of all colours, creeds and regions. Originally developed as a martial training exercise in the medieval period, the game would develop throughout the ages, with a standardised ruleset coming into play, alongside tournaments, and leagues. The first professional league was founded in the midst of the Industrial Revolution in Oskmarzel, and from there the game would take the world by storm.
 
 #### Rules:
@@ -11,6 +13,9 @@ A regulation Peliskpalo court is approx 80 metres long and 40 metres wide, with 
 Players wear only light protection, usually restricted to thin pads on sensitive areas.
 
 ### The Tiziran Currency
+> "Working with the Tizirans makes me damned glad we went decimal."
+- Unnamed Human Banker
+
 To understand Tiziran currency, it is first important to understand lizard mathematics- owing to the lizard physiology of 4 fingers per hand, many number systems on Tizira throughout history were to a base 8, instead of humanity's 10. From this, a hexadecimal number system developed to base 16, and this is today used across the planet. Lizard currency, therefore, is also to a base 16. The Tiziran Rena, or Crown, is the only official legal currency on Tizira, although Universal Credits are also frequently accepted by larger companies and in major cities.
 
 A complex systems of coins dominates the Rena, with coins representing fractions of a full Rena. The smallest increment is the sekata (half kata), which is 1/32th of a pelata or 1/512th of a rena. From there, the increments build up as such:
@@ -27,6 +32,9 @@ A complex systems of coins dominates the Rena, with coins representing fractions
 Currency below a few rena is frequently expressed as pelata/kata, as these are fairly convenient coins to carry. Rena notes exist to the base 16, in order of 8 rena, 16 rena, 32 rena, etc.
 
 ### Cityraisers: Masters of Civil Engineering
+> "Blessed be the builder, for by his claws is civilisation made."
+- Ancient Tiziran Saying
+
 When discussing lizardkind's greatest feats, many scholars turn to Tiziran civil engineering. From centuries of early industrialisation and harsh conditions, the Tizirans have developed an extremely strong ability at construction and engineering. This can be seen while wandering the streets of almost any Tiziran city, with lavishly detailed buildings that make no compromises on beauty nor functionality; grand urban gardens and parks; impressive statuary that captures centuries of history in stone. Indeed, life in a Tiziran city is in many ways idyllic.
 
 This collective experience started with the requirement to develop effective methods of water transport and distribution. Early Tiziran settlements were therefore characterised by strong centralisation and public works- qanats, canals, reservoirs and cisterns, and then the harnessing of the power of water via waterwheels to power the beginnings of industry. Much of these initial settlements have been lost to time and war as the centuries rolled by (although older regions still bear ruined aqueducts and other such telltale signs of history), but the experience in city planning that their use imparted can be seen even today.

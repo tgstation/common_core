@@ -3,6 +3,8 @@
 -A candid complaint from Laura Kripac, senior TerraGov intelligence officer, after learning Nanotrasen preempted TG on pulse weapon technology by ten years. The quote leaked to the press, and has been an unofficial motto among NT workers ever since. 
 ***
 
+![Nanotrasen logo](https://upload.wikimedia.org/wikipedia/commons/2/23/Nanotrasen_Logo.png)
+
 Nanotrasen is a very, very large and important company. A company so large, in fact, that at least half a century has passed since it became large enough to receive a charter from TerraGov to form its own expeditionary fleets and establish its own settlements outside the Sol system. While a large portion of their investments are tied up in Sol, they were notably the first private corporation to be granted such a charter and invest heavily in the distant reaches of space. At the time it was regarded as an incredibly risky gamble, and there was great speculation that all the money spent on exploring space and launching deep space missions would end up a waste that would sink the company, but the gambit has more than paid off and Nanotrasen's portfolio has soared since.
 
 Primarily an advanced research and development conglomerate, Nanotrasen also has skin in many other fields. While a great deal of their income still comes from producing public research funded by government research grants, their operations also include directly producing and selling their most profitable designs, leasing their asset protection forces to governments and private organizations (both space fleets and ground troops), logistics management with a specialization in remote settlement self-sufficiency, and maintaining interstellar communication infrastructures to name a few. The common theme that runs through most of their business ventures is taking the lessons they've learned from operating on such a massive scale and helping smaller organizations stretch themselves.
@@ -43,11 +45,7 @@ Notes:
 * Staffed by a slew of high ranking officials, including Admirals and Corporate Directors.
 
 
-# Sub-Entry: Nanotrasen Division of Asset Protection
-
-Location: Mostly active in Sol, some presence in Spinward Sector.
-
-Type of Org: Division of Nanotrasen
+# Sub-Entry: Asset Protection and Security Division
 
 Description: As close as Nanotrasen is legally allowed to come to owning a private army, and then some. The DAP is Nanotrasen's paramilitary wing, and on paper is in charge of protecting most of Nanotrasen's cargo ships, settlements, space stations, and other valuable assets from the hands of insurgents or pirates who may want to cause them harm. In reality, however, the DAP performs offensive operations at least as often as it performs defensive maneuvers, a fact that is often left out of their press material. Some of their offensive operations include black ops raids on corporate rivals, overrunning native populations on resource rich planets or asteroid belts, and lightning strikes on vulnerable cargo transports carrying desired goods; in short, the exact things they are charged with preventing.
 

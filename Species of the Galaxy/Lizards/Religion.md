@@ -1,4 +1,7 @@
 # Sitalesse: The Worship of the Heavens
+> "Praise be to Atrakor, our most divine protector and lord of the heavens. May you grant my ancestors peace and rest, and grant me strength to carry on in their name..."
+- A typical prayer to Atrakor
+
 The largest religion on Tizira, Sitalesse (Draconic, Sky Worship) is a polytheistic faith revolving around the worship of celestial bodies, subdivided into a number of subfaiths that place importance on specific deities. Having originally been born of the regions surrounding the Minosk, the religion was carried further afield by Classical-age imperial conquests, and then further again by colonialism. At the religion's peak in the Industrial Age, around 50% of the population of Tizira followed some form of Sitalesse. By the time of the settlement of Sulya, this number had dropped to about 30-35%. Now, following centuries of space travel, the rise and fall of Lacertism, and a general shift from devout religious practice, the religion is followed by only around 25% of the planet's population, and less so in the colonies.
 
 The principal subfaiths of Sitalesse are those that follow Atrakor, Tizira, Rizkalon, Sulya, Viomea and the Twin Moons Pelara and Iskil.
