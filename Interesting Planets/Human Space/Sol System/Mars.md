@@ -60,6 +60,8 @@ The destination of choice for any baseball fan, Cybersun Park is home to the New
 
 
 ## Prospect: the City of Food
+> "Over here, over here, two fresh ti-hoeh-koé, only 4 dollars! Great deal, you won't find cheaper or better anywhere else in Prospect!"
+
 Amongst the various cities of Mars, Prospect was a relative latecomer, having been founded after the terraforming of Mars had already been completed. What it lacks in history, however, it makes up for in spirit. Prospect has become a nexus for Mars' burgeoning culinary culture, with its night markets and hole-in-the-wall eateries setting the standard for which foods will be the next trends on Mars (and beyond).
 
 ### Arabia Street Night Market
@@ -73,6 +75,8 @@ Dominating the Prospect skyline, the San Ta, or Triple Towers, are a series of t
 
 
 ## Shu-Kouba: the Dusty City
+> "Now you think you've been around the block, you're a Martian, of course you've seen dust- well, until you visit Shu-Kouba, you haven't seen what a real duststorm looks like."
+
 Another of Mars' oldest cities, Shu-Kouba is one of Mars' foremost industrial centres, with its foundries processing thousands of tonnes of minerals from across the Red Planet. However, forges and factories aren't the only things that Shu-Kouba has to offer; it's also grown an incredible alternative culture, with an underground music and art scene that's put it on the map for punks everywhere.
 
 ### The DUSTY City

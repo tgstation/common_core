@@ -16,22 +16,6 @@ When TerraGov did come into being, however, this created a problem. The nominall
 
 Life on the Moon today is characterised by stratification. The dominant form of Lunar architecture, and the perfect example of this phenomenon, is the stack city- so named as it is tunneled into the surface, with wealthier citizens living on or near the surface underneath great domes, while beneath lie the poorer districts where the workers live.
 
-### Mars: Fuelling Humanity
-> "Arise, children of the Red Planet, for the Terrans have brought war; and they shall learn how Mars makes it!"
-
-#### Fact Sheet:
-* The capital city of Mars is New Osaka, in the Arabia Sector. Originally founded as Oda Colony, the city has expanded to have a population of 10 million and hosts most of the planet's administrative and governmental functions. It is also known as the Red City, due to its red rock buildings constructed from local materials... and due to the frequent sandstorms that roll through its streets. It's not uncommon for entire months to pass with dust hanging in the air.
-* The planet has a population of 850 million, spread mostly across the northern hemisphere where the flatter land permits more extensive construction.
-* Much of the planet's wealth comes from its plasma mines (of which 65% are in the Amenthes sector), although other minerals are also in relative abundance. Other major sectors include manufacturing, spacecraft construction, chemical production, and financial services. Tourism, funnily enough, does not rank amongst the top sectors, quite possibly because nobody wants to stare at endless dust.
-* Mars is the subject of ongoing terraforming attempts: a stable atmosphere has been introduced alongside enough vegetative life to sustain it, as well as a substantial amount of water, but much of the planet is still arid, useless dust. Future efforts are intended to focus on increasing soil fertility and planting a number of forests which are intended to act as the planet's lungs, similarly to the Amazon on Earth.
-* The planet's moons, Phobos and Deimos, are home only to small research outposts and mining operations, and host a population of around 1000 between them.
-
-As the closest planet to Earth, Mars has always captured Humanity's interest as a potential future expansion route off of our home planet. And in the late 21st Century, this goal would first be realised, with the foundation of a series of small scientific outposts. It would not be until the mid-22nd Century that the true value of Mars would be realised with the discovery of plasma in the Amenthes sector. Acting as the key to FTL flight and being used in more and more manufacturing processes, the mining operations on the planet would expand rapidly, and this necessarily drew more settlers to work the mines. Soon, a network of new, organised colonies would be set up by the companies with stakes in the mining operation.
-
-Alongside the foundation of these colonies, a major terraforming campaign was started with the aim of making the planet liveable, and this would proceed throughout the following centuries, with water being sourced from Neptune to create artificial water bodies, and large artificial atmospherics machines being constructed to provide a thick enough atmosphere to allow for plant life to survive. This atmosphere would become self-sufficient in the course of around a century, allowing the people of Mars to discard their helmets and bulky space suits while living on the planet- and further facilitating expansion of the colonies there.
-
-Now, Mars stands as a symbol of Humanity's ability to overcome harsh conditions, even if the planet is not Humanity's largest nor most prosperous colony.
-
 ### Venus: Living on Hell
 > "Six months on the sulfur stations: guess I pissed off the higher-ups."
 
