@@ -5,6 +5,7 @@ Even on a galactic scale, Sprout's fauna is particularly bizarre, beautiful and 
 ### Volthound
 
 >"It's not my volthound, it's my associate."
+ 
 -Kepler XVI, Trailwarden
 
 Danger Level: Medium
@@ -49,6 +50,7 @@ Hootos are occasionally tamed as mounts to traverse the deep rainforest, though 
 ### Dweller
 
 >"During one of our excursions outside the village, I must admit, I made the mistake of wandering off a little too far from our group, distracted by a type of flower I had not seen before. I was so lost in my thoughts that I did not even notice Kepler approaching before abruptly yanking me back onto the trail. Rude, I thought to myself! But I did not have time to voice my displeasure before I noticed the rock I was standing right in front of had eyes, and it was staring right at me."
+ 
 -"The Tourist's Survival Guide to Sprout", Vedika Bakshi
 
 Danger Level: Variable
@@ -88,6 +90,7 @@ Moondrifter skin is highly sought after for its extreme conductive properties an
 ### Gutterpede
 
 >"The most punctual public transport I've ever been on, and not the worst smelling either!"
+ 
 -"The Tourist's Survival Guide to Sprout", Vedika Bakshi
 
 Danger Level: Minimal
