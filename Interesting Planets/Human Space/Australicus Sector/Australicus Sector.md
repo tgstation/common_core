@@ -7,6 +7,9 @@ In terms of habitability, the Australicus sector is considered a minor miracle, 
 
 Constituting a federation of 11 stars (Kookaburra, Booderee, Adelaide, Elizabeth, King's Star, New Pembroke, Kinross, Topside and the two stars of the Zealandia Binary System, Majoris and Minoris), alongside a number of outlying territories, the Australicus sector has its own legislature, which represent it as a federal entity at the TerraGov Senate.
 
+![Star Chart of the Australicus Sector](australicus_star_chart.png)
+- Star Chart of the Australicus Sector
+
 ### Prison Worlds
 First surveyed during the first Spinward Rush, the 11 primary stars of the Australicus Sector were of particular notability for their habitability; numbering 15 planets regarded as fully habitable, alongside a number of potential terraforming candidates, the sector promised a future as a breadbasket, or even for permitting dense population of the type previously relegated to only a few planets across the Terran domain. However, this habitability cuts both ways: while the conditions are perfect for humans, they are also perfect for an incredible variety of local flora and fauna, most of which is incredibly hostile to human life.
 
