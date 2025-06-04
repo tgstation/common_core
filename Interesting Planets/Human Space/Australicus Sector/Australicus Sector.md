@@ -1,7 +1,7 @@
 # The Australicus Sector
-> "Course, once you get past the spiders, and the weather, and all that stuff... yeah, it's a fair dinkum place, really."
+> "Course, once you get past the beasties, and the weather, and all that stuff... yeah, it's a fair dinkum place, really."
 
-A sector in name only, the Australicus Sector is a subdivision of the Trailward Near Rim once used as a penal colony, and today known galaxywide for its hostile conditions, dangerous wildlife, and friendly populace.
+A sector in name only, the Australicus Sector is a subdivision of the Spinward Near Rim once used as a penal colony, and today known galaxywide for its hostile conditions, dangerous wildlife, and friendly populace.
 
 In terms of habitability, the Australicus sector is considered a minor miracle, with 18 fully habitable planets spread across its stars. Such unprecedented density of habitability, however, comes at a cost- the planets are home to an incredible array of flora and fauna, most of which wants you dead. While the Australican spiders are the most famous inhabitants, special mention also must be given to such species as the Kinross Redhead Snake, the River Snapper, and especially to the Drop Bear.
 
@@ -20,7 +20,6 @@ This was the way of life in the Australicus Sector for around 100 years, during 
 ### Australicus Federation
 
 ![Flag of the Australicus Federation](federal_flag.png)
-
 
 ## Geography of the Australicus Sector
 ## Australicus Proper
@@ -48,7 +47,7 @@ Of the primary Australican systems, Topside has the dubious honour of being the 
 
 ### Verwalis
 
-Rumours abound about the Verwalis system, with local legend saying that it's haunted by the ghosts of explorers past. Some fringe theorists posit that the entire system is located within a ![Delta-Void zone](Mysteries%20of%20the%20Spinward%20Sector/Myths,%20Superstitions%20and%20Cryptids.md).
+Rumours abound about the Verwalis system, with local legend saying that it's haunted by the ghosts of explorers past. Some fringe theorists posit that the entire system is located within a Delta-Void zone. No matter what causes it, however, many travellers within the system report feeling disconcerted or paranoid, that there are "unexplainable" events on their ships, and that a certain melancholy hangs heavy across everywhere the light from Verwalis touches.
 
 ### Zealandica Binary System
 Long considered the black sheep of the Australicus Federation, the twin stars of the Zealandica System (Zealandica Majoris and Zealandica Minoris) are unique in that they were never host to any penal colonies; due to this, and their distance from the wider sector, the Zealandicans have a similar, yet distinct, culture to that of Australicans. This manifests as a friendly rivalry between the Zealandicans and the rest of the Australicus Sector, mostly about who's better at rugby and who invented various desserts.
@@ -56,3 +55,12 @@ Long considered the black sheep of the Australicus Federation, the twin stars of
 The largest city of the Zealandican systems is Lancaster, located on Waterloo. In comparison to the wider sector, the planets of the Zealandican systems have mild climates and less hostile fauna, which has permitted them to become agricultural powerhouses.
 
 ### Outlying Territories
+
+## Population of the Australicus Sector
+In the centuries since its first settlements, the Australicus Sector has attracted a wide variety of settlers. After the initial waves of penal settlement came extensive waves of free settlers, each bringing with them their own culture and traditions. Throughout the years, this has formed a melting pot, giving the Australicus Sector a cosmopolitan culture that's defined by sardonic humour, a tendency towards non-seriousness, and a hospitality famous across the Terran Federation.
+
+Following the cessation of first-contact hostilities with the Tiziran Empire, the Australicus Sector became host to a small Tiziran émigré population, which has grown throughout the years into a sizeable minority, giving the Australicus Sector one of the highest relative populations of Tizirans within human space outwith of lands annexed as part of the Human-Lizard wars. Although the migrant community has reached a sufficient age to be mostly integrated, a few vestiges of old Tiziran culture have formed an integral part of Tiziro-Australican life, including the use of a pidgin language blending Federal Common and High Draconic (and an accent best described as "interesting"), the carrying forth of a number of Tiziran religions, and a number of adapted dishes that have become popular across the wider Australican culture. The cultural community is so old and so well-integrated that, for many Tiziro-Australicans, a life under TerraGov is all they've known, with little connection to their ancestor's homeworld. Unfortunately, the general tension between the Terran and Tiziran governments has also made life difficult for the Tiziro-Australicans, with each successive war bringing a new wave of hostility towards them from their human neighbours.
+
+The Australicus Sector has also become an important destination for Ethereals leaving Sprout, as a number of the Australican planets are quite similar to Sprout in terms of environment. Of particular value are Ethereal Trailwardens, whose survival expertise is considered priceless for colonial efforts on some of the sector's most inhospitable planets.
+
+Other alien expat communities within the Australicus Sector include scattered moths that chose to remain following visits to the sector by the Grand Nomad Fleet.
