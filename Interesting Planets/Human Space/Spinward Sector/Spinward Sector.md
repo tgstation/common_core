@@ -1,0 +1,19 @@
+## Spinward Sector
+> "The Spinward Sector, humanity's last great frontier. Better make the most of it: TerraGov ain't gonna ignore it forever, and when they do come down, they're going to come down hard."
+
+With the frontier finally having moved along past it towards the Tiziran Empire, increased attention from both TerraGov and corporations, and the collapse of the Third Soviet Union, some modicum of stability has finally began to settle in the Spinward Sector.
+
+![Spinward Sector Starchart: SSC](spinward_star_chart_ssc.png)
+- Star Chart of the Spinward Sector
+
+# Our Survey Says
+Human history within the Spinward Sector begins with the scattered exploration efforts undertaken by wildcat explorers during the early days of FTL travel. The systems of the sector were first surveyed during the mid 2300s, although humanity was in no particular position to exploit this knowledge at the time. For the next century, the sector would be mostly ignored by humanity, with most colonial efforts by the Terran population looking trailward. Small wildcat mining operations and minor corporate expeditions would occasionally set up shop, only to be lost or abandoned within a few years. All of this changed, however, with the arrival of the Red Tomorrow Society, who selected the Spinward Sector as the home of their new communist utopia: the Third Soviet Union.
+
+# A Red Tomorrow
+Under the Third Soviet Union, the Spinward Sector saw its first major colonial project, with the generation ships of the Red Tomorrow Society fanning out across a number of habitable systems in the region and putting down roots. As word spread, more settlers came to join the fledgling union, and the Third Soviet Union grew into a true society, with a sizeable population spread across a wide, if poorly developed, territory. 
+
+# The Sector Today
+The Spinward Sector has taken on a new degree of importance in the last decade or so. The Terran Federal border has progressively crept closer and closer to SSC space, and the two are now close enough that TerraGov has begun to exert true influence over the region, with the eventual goal of integrating the SSC into the wider federation and bringing the entire Spinward Sector into the Terran fold, as well as opening routes to the Tiziran Empire. At the same time, the increased quality of surveys of the region has attracted corporate attention, with the plasma bounty of Indecipheres being the ultimate prize for whichever corporation can take and hold it. While it may be a backwater by most Terran standards, the events unfolding within the Spinward Sector today are hugely important for the future of both the Federal government and the various corporations of human space.
+
+# The Permia Run
+The Permia Run is a key trade route, running between the Terran outpost system of Permia and the SSC-controlled system of Valeris Major. With the majority of the trailward portion of the Spinward Sector being Terra Nullius, piracy is a major concern for ships passing through the region. For this reason, the FVZ and Terran Navy operate joint patrols of this "safe" corridor to keep a channel open between the SSC and Terran territory. The Permia Run also forms a key part of the wider Kalon Route between the Terran Federation and Tiziran Empire, which runs via the Spinward Sector. Although not as busy as other trade routes between the two powers, the Kalon Route is an important artery nonetheless, and due to the relative lawlessness of parts of the route (and the ease of bribing Spinwarder officials) sees widespread use by smugglers bringing Tiziran goods into Terran territory, and by political refugees leaving the Tiziran Empire to seek asylum.
