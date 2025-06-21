@@ -9,22 +9,31 @@ Most divisions do not have strict uniform policies, instead making use of patche
 
 ### Vanguard Corps (VC)
 
+>"First to arrive, last to leave!"
+-Slogan from a VC recruitment poster
+
 The upper echelon and de facto military component of the Fleet, the Vanguard stands directly under the Junta in the chain of command.
 
 Unlike the rest of the fleet, Vanguard-specific vessels are not mixed with other divisions. Its members are handpicked from the best that the fleet has to offer, who will in turn fill the role of commanding officers when assigned to mixed crews.
 
 The VC's main tasks are forward scouting and the defence of the fleet. Their equipment is top of the line and always kept in perfect shape.
-It is the only division on the fleet with a strict uniform consisting of a dark grey boiler suit, or white for officers.
+It is the only division on the fleet with a strict uniform consisting of a dark grey g-suit, or white for officers.
 
 It has the smallest number of active servicemen during peace time compared to other divisions, although any and all members of the fleet may be conscripted to fight at any time if required. Preparing for the Vanguard's call is part of any young moth's training process.
 
 ### Engineering Support Unit (ESU)
+
+>"Someone's gotta keep this ship from exploding - 'cause it certanly will if I don't."
+-Anonymous Engineer
 
 The ESU is in charge of maintenance of existing ships, construction of new ones, and the decommissioning of old vessels. On occasion, their missions may also involve outpost construction, mining and salvaging operations. Beyond maintenance, their personal tasks also include piloting and navigation.
 
 Despite having no uniforms, engineering crew are easy to spot thanks to their flightsuits: a special harness designed to protect their rather cumbersome wings and keep them safe from all the sparking, scorching and moving parts of engine rooms. Few dare to work without them, and fewer manage to not regret it.
 
 ### Procurement Division (PD)
+
+>"You can always count on getting some sweet deals done when they come around - stuff you can rarely find anywhere else this side of the galaxy. Just try not to look like a sucker - they will rip you off if they can."
+-Heard around a trading post in the Spinward sector
 
 The Procurement Division has the gargantuan task of maintaining the fleet supplied with everything it needs from spare parts to food and anything inbetween. It is the second largest division in the fleet. Their assignments include all parts of the process from production to manufacturing and distribution. 
 Anything that can't be produced from within the fleet is traded for from outside sources. Trading missions are frequent and the most likely reason their vessels can be found in settled systems far away from the main fleet.
@@ -33,12 +42,18 @@ There are also rumors that the PD is responsible for the occasionally less than 
 
 ### Fleet Authority (FA)
 
+>"The Authority may be... overzealous at times, but if you got on their bad side - that's almost certanly on you."
+-"Murky"
+
 The Fleet Authority keeps the peace aboard the fleet and determining disciplinary actions for lawbreakers. They possess legislative, executive, and judicial power and their ranks go all the way from the equivalents of a beat cop to a judge. 
 A rather controversial organization for outsiders, the FA is often described as unjust and fickle among fleet exiles, more intent on working for the fleet's interests than serving justice. Still, perhaps also due to its reputation, the FA is relatively successful at keeping the peace.
 
 Commonly called "White Hats" for their recognizable helmets, they operate primarily aboard city-ships where drunken brawls and petty disputes are par for the course. Smaller vessels typically only have a single disciplinary officer on board, who is also in charge of communications and sending status reports to higher command.
 
 ### Standard Upkeep (SU)
+
+>"I hear one of you disrespect the SU again, you'll find out what it's like to go a week without rations."
+-Captain Sabersplit
 
 Widely considered to be the "civilian" section of the fleet, the Standard Upkeep division accounts for nearly two third thirds of the fleet's population. Its mission is to maintain the quality of life of all crewmembers and it casts a very wide net while doing so: from basic needs such as medical and mealmaking to janitorial duties and entertainment. In short: any job that does not fall into the of other divisions. 
 City-ships fall under the SU's command, massive ships that can house thousands of people living a relatively relaxed life not too dissimilar from if it were on any planetside settlement.
@@ -47,6 +62,9 @@ One should not mistake the SU as being of less importance or lower renown, howev
 Most young moths will do odd jobs for the SU while growing up before officially joining other divisions depending on their aptitude, learning many different and useful skills in the process.
 
 ### Eminent Retinues
+
+>"None of this would have been possible with some bureaucrat telling me how to run my ship. It's not a secret the Admiralty does not like my methods, but they understand results."
+-"Lady Snowblind", Captain of the Levante
 
 A rather recent addition to the Fleet's organization, Eminent Retinues are special groups led by one or more individuals (called Retainers) who have distinguished themselves for their leadership skills and have been sanctioned to lead their crew as they see fit, independently from the rest of the fleet. 
 
@@ -59,8 +77,8 @@ Some notable examples include:
 
 # The Third Sunrise Pariahs
 
-An infamous group of smugglers well known to Terragov authorities. They operate out of the famed Levante, a cargo freighter turned city-ship that offers any and all kinds of services and entertainment for locals and tourists alike.
-As the group operates within the confines of the Fleet's laws by suppling third-party smugglers from within the Fleet's domain, they remain untouchable despite their presence always being followed by a notable increase in contraband across the local markets.
+An infamous group of smugglers well known to Terragov security. They operate out of the famed Levante, a cargo freighter turned city-ship that offers any and all kinds of services - a popular stop for tourists and unsavory characters alike.
+Despite their infamy, the group operates within the laws of the fleet and never deals outside of its jurisdiction, leaving them so far untouchable by outside authorities.
 
 # Doubletime! Logistics
 
