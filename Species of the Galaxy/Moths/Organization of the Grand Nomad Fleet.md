@@ -75,10 +75,15 @@ As for why one would decide to follow the much more arduous path of independence
 Most retinues only account for a dozen or so members, only a handful have become big and powerful enough to have numbers over the three digits and they tend to be known by all in the fleet.
 Some notable examples include:
 
+# HulTac Salvaging
+
+Officially a team of salvage and demolition specialists, HulTac somehow found it's claim to fame as a mercenary firm specializing in ship security escorts and deep space rescue and retrieval. 
+With a reputation for efficiency and professionalism, they are especially sought after by trading corporations and magnates who wish to move precious cargo across less than safe territories. Indeed, although their salvaging operations are still ongoing between more lucrative mercenary contracts, it's a common joke that they seem to create more wrecks than they dismantle.
+
 # The Third Sunrise Pariahs
 
 An infamous group of smugglers well known to Terragov security. They operate out of the famed Levante, a cargo freighter turned city-ship that offers any and all kinds of services - a popular stop for tourists and unsavory characters alike.
-Despite their infamy, the group operates within the laws of the fleet and never deals outside of its jurisdiction, leaving them so far untouchable by outside authorities.
+As anything that happens within the confines of a fleet vessel remains within the fleet's jurisdiction, they have so far remained untouchable by outside authorities, despite all the trouble they seem to cause anywhere they go. 
 
 # Doubletime! Logistics
 
