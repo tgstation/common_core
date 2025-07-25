@@ -37,9 +37,6 @@ An ancient Earth military manufacturing concern. While their name has mostly fad
 # Nakamura Engineering
 A large construction and manufacturing corporation. Manufactures engineering equipment including hardsuits, RCDs and engine parts, and acts as a construction company for stations.
 
-# DeForest Medical Corporation
-A pharmaceutical company. Produces hypospray, various medical equipment, and operates civilian hospitals throughout human space.
-
 # HONK Ltd.
 A clown corporation. Famous for being the first to harness bananium. Produces clowning equipment, including hardsuits, synthetic banana shoes, and banana cream pies.
 

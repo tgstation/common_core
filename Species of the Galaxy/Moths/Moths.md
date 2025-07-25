@@ -71,13 +71,21 @@ Given it is made up of thousands of old vessels, and the Moths' legacy of piracy
 
 ***
 
-# Smugglers, Privateers and Exiles
+# Smugglers and Privateers
+
+>"Some of your cargo is being requisitioned. Stay put, do not approach the cargo bay and we'll all be on our merry way soon. Your vessel's systems have been disabled until then. Have a nice day."
+-Recorded hail from an unidentified mothic pirate ship
 
 Despite criminality in the fleet being almost absent, partially thanks to lax regulations in regards to narcotics and contraband, the same can't be said about the numerous pirate and smuggler crews that operate from within it. Although officially operating outside of its control, the fleet will often turn a blind eye to their activities as long as they keep contributing to the fleet's upkeep.
 
 Unsurprisingly, this has often put a strain on diplomatic relations. In an effort to remain under the radar, most crews adhere to an unofficial "honor code" that most importantly forbids any type of violence, which has contributed to the moths' reputation of being peace-loving to a fault. Yet the truth is much less glamorous: it is a code followed not for honor, but self-preservation as the fleet will immediately rescind any support and outlaw any crew found guilty of violent crimes to avoid any major diplomatic incidents.
 
-But outside of these caveats the fleet is remarkably tough on criminality, which has greatly contributed in maintaining its mostly crime-free status. 
+But outside of these caveats the fleet is remarkably tough on criminality, which has greatly contributed in maintaining its mostly crime-free status.
+
+# Fleet Exiles
+
+>"Criminals and traitors are one and the same. Those who go against our cause in favor of their egoistic desires have no place in the fleet."
+-Captain Sabresplit, high ranking fleet officer
 
 As the fleet does not include long term imprisonment as a punishment, disciplinary action ranges from having discretionary credits docked or temporary suspension from other fleet benefits, while major offences may result in permanent exile. Punishments for repeat offenders typically become exponentially more severe.
 

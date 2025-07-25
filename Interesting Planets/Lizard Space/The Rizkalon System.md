@@ -1,9 +1,13 @@
 ## Rizkalon System
+
 Almighty Rizaklon, the Sun-Queen, lifegiver and mother to all. The Rizkalon system is similar to Sol in many ways, acting as the centre of the vast lizard empire, as well as being the most densely populated and industrialised system under lizardkind's umbrella. It's also the safest region of lizard space due to the presence of the Imperial Navy.
 
 Interestingly, Rizkalon also shows relatively extensive precursor activity in the further reaches, dated millenia back.
 
 ### Sulya: Lizardkind's First Colony
+> "You know, conventional wisdom would state that a cold-blooded species should probably avoid a snowball."
+"I could say the same of you, human- your first colony didn't even have an atmosphere."
+"A fair point, well made."
 
 #### Fact Sheet:
 * Classified as a Snow World, Sulya is in the grips of a significant ice age. Forests dominate the central habitable band of the planet, with significant geothermal activity under the surface. Volcanoes are common, as are hot springs, and much of the population of the planet is clustered around these regions of warmth.
@@ -16,6 +20,7 @@ The closest planet to Tizira, Sulya was Lizardkind's first colony- over 700 year
 In the Tiziran pantheon, Sulya is one of Tizira's sisters, hailed as the Goddess of Hearth, Home, the Harvest, Cooking and, somewhat oddly, Athletes and Competition. The reason for this connection seems to have been lost to time, but it is still observed: the annual Imperial Games on Tizira is still dedicated in spirit to Sulya, although this is only lip service due to the secularisation of the state.
 
 ### Merina: The Salt, the Sand, and the Baking, Baking Sun
+> "...Well this sucks."
 
 #### Fact Sheet:
 * Merina is a sun-scorched wasteland. No life remains on its dried-up exterior, and no observable hydrosphere remains on its surface. In addition, its atmosphere is thin.
@@ -27,6 +32,8 @@ As another planet close to Tizira, Merina has long fascinated lizardkind. Howeve
 As the dead sister of Tizira, it is perhaps fitting that Merina is regarded as the Goddess of Time and Death in the Tiziran pantheon- oddly fitting, even, given that the Tizirans did not truly behold the devastation on Merina's surface before declaring her a Goddess. Note that the domain of Death does not extend to being the God of the Dead- that honour falls to Atrakor, as the protector of lost souls.
 
 ### Viomea: Scorched Remnants of an Empire Lost to Time
+> "For how close Viomea's ship graveyard is to Tizira, it's a wonder that whoever put them there decided to pass up the chance at colonising a habitable world."
+
 * Viomea is located on a similar orbital trajectory to Merina. The two pass alarmingly close to each other at times.
 * Widespread settlement of Viomea is impossible, despite the inherent value of the planet, as the environment is just too inhospitable to sustain long-term life.
 
