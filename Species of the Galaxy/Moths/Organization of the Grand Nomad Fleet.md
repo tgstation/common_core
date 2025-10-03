@@ -23,7 +23,7 @@ It has the smallest number of active servicemen during peace time compared to ot
 
 ### Engineering Support Unit (ESU)
 
->"Someone's gotta keep this ship from exploding - 'cause it certanly will if I don't."
+>"One is definitely going to explode - this ship, or my nerves."
 -Anonymous Engineer
 
 The ESU is in charge of maintenance of existing ships, construction of new ones, and the decommissioning of old vessels. On occasion, their missions may also involve outpost construction, mining and salvaging operations. Beyond maintenance, their personal tasks also include piloting and navigation.
@@ -32,7 +32,7 @@ Despite having no uniforms, engineering crew are easy to spot thanks to their fl
 
 ### Procurement Division (PD)
 
->"You can always count on getting some sweet deals done when they come around - stuff you can rarely find anywhere else this side of the galaxy. Just try not to look like a sucker - they will rip you off if they can."
+>"Hope you know how to haggle, they'll rip you off if you let them. But they got stuff you won't find anywhere this side of the galaxy."
 -Heard around a trading post in the Spinward sector
 
 The Procurement Division has the gargantuan task of maintaining the fleet supplied with everything it needs from spare parts to food and anything inbetween. It is the second largest division in the fleet. Their assignments include all parts of the process from production to manufacturing and distribution. 
@@ -52,7 +52,7 @@ Commonly called "White Hats" for their recognizable helmets, they operate primar
 
 ### Standard Upkeep (SU)
 
->"I hear one of you disrespect the SU again, you'll find out what it's like to go a week without rations."
+>"Disrespect your comrades from the SU again and I'll make sure you know what's like to go without rations for a week."
 -Captain Sabersplit
 
 Widely considered to be the "civilian" section of the fleet, the Standard Upkeep division accounts for nearly two third thirds of the fleet's population. Its mission is to maintain the quality of life of all crewmembers and it casts a very wide net while doing so: from basic needs such as medical and mealmaking to janitorial duties and entertainment. In short: any job that does not fall into the of other divisions. 
@@ -80,7 +80,7 @@ Some notable examples include:
 Officially a team of salvage and demolition specialists, HulTac somehow found it's claim to fame as a mercenary firm specializing in ship security escorts and deep space rescue and retrieval. 
 With a reputation for efficiency and professionalism, they are especially sought after by trading corporations and magnates who wish to move precious cargo across less than safe territories. Indeed, although their salvaging operations are still ongoing between more lucrative mercenary contracts, it's a common joke that they seem to create more wrecks than they dismantle.
 
-# The Third Sunrise Pariahs
+# The Third Hopeful
 
 An infamous group of smugglers well known to Terragov security. They operate out of the famed Levante, a cargo freighter turned city-ship that offers any and all kinds of services - a popular stop for tourists and unsavory characters alike.
 As anything that happens within the confines of a fleet vessel remains within the fleet's jurisdiction, they have so far remained untouchable by outside authorities, despite all the trouble they seem to cause anywhere they go. 
