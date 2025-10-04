@@ -80,7 +80,7 @@ Some notable examples include:
 Officially a team of salvage and demolition specialists, HulTac somehow found it's claim to fame as a mercenary firm specializing in ship security escorts and deep space rescue and retrieval. 
 With a reputation for efficiency and professionalism, they are especially sought after by trading corporations and magnates who wish to move precious cargo across less than safe territories. Indeed, although their salvaging operations are still ongoing between more lucrative mercenary contracts, it's a common joke that they seem to create more wrecks than they dismantle.
 
-# The Third Hopeful
+# The Third Hopefuls
 
 An infamous group of smugglers well known to Terragov security. They operate out of the famed Levante, a cargo freighter turned city-ship that offers any and all kinds of services - a popular stop for tourists and unsavory characters alike.
 As anything that happens within the confines of a fleet vessel remains within the fleet's jurisdiction, they have so far remained untouchable by outside authorities, despite all the trouble they seem to cause anywhere they go. 
