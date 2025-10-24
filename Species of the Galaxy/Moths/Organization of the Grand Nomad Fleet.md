@@ -23,8 +23,8 @@ It has the smallest number of active servicemen during peace time compared to ot
 
 ### Engineering Support Unit (ESU)
 
->"One is definitely going to explode - this ship, or my nerves."
--Anonymous Engineer
+>"This ship's been flying before any of us were born and it'll still fly long after we're gone, I'll make sure of it."
+-Anonymous
 
 The ESU is in charge of maintenance of existing ships, construction of new ones, and the decommissioning of old vessels. On occasion, their missions may also involve outpost construction, mining and salvaging operations. Beyond maintenance, their personal tasks also include piloting and navigation.
 
@@ -45,10 +45,10 @@ There are also rumors that the PD is responsible for the occasionally less than 
 >"The Authority may be... overzealous at times, but if you got on their bad side - that's almost certanly on you."
 -"Murky"
 
-The Fleet Authority keeps the peace aboard the fleet and determining disciplinary actions for lawbreakers. They possess legislative, executive, and judicial power and their ranks go all the way from the equivalents of a beat cop to a judge. 
+The Fleet Authority keeps the peace aboard the fleet and determines disciplinary actions for lawbreakers. They possess legislative, executive, and judicial power and their ranks go all the way from the equivalents of a beat cop to a judge. 
 A rather controversial organization for outsiders, the FA is often described as unjust and fickle among fleet exiles, more intent on working for the fleet's interests than serving justice. Still, perhaps also due to its reputation, the FA is relatively successful at keeping the peace.
 
-Commonly called "White Hats" for their recognizable helmets, they operate primarily aboard city-ships where drunken brawls and petty disputes are par for the course. Smaller vessels typically only have a single disciplinary officer on board, who is also in charge of communications and sending status reports to higher command.
+Commonly called "White Hats" for their recognizable helmets, they operate primarily aboard the city-ships where drunken brawls and petty disputes are par for the course. Smaller vessels typically only have a single disciplinary officer on board, who is also in charge of communications and sending status reports to higher command.
 
 ### Standard Upkeep (SU)
 
