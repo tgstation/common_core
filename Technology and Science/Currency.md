@@ -4,7 +4,7 @@ The Terran Unitary Dollar, or Uni for short, is the official currency of the Ter
 ## Nanotrasen Credit (₦)
 In Nanotrasen's various frontier holdings the Nanotrasen credit was adopted as a form of company scrip to make the company's internal economy easier to manage. Utilised only in and around facilities owned and operated by Nanotrasen, particularly those in deep space, this is also used to pay employees and for intracompany requisitions and cargo purchases.
 
-While the Credit is not legal tender outwith Nanotrasen, it doesn't stop it from being traded at times, outwith the company's internal economy. Some businesses close by to Nanotrasen facilities may accept it on an unofficial basis to encourage business from Nanotrasen employees, utilising other methods to convert it back to U¢ later down the line.
+While the Credit is not legal tender outside Nanotrasen, it's long and stable presence has served it well in organically establishing it as a fiat currency outwith the company's internal economy. Some businesses close by to Nanotrasen facilities may accept it on an unofficial basis to encourage business from Nanotrasen employees, utilising other methods to convert it back to U¢ later down the line. It's for this reason that other interests such as pirate gangs and the black market consortium are more than happy to take a few thousand credits as a good haul. That said, the farther from the company's influence you travel, the more likely your credits will be treated as no more than holo-napkins.
 
 Nanotrasen offers services to convert between credits and unitary dollars; the conversion rate is usually around 100₦ : 1U¢.
 
