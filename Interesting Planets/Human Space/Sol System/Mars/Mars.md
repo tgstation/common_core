@@ -32,6 +32,8 @@ Since the Concession, Mars has returned to its position as an industrial powerho
 
 # Martian Places
 ## New Osaka: the Red City
+- Region: Amenthes
+
 The shining capital of Mars, New Osaka has a storied history that acts as a microcosm of the planet as a whole. Originally settled by Cybersun Industries as one of several colonial ventures during the plasma boom, New Osaka (or Oda Colony, as it was known then) has been around longer than Mars' atmosphere. Following the terraforming, New Osaka became a nexus for colonisation on the Red Planet, experiencing a blistering rate of growth as part of Mars' Plasma Century. During the revolution, New Osaka became the focal point of the conflict and the seat of government of the Provisional Martian Republic, as well as experiencing heavy damage during the war due to orbital bombardment and pitched fighting in the streets. After Martian statehood, the Governor General took up office there, and made the city the official administrative capital of the State of Mars. Stories are etched in its red stone walls; indeliable tales of hardworking miners, freedom fighters, hardy pioneers, and the cultural patchwork that makes New Osaka the city it is today.
 
 ### Multicultural Mars
@@ -60,6 +62,7 @@ The destination of choice for any baseball fan, Cybersun Park is home to the New
 
 
 ## Prospect: the City of Food
+- Region: Amenthes
 > "Over here, over here, two fresh ti-hoeh-koé, only 4 dollars! Great deal, you won't find cheaper or better anywhere else in Prospect!"
 
 Amongst the various cities of Mars, Prospect was a relative latecomer, having been founded after the terraforming of Mars had already been completed. What it lacks in history, however, it makes up for in spirit. Prospect has become a nexus for Mars' burgeoning culinary culture, with its night markets and hole-in-the-wall eateries setting the standard for which foods will be the next trends on Mars (and beyond).
@@ -76,6 +79,7 @@ Dominating the Prospect skyline, the San Ta, or Triple Towers, are a series of t
 
 ## Shu-Kouba: the Dusty City
 > "Now you think you've been around the block, you're a Martian, of course you've seen dust- well, until you visit Shu-Kouba, you haven't seen what a real duststorm looks like."
+- Region: Tharsis
 
 Another of Mars' oldest cities, Shu-Kouba is one of Mars' foremost industrial centres, with its foundries processing thousands of tonnes of minerals from across the Red Planet. However, forges and factories aren't the only things that Shu-Kouba has to offer; it's also grown an incredible alternative culture, with an underground music and art scene that's put it on the map for punks everywhere.
 
@@ -87,3 +91,36 @@ Although Osaka might be its birthplace, and Hong Kong may be its adoptive home, 
 
 ### Cheers!
 Shu-Kouba is well known across the galaxy as Mars' premier brewing and distilling city. Amongst its many products, a few standouts include Ebisu and Moonlabor's ricebeers, a number of prestige sakes, and the city's namesake, Shu-Kouba-style shochu. As might be expected given this industry and the city's underground bar scene, Shu-Kouba is also very well known for its cocktails.
+
+
+## Mikēne: Mars' Fortress City
+Named for the ancient Greek city of Mycenae, Mikēne is famous as Mars' "Fortress City" for its high proportion of military installations, and for being the home to the personnel required to keep them running.
+
+### Mikēne-Kikura Spaceport
+After the scare of the First Contact War with the Tizirans, the decision was made to expand the Terran Navy's holdings within Sol, to ensure that humanity would have the military capability to both project power and defend the homefront should a full-scale war come with the Tizirans. With Earth itself largely unsuited to hosting a new military spaceport of the scale needed, Mars was instead selected as the home of humanity's largest terrestrial military installation, and with Mikēne already having the infrastructure needed due to the presence of Mikēne-Haneda spaceport, it was the obvious choice for where on Mars to situate it.
+
+Mikēne-Kikura is used as a terrestrial base for the Terran Defense Fleet's smaller vessels and starfighters, as well as a training station for starfighter pilots. Additionally, a number of regiments of Marines call Kikura home, including the 181st "Dust-Kickers" and the 13th "Lucky Stripes".
+
+### TerraGov Military Intelligence Central Command
+While the Citadel on Long Island might be the headquarters of the Terran Joint Military Command, Mikēne is host to the military's most important asset: its intelligence services. MICC operates out of an expansive campus in Mikēne's Rakotis Ward, with smaller satellite offices across the city, all feeding into keeping the Terran Military informed on campaign.
+
+### Mikēne-Haneda Spaceport
+Formerly Mikēne's military spaceport, Mikēne-Haneda has evolved to become the main commercial spaceport for the entire Lunae Palus region. As might be expected for its history, it's a rather spartan installation, with fewer amenities compared to its purpose-built counterparts in cities such as Prospect or Sanshi- despite being Mars' third busiest spaceport by passenger volume per year.
+
+### A Different Kind of Marine
+It isn't all soldiering all the time in Mikēne- the city has a number of other attractions, including shopping, museums, its unique cuisine; and, oddly, the Terran Galactic Marine Expo Aquarium (located at the UoM Campus, Mikēne), humanity's largest single collection of marine life from across the galaxy. Marvel at such species as the Tiziran Zagoskian Moonfish, 
+
+
+## Other Cities of Mars
+### Diacria Quadrangle
+	- 
+
+### Arcadia Quadrangle
+
+### Amenthes Quadrangle
+	- Menfis
+
+### Arabia Quadrangle
+	- Sanshi
+
+
