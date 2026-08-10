@@ -51,3 +51,6 @@ Produces consumables, including snacks, drinks and cigarettes.
 
 # Sophronia Broadcasting
 A Broadcasting Company. Behind 'Sophronia Broadcasting's Plasteel Chef', and 'Sophronia Broadcasting's History Comes Alive'. Also creates merchandise in the form of the Cook's Ingredient Beacon and Curator's Hero Beacon. The Company is believed by some to conduct mind control experiments on their viewers.
+
+# RoroCo
+A specialist manufacturer of personal protective equipment. RoroCo's flagship product is shock-proof rubber gloves for high-voltage electrical work. Despite repeated allegations of a dark secret behind the company's rubbery yellow mascot Roro, no misconduct has ever been proven.
