@@ -3,7 +3,7 @@
 > "It's the Red City, it's Mars' beating heart- it's New Osaka, baybee, and there ain't no city like it anywhere else in the galaxy!"
 - Region: Amenthes
 
-The shining capital of Mars, New Osaka has a storied history that acts as a microcosm of the planet as a whole. Originally settled by Cybersun Industries as one of several colonial ventures during the plasma boom, New Osaka (or Oda Colony, as it was known then) has been around longer than Mars' atmosphere. Following the terraforming, New Osaka became a nexus for colonisation on the Red Planet, experiencing a blistering rate of growth as part of Mars' Plasma Century. During the revolution, New Osaka became the focal point of the conflict and the seat of government of the Provisional Martian Republic, as well as experiencing heavy damage during the war due to orbital bombardment and pitched fighting in the streets. After Martian statehood, the Governor General took up office there, and made the city the official administrative capital of the State of Mars. Stories are etched in its red stone walls; indeliable tales of hardworking miners, freedom fighters, hardy pioneers, and the cultural patchwork that makes New Osaka the city it is today.
+The shining capital of Mars, New Osaka has a storied history that acts as a microcosm of the planet as a whole. Originally settled by Cybersun Industries as one of several colonial ventures during the plasma boom, New Osaka (or Oda Colony, as it was known then) has been around longer than Mars' atmosphere. Following the terraforming, New Osaka became a nexus for colonisation on the Red Planet, experiencing a blistering rate of growth as part of Mars' Plasma Century. During the revolution, New Osaka became the focal point of the conflict and the primary seat of government of the Provisional Martian Republic, as well as experiencing heavy damage during the war due to orbital bombardment and pitched fighting in the streets. After Martian statehood, the Governor General took up office there, and made the city the official administrative capital of the State of Mars. Stories are etched in its red stone walls; indeliable tales of hardworking miners, freedom fighters, hardy pioneers, and the cultural patchwork that makes New Osaka the city it is today.
 
 ### Multicultural Mars
 While all of Mars is quite cosmopolitan (especially in comparison to the rest of the Core Systems), there's nowhere on the Red Planet with a greater mix of cultures than New Osaka. From its roots as a colonial stake of a Japanese company, to later waves of migrant workers from across East Asia, and further mass migration in the wake of the terraforming, New Osaka is a true melting pot. This can be seen in the languages spoken: while the Japanese-based Martian Creole is an obvious standout, it's not uncommon to hear basically any human language while walking down the street, and even occasionally alien languages in certain areas of the city.
@@ -56,7 +56,7 @@ Another of Mars' oldest cities, Shu-Kouba is one of Mars' foremost industrial ce
 While there's nowhere on Mars that's truly free from Martian dust, there are few places where dust is as omnipresent and culture-defining as in Shu-Kouba. Due to a combination of geographic location and weather patterns introduced by terraforming, it's easier to count the number of days in a year where dust isn't hanging heavy in the air here. As a result, no city on Mars has adopted the underground lifestyle as heavily as Shu-Kouba has, with extensive underground construction. Above-ground, covered streets permit relatively normal living even when the duststorms are at their thickest.
 
 ### Cybersun's Third Home
-Although Osaka might be its birthplace, and Hong Kong may be its adoptive home, Shu-Kouba is easily Cybersun's most important holding off of Earth itself; with its key positioning close by to many of Ichikawa-Exagon's most important plasma mines, and hosting a large number of corporate-owned forges and foundries, Shu-Kouba is the beating heart of Cybersun's industrial empire, even if they no longer own it on paper.
+Although Osaka might be its birthplace, Hong Kong its adoptive home, and New Osaka its former crown jewel that got away from it, Shu-Kouba is easily Cybersun's most important holding off of Earth itself; with its key positioning close by to many of Ichikawa-Exagon's most important plasma mines, and hosting a large number of corporate-owned forges and foundries, Shu-Kouba is the beating heart of Cybersun's industrial empire, even if they no longer own it on paper.
 
 ### Cheers!
 Shu-Kouba is well known across the galaxy as Mars' premier brewing and distilling city. Amongst its many products, a few standouts include Ebisu and Moonlabor's ricebeers, a number of prestige sakes, and the city's namesake, Shu-Kouba-style shochu. As might be expected given this industry and the city's underground bar scene, Shu-Kouba is also very well known for its cocktails.
@@ -67,6 +67,15 @@ Shu-Kouba's unique nightlife has led to the rise of a new genre of music typical
 ### Alt Art
 Shu-Kouba is famous for its contributions to Martian Art Culture, mostly in the form of its culture surrounding tagging and street art. There is nary a tunnel in the Dusty City without some kind of art of its walls, ranging from basic tags to intricate murals.
 
+## Mikage: Second Fiddle to New Osaka
+- Region: Thaumasia
+While to the outsider it might appear as yet another typical Martian industrial city, Mikage played an integral role in the history of the Red Planet and continues to be a unique part of its cultural development- and with a deep rivalry throughout the years with New Osaka.
+
+### Plasma
+While New Osaka went on to be the most significant city on Mars overall, Mikage originally showed signs that it would take the top slot. For decades, the largest plasma mine on the planet was located at Asakura Colony, and the colony received much of the initial waves of settlers sent by Cybersun Industries during the original colonial phases. This fortune would only reverse with the discovery of the Alexander Vein running beneath Amenthes and Syrtis Major, which cemented Oda Colony's position as the primary stake on Mars. However, this never fully counted Mikage out, as could be seen when the time came to give plasma a proper chemical name- Thaumasium was a popular working name for the material, before Amenthium was eventually selected. Mikage still remains an important contributor to Mars' plasma supply.
+
+### Revolution and Reaction
+During the Martian Revolution, Mikage's population was split on loyalties, largely due to their rivalry with New Osaka. Eventually, the city would declare itself as loyalist, becoming an important stronghold for the Terran forces operating in Mars' southern hemisphere and functioning largely as the loyalist "capital" during the civil war.
 
 ## Mikēne: Mars' Fortress City
 > "It's easy to pick out Mikēne from orbit. Just look for the giant spaceport- you'll know it when you see it, trust me."
@@ -89,6 +98,7 @@ It isn't all soldiering all the time in Mikēne- the city has a number of other 
 
 ### Cultural Exchange
 Mikēne is the city on Mars with the highest proportion of offworlders; only around 60% of the population is native-born Martian. This has led to the city developing a unique culture of its own even within the Martian melting pot, with influence from human populations across Terran space.
+
 
 ## Other Cities of Mars
 ### Diacria Region
