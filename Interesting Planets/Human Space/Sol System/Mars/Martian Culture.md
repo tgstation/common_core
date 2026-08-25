@@ -1,0 +1,10 @@
+# Martian Culture
+
+## Red Bay Seasoning
+> "250年間火星の味 - MARS' FAVORITE SPICE"
+
+Ask an offworlder what they associate with Martian cuisine, and you're likely to get a few answers: maybe ramen, maybe sushi, probably some mention of fried foods. But for those who truly understand the Red Planet, one answer reigns supreme over the rest, and that is Red Bay Seasoning.
+
+Red Bay first hit the Martian culinary scene in Shu-Kouba's own Bar President, owned and operated by an expat from the city of Baltimore. Originally a house blend for fries, the seasoning became a hit with the local crowds, and was adopted into the local food scene and then by Zanshiro Foods (now a subdivision of APdA), who began to market the spice under the name it is now synonymous with. After the 2310 Martian Grand Slam final brought Mars' masses to Shu-Kouba, it became a planetwide hit.
+
+Red Bay is now a massive product, sold across the Terran Federation (and beyond- the Moths love it!), but no planet has a greater affection for it than its homeworld of Mars. It's a staple seasoning in Martian kitchens, to a degree that ranges from understandable, such as its use in CHAP Musubi or as a topping for ramen, to the frankly baffling, such as the Red Bay latte or Red Bay chocolate. However, its cultural reach is far beyond just its use in food; Red Bay is an iconic symbol of Mars, and for this reason its iconography is very popular in merchandising and art on the Red Planet. Polling suggests that Kani-Chan, Red Bay's delightful chibi snow-crab mascot, is more popular on Mars than the Terran president by a wide margin; indeed, in the early 2400s a parody political party led by a man in a Kani-Chan outfit gained a surprising amount of grassroots support for the Martian Governorship-General before meeting an ignominious end via a major lawsuit from Zanshiro Foods. This stunt did, however, make Kani-Chan a focal point of the Martian counterculture even to this day.
